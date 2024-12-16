@@ -1,5 +1,5 @@
 import pandas as pd
-import json 
+import json
 
 
 class AdAutomation:
@@ -7,6 +7,7 @@ class AdAutomation:
         # Initialize any required variables or objects
         pass
 
+    @staticmethod
     def getUserData(user):
         """
         Reads user browsing data from CSV, converts to JSON, and returns the JSON data.
@@ -35,6 +36,7 @@ class AdAutomation:
             "top_3_websites": top_3_websites         # Top 3 websites and their counts
         }
         return result
+
     def automate_ad(self, ad_data):
         """
         Automate ad processing logic.
@@ -76,4 +78,5 @@ class AdAutomation:
 # Example usage
 if __name__ == "__main__":
     ad_automation = AdAutomation()
-    ad_automation.main()
+    user_data = ad_automation.getUserData(0)  # Call the method via the class or instance
+    print(json.dumps(user_data, indent=4))
