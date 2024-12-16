@@ -27,7 +27,7 @@ class AdAutomation:
         json_data = df_targeted.to_json(orient='records', indent=4)
 
         # Save filtered data to a file
-        with open(f'user_{user}_data.json', 'w') as json_file:
+        with open(f'./userData/user_{user}_data.json', 'w') as json_file:
             json_file.write(json_data)
 
         # Return both the filtered data and top 3 websites
