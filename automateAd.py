@@ -48,7 +48,7 @@ class AdAutomation:
         prompt = (f'''Below is browsing information about a user and the top 3 websites that the user visited: ${ad_data}
                     
                     
-                    based on the user's browser history and all you know about him, create an ad in a paragraph for each website. Make sure the website is in the JSON file under top_3_websites. 
+                    based on the user's browser history and all you know about him, create an ad in a paragraph for only the number 1 website he visited. Make sure the website is in the JSON file under top_3_websites. 
                     The ad should be engaging, persuasive, and exciting. Make sure the ad includes a product related call to action to the audience. 
                 ''')
 
@@ -63,7 +63,7 @@ class AdAutomation:
             ]
         )
 
-        response_content = completion.choices[0].message
+        response_content = completion.choices[0].message.content
         with open('chatGPT_Response.txt', 'w') as file:
             file.write(f'prompt: {prompt}\nresponse: {response_content}')
 
@@ -85,17 +85,27 @@ class AdAutomation:
         :return: Audio data or file
         """
         # Add logic for text-to-speech conversion
-        pass
+        try:
+            response = self.client.audio.speech.create(
+                model="tts-1",
+                voice="alloy",
+                input=text,
+            )
+            response.stream_to_file("Test_Output.mp3")
+            print("Audio saved as Test_Output.mp3")
+        except Exception as e:
+            print(f"Error in text-to-speech: {e}")
 
     def main(self):
         """
         Main method to execute the workflow.
         """
         # Example workflow:
-        user_data = self.getUserData(0)
-        print(json.dumps(user_data, indent=4))
+        user_data = self.getUserData(4)
+        # print(json.dumps(user_data, indent=4))
         ad_response = self.automate_ad(user_data)
-        print("Generated Ads:", ad_response)
+        # print("Generated Ads:", ad_response)
+        text_to_speech = self.text_to_speech(ad_response)
 
 
 # Example usage
