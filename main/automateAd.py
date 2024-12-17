@@ -15,7 +15,7 @@ class AdAutomation:
         :param user: User ID or identifier
         :return: JSON representation of the user's data
         """
-        df = pd.read_csv(f'./synthetic-browsing-history/Israel/synthetic-browsing-history-IL_{user}.csv')
+        df = pd.read_csv(f'.data/userData/synthetic-browsing-history/Israel/synthetic-browsing-history-IL_{user}.csv')
 
         # Filter rows where 'original_content' is 'Shopping'
         df_targeted = df[df['original_content'] == 'Shopping']
@@ -64,7 +64,7 @@ class AdAutomation:
         )
 
         response_content = completion.choices[0].message.content
-        with open('chatGPT_Response.txt', 'w') as file:
+        with open('../chatGPT_Response.txt', 'w') as file:
             file.write(f'prompt: {prompt}\nresponse: {response_content}')
 
         return response_content
