@@ -1,14 +1,15 @@
 import pandas as pd
 import json
+from openai import OpenAI
+import os
 
 
 class AdAutomation:
     def __init__(self):
         # Initialize any required variables or objects
-        pass
+        self.client = OpenAI(api_key = os.getenv("OPENAI_API_KEY"))
 
-    @staticmethod
-    def getUserData(user):
+    def getUserData(self, user):
         """
         Reads user browsing data from CSV, converts to JSON, and returns the JSON data.
         :param user: User ID or identifier
@@ -43,7 +44,30 @@ class AdAutomation:
         :param ad_data: The ad data to process
         """
         # Add logic to automate ads
-        pass
+        client = self.client
+        prompt = (f'''Below is browsing information about a user and the top 3 websites that the user visited: ${ad_data}
+                    
+                    
+                    based on the user's browser history and all you know about him, create an ad in a paragraph for each website. Make sure the website is in the JSON file under top_3_websites. 
+                    The ad should be engaging, persuasive, and exciting. Make sure the ad includes a product related call to action to the audience. 
+                ''')
+
+        completion = client.chat.completions.create(
+            model = 'gpt-4o-mini',
+            messages=[
+                {"role": "system", "content": "You are an ad creator."},
+                {
+                    "role": "user",
+                    "content": prompt
+                }
+            ]
+        )
+
+        response_content = completion.choices[0].message
+        with open('chatGPT_Response.txt', 'w') as file:
+            file.write(f'prompt: {prompt}\nresponse: {response_content}')
+
+        return response_content
 
     def speech_to_text(self, audio):
         """
@@ -68,15 +92,13 @@ class AdAutomation:
         Main method to execute the workflow.
         """
         # Example workflow:
-        audio_input = None  # Placeholder for audio input
-        ad_text = self.speech_to_text(audio_input)
-        self.automate_ad(ad_text)
-        audio_output = self.text_to_speech(ad_text)
-        return audio_output
+        user_data = self.getUserData(0)
+        print(json.dumps(user_data, indent=4))
+        ad_response = self.automate_ad(user_data)
+        print("Generated Ads:", ad_response)
 
 
 # Example usage
 if __name__ == "__main__":
     ad_automation = AdAutomation()
-    user_data = ad_automation.getUserData(0)  # Call the method via the class or instance
-    print(json.dumps(user_data, indent=4))
+    ad_automation.main()
