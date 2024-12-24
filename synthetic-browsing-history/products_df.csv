@@ -1,0 +1,40 @@
+id,name,category,price,company
+1,Air Force 1s,fashion,120.0,TrendWear
+2,MacBook Pro,electronics,1999.99,TechCo
+3,Hydro Flask,beverages,45.0,GourmetWorld
+4,Herman Miller Chair,office,1400.0,OfficePro
+5,Dell XPS 13,electronics,1099.99,TechCo
+6,Nike Running Shoes,fitness,150.0,FitLife
+7,Coleman Sundome Tent,outdoor,89.99,AdventureCo
+8,North Face Backpack,accessories,99.99,AccessoryHub
+9,Galaxy S21,electronics,799.99,TechCo
+10,Peloton Bike,fitness,2499.0,FitLife
+11,Apple Watch Series 7,electronics,399.0,TechCo
+12,Yeti Tumbler,beverages,30.0,GourmetWorld
+13,Fitbit Charge 5,fitness,129.95,FitLife
+14,Kindle Paperwhite,electronics,139.99,TechCo
+15,Samsonite Spinner Luggage,accessories,200.0,AccessoryHub
+16,GoPro Hero 11,electronics,499.99,TechCo
+17,Dyson V15 Vacuum,home,699.99,HomeStyle
+18,Instant Pot Duo,home,119.0,HomeStyle
+19,Lululemon Yoga Pants,fashion,98.0,TrendWear
+20,Ray-Ban Aviator Sunglasses,accessories,179.99,AccessoryHub
+21,Echo Dot (5th Gen),electronics,49.99,TechCo
+22,Schwinn Mountain Bike,outdoor,599.99,AdventureCo
+23,Patagonia Rain Jacket,outdoor,149.0,AdventureCo
+24,Bose QuietComfort Earbuds,electronics,279.0,TechCo
+25,Standing Desk Converter,office,350.0,OfficePro
+26,Nespresso Vertuo Plus,home,159.99,HomeStyle
+27,Theragun Elite,fitness,399.0,FitLife
+28,Roku Streaming Stick 4K,electronics,49.99,TechCo
+29,Columbia Hiking Boots,outdoor,129.99,AdventureCo
+30,Tile Mate (4-Pack),electronics,69.99,TechCo
+31,Weber Charcoal Grill,home,159.99,HomeStyle
+32,Canon EOS M50,electronics,649.0,TechCo
+33,Osprey Hiking Backpack,outdoor,189.99,AdventureCo
+34,Under Armour Compression Shirt,fitness,49.99,FitLife
+35,Google Nest Hub,electronics,99.99,TechCo
+36,Keurig K-Elite Coffee Maker,home,139.99,HomeStyle
+37,Samsung 4K UHD TV,electronics,599.99,TechCo
+38,Columbia Rain Pants,outdoor,89.99,AdventureCo
+39,Fossil Smartwatch,accessories,199.99,AccessoryHub

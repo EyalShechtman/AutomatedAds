@@ -1,61 +1,82 @@
 import pandas as pd
-import json
 from openai import OpenAI
 import os
-
+import recs
+import random
 
 class AdAutomation:
     def __init__(self):
         # Initialize any required variables or objects
         self.client = OpenAI(api_key = os.getenv("OPENAI_API_KEY"))
 
-    def getUserData(self, user):
+    def get_user_history(self, user_id):
         """
-        Reads user browsing data from CSV, converts to JSON, and returns the JSON data.
-        :param user: User ID or identifier
-        :return: JSON representation of the user's data
+        Retrieve user history based on user_id from events_df.
+        :param user_id: ID of the user
+        :return: Dictionary containing user interaction history
         """
-        df = pd.read_csv(f'./synthetic-browsing-history/Israel/synthetic-browsing-history-IL_{user}.csv')
+        # Get all events for the user
+        events_df = pd.read_csv('./synthetic-browsing-history/events_df.csv')
+        user_events = events_df[events_df["User_id"] == user_id]
 
-        # Filter rows where 'original_content' is 'Shopping'
-        df_targeted = df[df['original_content'] == 'Shopping']
+        # Extract ads with specific interaction scores
+        clicked_ads = user_events[user_events["Interaction_score"] == 2][
+            ["Interaction_score", "product_name", "product_category"]
+        ]
+        converted_ads = user_events[user_events["Interaction_score"] == 4][
+            ["Interaction_score", "product_name", "product_category"]
+        ]
 
-        # Extract domain names and count visits
-        df['domain'] = df['synthetic_url'].apply(lambda x: x.split('/')[2])  # Extract domain from URL
-        top_3_websites = df['domain'].value_counts().head(3).to_dict()  # Top 3 websites and their counts
-
-        # Convert filtered 'Shopping' content to JSON
-        json_data = df_targeted.to_json(orient='records', indent=4)
-
-        # Save filtered data to a file
-        with open(f'./userData/user_{user}_data.json', 'w') as json_file:
-            json_file.write(json_data)
-
-        # Return both the filtered data and top 3 websites
-        result = {
-            "filtered_data": json.loads(json_data),  # Filtered JSON data
-            "top_3_websites": top_3_websites         # Top 3 websites and their counts
+        # Combine data into user history
+        user_history = {
+            "user_id": user_id,
+            "clicked_ads": clicked_ads,
+            "converted_ads": converted_ads,
+            "all_interactions": user_events[
+                ["Interaction_score", "product_name", "product_category"]
+            ],
         }
-        return result
+        return user_history
 
-    def automate_ad(self, ad_data):
+    def automate_ad(self, ad_data, user_id):
         """
         Automate ad processing logic.
-        :param ad_data: The ad data to process
+        :param ad_data: The top 5 recommended ads
+        :param user_id: The user in need of an ad
         """
-        # Add logic to automate ads
-        client = self.client
-        prompt = (f'''Below is browsing information about a user and the top 3 websites that the user visited: ${ad_data}
-                    
-                    
-                    based on the user's browser history and all you know about him, create an ad in a paragraph for only the number 1 website he visited. Make sure the website is in the JSON file under top_3_websites. 
-                    The ad should be engaging, persuasive, and exciting. Make sure the ad includes a product related call to action to the audience. 
-                ''')
 
+        client = self.client
+        history = self.get_user_history(user_id)
+
+        clicked_ads = history['clicked_ads']
+        converted_ads = history['converted_ads']
+
+        prompt = f"""
+                Below are the top 5 ads recommended for the user:
+                {ad_data}
+
+                User interaction history:
+                - Clicked Ads: {clicked_ads}
+                - Converted Ads: {converted_ads}
+
+                Considering the ads provided, pick the best one based on the user's interactions. 
+                Interaction_score is defined as follows: {{skipped: 0, impression: 1, click: 2, conversion: 4}}. 
+                
+                Create an ad for an accessory or complementary product to something the user has successfully converted, 
+                or generate an ad for one of the top 5 ads that the user clicked on, 
+                Make the ad engaging, persuasive, and exciting.
+
+                Example of an ad:
+                Unlock your creative potential with Canva! Design stunning graphics, presentations, and social media posts with ease, 
+                even if you have no design experience. Our intuitive drag-and-drop interface, combined with a treasure trove of templates and elements, 
+                makes it simple to bring your ideas to life. Whether you're promoting your business, preparing for an event, or just want to share 
+                something fabulous with friends, Canva is your go-to design partner. Join millions of satisfied users and try Canva for free today—your masterpiece is just a click away!
+                """
+        
         completion = client.chat.completions.create(
             model = 'gpt-4o-mini',
             messages=[
-                {"role": "system", "content": "You are an ad creator."},
+                {"role": "system", "content": "You are an ad creator for spotify, this ad will be put into speech to text, so be energetic."},
                 {
                     "role": "user",
                     "content": prompt
@@ -64,9 +85,10 @@ class AdAutomation:
         )
 
         response_content = completion.choices[0].message.content
-        with open('chatGPT_Response.txt', 'w') as file:
+        with open('chatGPT_Response.txt', 'a') as file:
             file.write(f'prompt: {prompt}\nresponse: {response_content}')
 
+        print(response_content)
         return response_content
 
     def speech_to_text(self, audio):
@@ -91,21 +113,22 @@ class AdAutomation:
                 voice="alloy",
                 input=text,
             )
-            response.stream_to_file("Test_Output.mp3")
+            response.write_to_file("Test_Output.mp3")
             print("Audio saved as Test_Output.mp3")
         except Exception as e:
             print(f"Error in text-to-speech: {e}")
+
+
 
     def main(self):
         """
         Main method to execute the workflow.
         """
-        # Example workflow:
-        user_data = self.getUserData(4)
-        # print(json.dumps(user_data, indent=4))
-        ad_response = self.automate_ad(user_data)
-        # print("Generated Ads:", ad_response)
-        text_to_speech = self.text_to_speech(ad_response)
+        user_id = random.randint(1, 99)
+        device_type = random.choice(['mobile', 'tablet', 'desktop'])
+        ad_rec = recs.Similar_Users().recommend_ads(user_id, device_type)
+        ad_response = self.automate_ad(ad_rec, user_id)
+        # text_to_speech = self.text_to_speech(ad_response)
 
 
 # Example usage

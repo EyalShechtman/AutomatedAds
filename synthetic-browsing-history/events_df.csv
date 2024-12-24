@@ -1,0 +1,1001 @@
+events_id,User_id,ad_id,Interaction_score,device_type,geo_location,Product_id,product_name,product_category,conversion_value,timestamp
+ba44d39c-19a6-4906-a336-a0aec8b74168,84,23.0,1,desktop,Tammyview,4,Herman Miller Chair,office,0.0,2024-06-15T03:26:03.892436
+260829e4-c2b4-43ae-9bd6-83c868ee1b3c,66,37.0,0,mobile,South John,32,Canon EOS M50,electronics,0.0,2024-08-27T03:26:03.892573
+c642fa03-5d5b-4e2b-a604-17b13dc6e73a,79,,2,tablet,South Michael,39,Fossil Smartwatch,accessories,0.0,2024-04-30T03:26:03.892675
+25f234d7-e34e-4b93-8c2f-da41b51860cd,60,4.0,1,desktop,Port Nathanview,22,Schwinn Mountain Bike,outdoor,0.0,2024-07-30T03:26:03.892778
+af4684f3-5bb8-41c2-af43-c4824d89d526,24,,4,mobile,East Nichole,3,Hydro Flask,beverages,45.0,2024-12-10T03:26:03.892873
+b32bf30b-f388-4f5e-b13d-324d182e49ac,92,19.0,1,mobile,New Cynthiaside,15,Samsonite Spinner Luggage,accessories,0.0,2024-02-23T03:26:03.892973
+2beec22f-693b-4ef2-a9af-c0609c7e9a7e,68,,4,tablet,Kaylabury,26,Nespresso Vertuo Plus,home,159.99,2024-07-11T03:26:03.893067
+658239c4-2fd7-4135-9ea1-d98320b1359c,28,29.0,4,tablet,Michelleville,4,Herman Miller Chair,office,1400.0,2024-01-24T03:26:03.893159
+47bc156c-fb97-4e7c-a3f6-108eb1210dd7,58,4.0,1,mobile,New Brooke,26,Nespresso Vertuo Plus,home,0.0,2024-04-29T03:26:03.893252
+2041b840-57f4-4837-ad25-08267078e8ee,50,,2,mobile,North Phillip,5,Dell XPS 13,electronics,0.0,2024-11-06T03:26:03.893366
+2d1a5bb7-9fa3-4b38-aab6-992ce0cc7092,85,22.0,1,tablet,Allenstad,26,Nespresso Vertuo Plus,home,0.0,2024-08-22T03:26:03.893532
+3ba263f5-c3a5-4bf0-b1c9-27694803bda3,37,,2,desktop,East Crystal,17,Dyson V15 Vacuum,home,0.0,2024-11-01T03:26:03.893636
+e6c5d28d-5475-4767-8cf4-1c0d174f3dda,52,32.0,4,tablet,West Ricardochester,21,Echo Dot (5th Gen),electronics,49.99,2024-04-16T03:26:03.893735
+56a5d176-482b-48fb-9f4e-f909d6c4b14d,42,,2,tablet,North Wendy,1,Air Force 1s,fashion,0.0,2024-07-22T03:26:03.893827
+2d6f90ba-b3a1-49a9-9908-a960272692a7,87,24.0,4,tablet,Port Dawnchester,3,Hydro Flask,beverages,45.0,2024-02-10T03:26:03.893923
+2485e5dc-4191-4d1e-9931-be1bfdbe19bd,18,,2,desktop,New Catherineborough,12,Yeti Tumbler,beverages,0.0,2024-12-02T03:26:03.894026
+bf3f33eb-e669-4551-aa5e-75adf3d804be,35,,4,tablet,Carpentertown,22,Schwinn Mountain Bike,outdoor,599.99,2024-03-10T03:26:03.894163
+ea7bb42e-9c68-41f3-8116-f9e571c622c3,92,9.0,0,desktop,West Miranda,13,Fitbit Charge 5,fitness,0.0,2024-10-19T03:26:03.894258
+5da624e3-6f02-4321-bd71-01a7e7f47576,8,22.0,4,desktop,Douglashaven,12,Yeti Tumbler,beverages,30.0,2024-09-30T03:26:03.894417
+c3ab3c4f-c945-4df1-96d2-9ce27227c64f,37,30.0,2,mobile,New Teresastad,5,Dell XPS 13,electronics,0.0,2024-01-17T03:26:03.894537
+55691d2a-9d41-4b23-9492-c9a30e30c0f2,10,,4,desktop,Amyburgh,34,Under Armour Compression Shirt,fitness,49.99,2024-03-17T03:26:03.894630
+35ea6743-29ac-4ff5-bd35-183b9e92a9d3,52,32.0,1,desktop,Aguilarfurt,32,Canon EOS M50,electronics,0.0,2024-03-16T03:26:03.894755
+0b26960b-e689-458f-a74a-ded0e89d7cd4,8,,4,desktop,Kellyshire,29,Columbia Hiking Boots,outdoor,129.99,2024-02-04T03:26:03.894877
+9bc3cef3-3829-4759-8e41-e60b0fe2a702,83,22.0,0,mobile,Johnsonside,4,Herman Miller Chair,office,0.0,2024-06-12T03:26:03.895001
+0f93e358-45dc-4877-aa6d-b051c80e935c,57,,2,mobile,North Joshua,31,Weber Charcoal Grill,home,0.0,2024-12-09T03:26:03.895101
+c8f796fc-37ee-4f39-b423-be28afde715e,55,23.0,2,tablet,Janetbury,25,Standing Desk Converter,office,0.0,2024-10-06T03:26:03.895197
+7f97e73d-c880-4588-b757-664e4175d884,68,21.0,2,mobile,Brianborough,16,GoPro Hero 11,electronics,0.0,2024-04-20T03:26:03.895290
+d78a70c9-1bca-4590-9d48-39fbbfaa8b49,44,,2,mobile,Morseberg,26,Nespresso Vertuo Plus,home,0.0,2024-08-02T03:26:03.895439
+edd6cc54-253d-48ea-9459-5ef273e0bd71,32,29.0,0,desktop,Austinmouth,35,Google Nest Hub,electronics,0.0,2024-03-29T03:26:03.895561
+c192b619-e4ad-4a34-ba22-98ff885136f5,70,,4,desktop,East Emilybury,38,Columbia Rain Pants,outdoor,89.99,2024-09-10T03:26:03.895660
+0e3493b3-5bea-4514-bb8d-60e8b9956482,56,,2,mobile,Portertown,31,Weber Charcoal Grill,home,0.0,2024-03-17T03:26:03.895780
+beee0404-096a-4c2d-8c41-a1cff7098e70,18,,2,desktop,Port Christopher,29,Columbia Hiking Boots,outdoor,0.0,2024-04-18T03:26:03.895875
+deab38aa-9232-44c4-acc1-2fd33bf9edec,4,27.0,2,mobile,New Donna,1,Air Force 1s,fashion,0.0,2024-03-02T03:26:03.895967
+35d0562b-eb11-4ddf-b33e-e18dd140b29e,81,35.0,4,mobile,Port Rogerfurt,38,Columbia Rain Pants,outdoor,89.99,2024-08-02T03:26:03.896087
+950987c2-de9b-459a-88c2-fa413b73483a,25,36.0,0,desktop,West Juliashire,5,Dell XPS 13,electronics,0.0,2024-03-05T03:26:03.896186
+da30f915-b928-4ed9-8272-f61390afd956,67,,4,tablet,Antonioburgh,21,Echo Dot (5th Gen),electronics,49.99,2024-03-11T03:26:03.896277
+d38b18e1-171f-4196-aef8-0c4b96d8c8a3,81,,2,mobile,Lake Amy,23,Patagonia Rain Jacket,outdoor,0.0,2024-06-07T03:26:03.896393
+623e9432-875c-4f1c-92c2-fd0554c58a0b,66,35.0,4,tablet,West Kevin,36,Keurig K-Elite Coffee Maker,home,139.99,2024-11-25T03:26:03.896488
+3c5b055d-148b-426f-bcfc-38992cc1332f,57,38.0,1,tablet,Fieldstown,32,Canon EOS M50,electronics,0.0,2024-09-18T03:26:03.896611
+4485c183-d0f6-4703-b9fc-9829976907ab,60,15.0,4,tablet,Cathyfort,8,North Face Backpack,accessories,99.99,2024-06-28T03:26:03.896705
+7e5aea2d-cbf5-4f48-a3fc-444eac81e35b,3,,2,mobile,Cynthiaport,23,Patagonia Rain Jacket,outdoor,0.0,2024-04-24T03:26:03.896799
+0237cffe-6c57-4c6e-901f-3238ca463ce9,7,,4,tablet,Barberside,10,Peloton Bike,fitness,2499.0,2024-10-27T03:26:03.896925
+6d34dcbe-7d2e-46ec-ac7f-c2537aa30fb9,83,,2,desktop,Fitzgeraldport,16,GoPro Hero 11,electronics,0.0,2024-09-13T03:26:03.897045
+9d6976c1-41fe-4b04-8c30-dbb213c3a6f7,63,34.0,1,tablet,Herringland,32,Canon EOS M50,electronics,0.0,2024-03-09T03:26:03.897162
+f7628d2e-66e9-43f5-b257-5dfcf7e2fb61,61,8.0,1,desktop,Robertview,32,Canon EOS M50,electronics,0.0,2024-04-21T03:26:03.897255
+42f0b816-1614-4cef-b952-380fc6a5f5b1,75,33.0,1,desktop,Kelleyton,35,Google Nest Hub,electronics,0.0,2024-03-06T03:26:03.897396
+292fff93-8b64-4000-a5e0-d79cacc2f568,2,,4,mobile,Christopherhaven,27,Theragun Elite,fitness,399.0,2024-10-08T03:26:03.897494
+1f7e3511-a5be-4d22-adca-062729455cfd,55,5.0,0,desktop,Port Brendantown,15,Samsonite Spinner Luggage,accessories,0.0,2024-12-17T03:26:03.897592
+94b9795b-68d3-4d26-94ac-dcc8b1ce3e94,48,4.0,4,mobile,Robertberg,5,Dell XPS 13,electronics,1099.99,2024-03-03T03:26:03.897683
+65db7450-52ac-48eb-9e36-4b9ef60ff2cd,54,2.0,4,mobile,Leehaven,20,Ray-Ban Aviator Sunglasses,accessories,179.99,2024-08-03T03:26:03.897802
+072db8c9-63c9-4015-862d-26d14280801f,85,,4,mobile,Michaelfort,15,Samsonite Spinner Luggage,accessories,200.0,2024-02-23T03:26:03.897897
+9d7e2012-a1c8-4ab4-9a79-e78556c674da,25,,4,mobile,Leonardfort,14,Kindle Paperwhite,electronics,139.99,2024-08-17T03:26:03.898037
+8f190170-0125-43f6-a485-3e2c6bbbdde1,34,,4,mobile,Lake John,26,Nespresso Vertuo Plus,home,159.99,2024-03-10T03:26:03.898133
+ea3d8201-b2d6-45f3-b620-0d55ba390ed9,36,12.0,4,desktop,North Curtisstad,21,Echo Dot (5th Gen),electronics,49.99,2024-12-08T03:26:03.898230
+3f0e74b6-3e47-4aea-b1dd-8cf9fd747711,42,,4,tablet,South Jeremy,23,Patagonia Rain Jacket,outdoor,149.0,2024-04-23T03:26:03.898341
+57008014-56f1-4329-a896-ca3a57fc580c,1,6.0,2,desktop,Kellyborough,33,Osprey Hiking Backpack,outdoor,0.0,2024-11-03T03:26:03.898435
+74b14c16-472f-40a7-8ac2-e435cb288843,11,22.0,1,desktop,South Judy,31,Weber Charcoal Grill,home,0.0,2024-01-24T03:26:03.898525
+d3814f45-88fb-423e-9451-2ba5c9ab8292,58,,2,mobile,Amberburgh,4,Herman Miller Chair,office,0.0,2024-06-15T03:26:03.898616
+aeb68a3a-8bf8-4d07-bfa1-8a0d8734c9cc,63,,4,tablet,Figueroaberg,11,Apple Watch Series 7,electronics,399.0,2024-07-06T03:26:03.898735
+93ef79e6-2f20-4a92-a2ed-a47ff7cfd6e1,30,,4,mobile,West Kevinmouth,10,Peloton Bike,fitness,2499.0,2024-11-23T03:26:03.898831
+20e6e8d0-8bfa-4c6d-91c3-3ba05e80bcda,88,,2,mobile,North Douglas,29,Columbia Hiking Boots,outdoor,0.0,2024-07-29T03:26:03.898920
+b7b5b8a7-71a7-4a50-a5c5-056b9fb78060,90,,2,mobile,New Sydney,35,Google Nest Hub,electronics,0.0,2024-06-08T03:26:03.899008
+b6c9dfec-ae79-43d3-8d85-468e88e5b068,81,,4,tablet,Adrianchester,4,Herman Miller Chair,office,1400.0,2024-12-17T03:26:03.899097
+b717cb30-6fdb-46d8-9316-7f4b36c43285,81,31.0,0,desktop,West Kennethburgh,23,Patagonia Rain Jacket,outdoor,0.0,2024-06-25T03:26:03.899190
+0f26038d-a065-4719-8064-1ef47f12710c,9,9.0,4,mobile,Shawnabury,24,Bose QuietComfort Earbuds,electronics,279.0,2023-12-30T03:26:03.899278
+0e10a19c-bcaf-4961-91b3-b818d687c5da,48,34.0,4,tablet,Millerland,28,Roku Streaming Stick 4K,electronics,49.99,2024-06-03T03:26:03.899432
+1ecd5109-ebfe-4fcd-af00-c41c2b89c920,33,14.0,4,tablet,Rhodesberg,17,Dyson V15 Vacuum,home,699.99,2024-01-10T03:26:03.899554
+36185f4b-0035-4e56-a99e-def8bd814f9a,43,,2,desktop,Benjaminberg,30,Tile Mate (4-Pack),electronics,0.0,2024-12-24T03:26:03.899674
+f0977b66-1947-4cec-bf21-8b67bb48eb30,75,,2,mobile,Johnsonview,6,Nike Running Shoes,fitness,0.0,2024-08-02T03:26:03.899792
+65ddc5cd-f307-4e3e-8904-ac301ec02724,69,,4,mobile,Paigeport,10,Peloton Bike,fitness,2499.0,2024-12-21T03:26:03.899887
+22c4bd2d-d97c-498b-882a-c8aa5f6ed597,24,27.0,1,desktop,Jessicachester,2,MacBook Pro,electronics,0.0,2024-04-16T03:26:03.899977
+ea951809-fa23-4f10-ad22-145f0a9ef51b,37,1.0,4,mobile,Millerfurt,21,Echo Dot (5th Gen),electronics,49.99,2024-02-01T03:26:03.900095
+6c5bbfa6-ebdc-4c6d-a3fb-1f2824849190,34,,2,mobile,Adamsport,17,Dyson V15 Vacuum,home,0.0,2024-08-24T03:26:03.900213
+9b823e4f-6304-4f7f-8541-8feb9c2edd15,48,15.0,0,mobile,Joneschester,9,Galaxy S21,electronics,0.0,2024-07-18T03:26:03.900354
+16d3da79-bd2d-431a-877f-0f9bc1e99b15,38,,2,desktop,Michaelhaven,36,Keurig K-Elite Coffee Maker,home,0.0,2024-01-01T03:26:03.900451
+5de3dc94-c64d-4cbe-94a9-91d52a2c6543,86,11.0,0,desktop,New Ruth,26,Nespresso Vertuo Plus,home,0.0,2024-08-13T03:26:03.900542
+d8c301ad-bcc3-4e7a-9e2a-73a27ba36a0f,72,,4,mobile,East Isaacside,23,Patagonia Rain Jacket,outdoor,149.0,2024-06-27T03:26:03.900638
+4bf345a6-8cbb-40ef-8474-55c2f664e609,22,18.0,4,desktop,Cathyside,9,Galaxy S21,electronics,799.99,2024-01-27T03:26:03.900749
+99057b29-1707-418e-a12e-7c272d61538a,58,,2,tablet,West Jessicachester,7,Coleman Sundome Tent,outdoor,0.0,2024-11-06T03:26:03.900845
+8c8f4301-cf9c-4a94-beb8-d409d336ddb7,44,,2,desktop,Mccoymouth,5,Dell XPS 13,electronics,0.0,2024-06-04T03:26:03.900964
+3f560176-819e-4505-9818-c67db40a1298,72,,2,tablet,Perryport,5,Dell XPS 13,electronics,0.0,2024-02-08T03:26:03.901080
+a0334b1f-158d-442a-bdb9-a2d331ff692d,29,19.0,2,tablet,Jeffreyborough,35,Google Nest Hub,electronics,0.0,2024-09-22T03:26:03.901171
+40d509f9-d029-4046-bce9-1d7fcc81d02e,52,18.0,4,mobile,North Christopherberg,19,Lululemon Yoga Pants,fashion,98.0,2024-02-01T03:26:03.901267
+9f72d797-6912-42df-9f61-c23d2ff91f65,37,,2,tablet,Matthewbury,30,Tile Mate (4-Pack),electronics,0.0,2024-06-03T03:26:03.901376
+557b3ccf-5cb2-4c60-9e75-6e58e7df7cf5,10,19.0,2,desktop,East Anthony,25,Standing Desk Converter,office,0.0,2024-03-17T03:26:03.901470
+4ba019fa-e794-4856-974e-ea7072a6c767,68,16.0,0,desktop,Port Elizabethview,28,Roku Streaming Stick 4K,electronics,0.0,2024-12-04T03:26:03.901567
+0f48caa6-d9e4-4820-91be-f96794d5c150,77,27.0,0,tablet,Port Alexander,3,Hydro Flask,beverages,0.0,2024-06-27T03:26:03.901659
+84d42392-d442-423d-aa7a-1c7f50d5b348,53,22.0,0,desktop,Davistown,3,Hydro Flask,beverages,0.0,2024-03-11T03:26:03.901781
+a5f17626-c6e2-4f9e-a064-7af098d23f42,91,3.0,1,tablet,North Susan,37,Samsung 4K UHD TV,electronics,0.0,2024-03-13T03:26:03.901876
+4f551bac-4e3e-4e64-b647-36f48f925324,96,,4,tablet,Williamstown,28,Roku Streaming Stick 4K,electronics,49.99,2024-09-11T03:26:03.901998
+2ce9ccbc-0333-4c86-9d35-80d85f7eca54,31,,2,tablet,East Amychester,19,Lululemon Yoga Pants,fashion,0.0,2024-03-24T03:26:03.902096
+c8f2abad-32fd-4530-b0c8-a2a27c5cd17e,98,1.0,2,desktop,Brittanyview,9,Galaxy S21,electronics,0.0,2024-07-28T03:26:03.902188
+f0b37d8b-dfbc-4def-b1cc-a98b6a0f4382,31,4.0,2,tablet,Campbellbury,18,Instant Pot Duo,home,0.0,2024-07-22T03:26:03.902328
+2da02c9a-4d97-4dc6-b91e-9323aff5ecd2,73,,2,mobile,Allenbury,4,Herman Miller Chair,office,0.0,2024-07-28T03:26:03.902456
+50213e06-8326-414b-8799-1cbcd126e913,14,26.0,4,tablet,Jacksonfurt,18,Instant Pot Duo,home,119.0,2024-08-10T03:26:03.902572
+f0efadc5-45cc-44d9-9a2f-fe30a86f67d5,74,,4,mobile,New Garymouth,10,Peloton Bike,fitness,2499.0,2024-09-09T03:26:03.902672
+6ba9d651-2a93-46bc-888b-dfea15bf98e2,85,21.0,1,tablet,Johnport,37,Samsung 4K UHD TV,electronics,0.0,2024-09-04T03:26:03.902764
+c6f09f5d-c86d-43c3-b070-51b63ed096a4,31,,4,desktop,New Josephtown,33,Osprey Hiking Backpack,outdoor,189.99,2024-11-17T03:26:03.902858
+98c06ffc-0eea-4845-b1d7-978872be0e91,5,,2,tablet,South Savannah,15,Samsonite Spinner Luggage,accessories,0.0,2024-11-04T03:26:03.902948
+3b015cd1-17db-4fee-81e3-751120c4272c,33,33.0,1,tablet,Rhondaside,7,Coleman Sundome Tent,outdoor,0.0,2024-12-17T03:26:03.903040
+9a8e5a29-80dd-4d0b-9e10-f533c804893d,89,,2,tablet,Christophertown,37,Samsung 4K UHD TV,electronics,0.0,2024-03-01T03:26:03.903130
+712f10ab-27e4-409f-af21-fed3f6645a64,13,11.0,0,tablet,North Zacharyfurt,35,Google Nest Hub,electronics,0.0,2024-02-15T03:26:03.903225
+19e57d98-99ca-4bf0-ba33-74fd5617b756,83,,2,mobile,Contrerasfurt,30,Tile Mate (4-Pack),electronics,0.0,2024-04-24T03:26:03.903395
+eacfa7db-ba15-40dd-bc7e-379aed28413f,50,,4,desktop,Hernandezberg,33,Osprey Hiking Backpack,outdoor,189.99,2024-06-19T03:26:03.903525
+d57650e4-12cc-479c-9aaf-405242fed3c3,6,22.0,0,desktop,New Anthony,10,Peloton Bike,fitness,0.0,2024-02-04T03:26:03.903618
+8e37de83-9422-4967-a42a-7e6e532db55f,1,8.0,0,tablet,New Matthew,16,GoPro Hero 11,electronics,0.0,2024-10-12T03:26:03.903710
+a5d697c2-41ed-4810-bc74-a2eb2f782897,6,32.0,2,tablet,Smithport,9,Galaxy S21,electronics,0.0,2024-12-08T03:26:03.903826
+42dd3448-d2fa-4301-b39e-c0367963ad07,95,7.0,4,desktop,New Whitneybury,27,Theragun Elite,fitness,399.0,2024-04-28T03:26:03.903927
+873384b9-f7eb-4b12-b1ea-7944376221e0,95,,4,mobile,Lake Dennis,22,Schwinn Mountain Bike,outdoor,599.99,2023-12-28T03:26:03.904019
+0988a2f8-d75d-4b45-8d17-5b3035f667b7,46,,2,desktop,South Johnstad,6,Nike Running Shoes,fitness,0.0,2024-03-13T03:26:03.904115
+4d34d962-419f-45d5-8954-f83445871aa3,19,29.0,0,desktop,North Brandy,11,Apple Watch Series 7,electronics,0.0,2024-07-28T03:26:03.904204
+53119587-5bc4-4ebf-a3dd-262a594feab8,25,,4,desktop,Longfurt,10,Peloton Bike,fitness,2499.0,2024-10-26T03:26:03.904341
+5b36ab75-76fa-41ed-a4a7-a71430b08e56,79,,2,mobile,Robertsview,8,North Face Backpack,accessories,0.0,2024-04-30T03:26:03.904464
+0f2020fd-2d21-47ca-a1c6-fda12d3f8c6e,14,,4,tablet,West Tara,14,Kindle Paperwhite,electronics,139.99,2024-10-08T03:26:03.904556
+23727c5d-f3fb-4093-b451-4160a47d0d73,97,,2,mobile,Shepherdborough,37,Samsung 4K UHD TV,electronics,0.0,2024-11-04T03:26:03.904676
+778039bb-8a84-45b4-a4cc-05d99b5bda03,6,,2,desktop,East Maryberg,19,Lululemon Yoga Pants,fashion,0.0,2024-07-21T03:26:03.904770
+9b28d0a3-5475-42ae-a97d-ea065fbf949f,61,,4,mobile,Lake Kimberlyland,17,Dyson V15 Vacuum,home,699.99,2024-09-01T03:26:03.904863
+a3b8d4b1-8fc9-45f8-bb5a-21aad84bf97b,97,,4,mobile,Laurashire,13,Fitbit Charge 5,fitness,129.95,2024-12-14T03:26:03.905076
+177c1fb9-b5aa-4e24-b67c-a7d111db2718,45,4.0,4,mobile,South Lindaton,12,Yeti Tumbler,beverages,30.0,2024-09-13T03:26:03.905252
+7bdcbedb-06f4-4a61-b98a-6f92bfb1fc67,96,25.0,0,mobile,West Erika,5,Dell XPS 13,electronics,0.0,2024-06-01T03:26:03.905441
+3e255179-a07e-4aaf-a05a-bb1ed8de8671,25,38.0,0,mobile,Ortizland,8,North Face Backpack,accessories,0.0,2024-07-15T03:26:03.905694
+81e240b0-dbfc-4181-b56a-cbf5b3b205a5,32,5.0,0,mobile,Noahtown,19,Lululemon Yoga Pants,fashion,0.0,2024-05-29T03:26:03.905803
+51b3dab6-cd11-4a3d-a818-e91e6f55938a,62,5.0,2,desktop,Williamsfurt,15,Samsonite Spinner Luggage,accessories,0.0,2024-02-18T03:26:03.905925
+602066d8-3d51-43ca-ab3f-9a315a95c675,63,,2,desktop,Fosterfurt,28,Roku Streaming Stick 4K,electronics,0.0,2024-06-09T03:26:03.906045
+f8eb66b7-ffa0-4cf3-886c-f69e92c276a8,37,22.0,1,desktop,Lake Christy,31,Weber Charcoal Grill,home,0.0,2024-08-11T03:26:03.906143
+8e88b600-85d9-45ef-864e-78a284f703b6,58,17.0,4,tablet,Michaelfort,26,Nespresso Vertuo Plus,home,159.99,2024-06-05T03:26:03.906234
+3cdb0010-753d-45da-aa8c-b55a4c93c3a0,61,32.0,0,tablet,Gloriachester,10,Peloton Bike,fitness,0.0,2023-12-30T03:26:03.906372
+e9428d74-e02c-4ed1-ad1e-f93bac15c136,92,,2,desktop,North Ray,20,Ray-Ban Aviator Sunglasses,accessories,0.0,2023-12-28T03:26:03.906478
+fe685ee4-4c64-4921-9283-37550c512bcd,1,,2,desktop,Lake Cynthiaside,23,Patagonia Rain Jacket,outdoor,0.0,2024-03-28T03:26:03.906593
+828ae9e7-e3c3-4470-80e4-424b13bcf89f,14,6.0,2,mobile,Jacobfurt,26,Nespresso Vertuo Plus,home,0.0,2024-01-22T03:26:03.906685
+15457d8f-eefa-4b4b-8761-43b953d054b9,16,,2,mobile,North Kathleenshire,23,Patagonia Rain Jacket,outdoor,0.0,2024-03-16T03:26:03.906803
+d3320779-e28c-4141-a731-374268ab7f9c,57,30.0,4,mobile,South Reginaldfurt,13,Fitbit Charge 5,fitness,129.95,2024-10-17T03:26:03.906904
+aba94382-140c-47b4-b59a-ff995142daa0,53,35.0,0,mobile,West Arthurmouth,15,Samsonite Spinner Luggage,accessories,0.0,2023-12-29T03:26:03.907000
+ae5c2335-c307-4e7b-bc75-d37c01c8cdd3,1,,2,mobile,West Carolynton,35,Google Nest Hub,electronics,0.0,2024-12-24T03:26:03.907099
+2c11742c-e51f-4458-a296-2c5f52545bd2,86,1.0,4,desktop,North Claudiaton,5,Dell XPS 13,electronics,1099.99,2024-04-28T03:26:03.907196
+b914dfef-e5d1-4473-a263-b555788b7344,34,23.0,0,mobile,Johnfort,15,Samsonite Spinner Luggage,accessories,0.0,2024-02-26T03:26:03.907285
+64af2d5c-b83b-48fb-961c-b09003318570,59,,2,desktop,Alexport,18,Instant Pot Duo,home,0.0,2024-04-18T03:26:03.907636
+7fb91edf-f8bb-40cd-9e6b-bca4c1cf4bfa,12,,4,mobile,Yvonnemouth,18,Instant Pot Duo,home,119.0,2024-01-20T03:26:03.907776
+60966112-3001-4101-99ec-a922f22a8eb0,79,,4,desktop,Howardfort,23,Patagonia Rain Jacket,outdoor,149.0,2024-09-03T03:26:03.907919
+a9fb6b3e-a6d9-4509-9a48-fb73889f83fd,71,,2,tablet,Sarahhaven,18,Instant Pot Duo,home,0.0,2024-06-01T03:26:03.908019
+5d90fff2-7bcf-4b87-8ed5-efb2926839a7,83,,2,desktop,Adrianview,19,Lululemon Yoga Pants,fashion,0.0,2024-02-29T03:26:03.908124
+f29a70ea-a4ad-4104-91c5-b33ffaba6595,20,35.0,0,mobile,Jenniferburgh,7,Coleman Sundome Tent,outdoor,0.0,2024-07-15T03:26:03.908222
+485697ad-b249-4881-a693-bef43470f3e3,43,36.0,0,mobile,Archerville,27,Theragun Elite,fitness,0.0,2024-05-20T03:26:03.908419
+05f77aa5-7480-4b3d-aa14-1a8abb1d616f,8,18.0,2,desktop,Matthewside,31,Weber Charcoal Grill,home,0.0,2024-06-27T03:26:03.908537
+00e42677-f109-4ce5-a0be-d6d8ee902d50,96,,2,mobile,New Laurenstad,28,Roku Streaming Stick 4K,electronics,0.0,2024-09-04T03:26:03.908638
+394676bb-3465-4c87-b345-33fe495a5c33,42,13.0,1,mobile,Andersonberg,3,Hydro Flask,beverages,0.0,2024-06-06T03:26:03.908773
+c6e872c2-c960-41b3-9830-9c8870ab2ae1,88,28.0,4,mobile,Port Elizabeth,17,Dyson V15 Vacuum,home,699.99,2024-08-15T03:26:03.908871
+5974a1d0-242f-4342-b4c4-eb4c403d020b,16,,4,desktop,Andersenside,12,Yeti Tumbler,beverages,30.0,2024-07-28T03:26:03.908998
+f15e68d1-32f8-4b8d-a3f2-1fa2f7e58fa9,45,29.0,0,tablet,Lyonsland,37,Samsung 4K UHD TV,electronics,0.0,2024-11-18T03:26:03.909137
+c79c81df-1141-4517-9be1-2475089d70ed,29,6.0,4,desktop,Thomasport,38,Columbia Rain Pants,outdoor,89.99,2024-04-19T03:26:03.909254
+fb9bba18-267b-4512-9381-0309b518c161,65,,2,mobile,Michaelland,5,Dell XPS 13,electronics,0.0,2024-07-25T03:26:03.909412
+410ce124-282d-42d3-b6e3-23f2ebea41bb,2,,4,tablet,Port Robin,9,Galaxy S21,electronics,799.99,2024-04-15T03:26:03.909535
+539f85a2-bd72-4792-9db1-fae35d546906,74,36.0,1,mobile,New Emma,5,Dell XPS 13,electronics,0.0,2024-02-17T03:26:03.909635
+0c4fcdd4-f965-4e47-9c6d-ac1b0797e478,86,,2,desktop,Sparksborough,30,Tile Mate (4-Pack),electronics,0.0,2024-12-14T03:26:03.909778
+6530f6c7-85b2-4bcb-91fa-da33a22096c3,77,,4,desktop,Port Matthewtown,13,Fitbit Charge 5,fitness,129.95,2024-11-08T03:26:03.909901
+46625a53-39bb-4010-be52-1950359a6384,77,36.0,0,desktop,Knappton,35,Google Nest Hub,electronics,0.0,2024-09-04T03:26:03.910028
+c2fe2306-675e-4d7e-8db6-5649d220d9ea,62,36.0,4,desktop,Port Michaelton,5,Dell XPS 13,electronics,1099.99,2024-10-29T03:26:03.910133
+21cb2e7e-8953-49cd-8488-3e8561f83be3,33,,2,tablet,Danielburgh,31,Weber Charcoal Grill,home,0.0,2024-12-09T03:26:03.910228
+9e31d30b-e5e5-4990-9cbd-8defaf7772f8,93,,2,desktop,Thomasview,35,Google Nest Hub,electronics,0.0,2024-01-07T03:26:03.910371
+688c7473-d9c3-4e7e-8489-8774e565982c,29,28.0,4,desktop,Gonzalezhaven,20,Ray-Ban Aviator Sunglasses,accessories,179.99,2024-11-29T03:26:03.910515
+261c0f6f-020e-4c0f-847f-f94cde6cc974,92,,4,tablet,Port Lukemouth,3,Hydro Flask,beverages,45.0,2024-03-23T03:26:03.910619
+79704b11-c1dc-42d3-8b8c-9b6a4c5b9e16,28,5.0,2,mobile,Lake Kathyview,26,Nespresso Vertuo Plus,home,0.0,2024-07-14T03:26:03.910716
+8d772e0f-2cb8-45bd-a8c8-a1a9d57354f1,12,,4,desktop,Perezborough,21,Echo Dot (5th Gen),electronics,49.99,2024-02-19T03:26:03.910839
+8a7e9ab7-b87f-44ec-b525-370d1ad5b030,34,18.0,2,desktop,Williamsmouth,38,Columbia Rain Pants,outdoor,0.0,2024-08-18T03:26:03.910965
+ca4e3478-0ed2-471f-81c9-f0a0cc3dc174,27,,4,desktop,Laurashire,11,Apple Watch Series 7,electronics,399.0,2024-06-01T03:26:03.911061
+0b272dd2-3664-4193-ad0c-cac9ec59b173,6,34.0,0,mobile,Abigailhaven,30,Tile Mate (4-Pack),electronics,0.0,2024-09-26T03:26:03.911163
+52e72b12-c404-4485-86a3-2d63460859f6,19,,4,desktop,West Kevin,5,Dell XPS 13,electronics,1099.99,2024-05-08T03:26:03.911259
+4d01ee8c-7a28-4e0b-8a21-9272119a12a4,11,,2,mobile,North Charlesfurt,38,Columbia Rain Pants,outdoor,0.0,2024-06-17T03:26:03.911408
+af685a83-02fa-4533-975f-b46cbee38980,50,,2,tablet,Port Gabriel,9,Galaxy S21,electronics,0.0,2024-12-09T03:26:03.911533
+f8d8c680-69dd-4621-8b1d-0c29f03dc22a,60,18.0,2,tablet,Williamstad,29,Columbia Hiking Boots,outdoor,0.0,2024-11-30T03:26:03.911631
+651a565c-7f29-44bd-a15a-a7a8c5cb805b,7,,4,tablet,Port Brian,10,Peloton Bike,fitness,2499.0,2024-02-06T03:26:03.911723
+2737e148-9cf2-4681-bfe9-00ee53b5e4c2,86,,4,desktop,Port Shannonhaven,36,Keurig K-Elite Coffee Maker,home,139.99,2024-07-10T03:26:03.911822
+966e0bb9-5a30-4b7a-9738-afae283f7b4e,41,3.0,0,mobile,Sarahport,7,Coleman Sundome Tent,outdoor,0.0,2024-07-11T03:26:03.911919
+a2bd1637-521f-4924-82d0-4850a3859c3b,52,,4,tablet,Georgeland,28,Roku Streaming Stick 4K,electronics,49.99,2024-06-16T03:26:03.912014
+d9d4827a-d14f-4909-b7fd-ee87882a76ae,1,,4,mobile,Lake Dylan,33,Osprey Hiking Backpack,outdoor,189.99,2024-08-28T03:26:03.912117
+22de9010-79c5-4585-93b2-f0a6957a8261,35,34.0,0,desktop,Lake Jorge,19,Lululemon Yoga Pants,fashion,0.0,2024-09-06T03:26:03.912275
+4951e4e9-ab1b-4f37-9690-22b339568fad,95,12.0,0,desktop,Garciaberg,34,Under Armour Compression Shirt,fitness,0.0,2024-01-19T03:26:03.912441
+1bf87378-21e9-4d43-9f61-cef641d46d00,22,9.0,4,desktop,Calvinberg,2,MacBook Pro,electronics,1999.99,2024-01-05T03:26:03.912542
+20a753df-fabe-442e-87df-b3595d734578,34,,2,desktop,Morganmouth,34,Under Armour Compression Shirt,fitness,0.0,2024-11-23T03:26:03.912636
+93bb96d6-a0b9-471c-9194-f1e151db226e,93,21.0,0,tablet,South Stevenport,6,Nike Running Shoes,fitness,0.0,2024-05-25T03:26:03.912735
+a9c16e94-d47e-49af-9278-d0945284e828,37,13.0,4,mobile,Andreamouth,15,Samsonite Spinner Luggage,accessories,200.0,2024-03-27T03:26:03.912829
+79781182-15de-43ec-be51-5acffaffec4c,20,13.0,2,desktop,Gregorystad,31,Weber Charcoal Grill,home,0.0,2024-06-04T03:26:03.912953
+6a764e1c-9a0b-4364-82a9-e1a98243fc6b,50,20.0,1,desktop,South Jennifer,39,Fossil Smartwatch,accessories,0.0,2024-08-07T03:26:03.913050
+8e318691-370c-4c7b-92de-20ed6708faad,11,,4,desktop,Abigailshire,32,Canon EOS M50,electronics,649.0,2024-08-15T03:26:03.913144
+da29cfc0-7b72-4bb8-8936-4ee309c465fa,61,,2,mobile,South Stevenburgh,13,Fitbit Charge 5,fitness,0.0,2024-05-25T03:26:03.913251
+43b45d08-9d33-4309-ac30-2e45416f38a3,37,3.0,4,mobile,North Justinport,35,Google Nest Hub,electronics,99.99,2024-03-21T03:26:03.913366
+ac6940df-bac9-4cbd-9815-19cdc89fa004,13,,4,mobile,Robertville,13,Fitbit Charge 5,fitness,129.95,2024-05-16T03:26:03.913462
+ea367f7e-8855-41d6-bb70-035ff6a23785,13,27.0,1,mobile,Port Ann,1,Air Force 1s,fashion,0.0,2024-06-28T03:26:03.913555
+3066ad56-107e-4436-a8bd-f5a20c3d65ba,5,,2,tablet,South Jonathan,4,Herman Miller Chair,office,0.0,2024-06-20T03:26:03.913648
+11327459-b2a7-44ae-b25c-6db1ddff5b37,28,4.0,0,desktop,North Jennifer,30,Tile Mate (4-Pack),electronics,0.0,2024-01-27T03:26:03.913740
+971f6f90-0880-456e-b087-7db27af1ab42,29,35.0,4,tablet,Kellerton,16,GoPro Hero 11,electronics,499.99,2023-12-30T03:26:03.913862
+9dc854cf-4649-485d-a42d-b1dea019b213,9,23.0,4,tablet,South Coreyhaven,3,Hydro Flask,beverages,45.0,2024-09-19T03:26:03.913960
+bd868086-ab6e-4bae-9fe6-e8eadb53a7d9,78,,2,tablet,New Jessica,38,Columbia Rain Pants,outdoor,0.0,2024-12-17T03:26:03.914053
+fd3858f5-02a3-40cd-8f22-4a7f8e61d613,60,3.0,4,desktop,Port Rebeccaberg,22,Schwinn Mountain Bike,outdoor,599.99,2024-07-27T03:26:03.914150
+33a9dd05-12b0-4649-84d8-55e164e4c8e4,83,21.0,4,mobile,West Tylerside,7,Coleman Sundome Tent,outdoor,89.99,2024-09-21T03:26:03.914247
+32b9cad6-7354-4fdb-a255-a4fe621d432e,94,,2,desktop,Lake Lindseyland,9,Galaxy S21,electronics,0.0,2024-12-18T03:26:03.914368
+dc880373-76ca-4bfc-8e4f-ce8527949491,14,1.0,4,mobile,West Keithland,38,Columbia Rain Pants,outdoor,89.99,2024-12-16T03:26:03.914467
+c13ea256-8be6-4007-95af-be613ec75cc6,51,28.0,2,mobile,Port Jillfurt,24,Bose QuietComfort Earbuds,electronics,0.0,2024-02-14T03:26:03.914567
+f211da62-0d86-4962-8d9e-a12fdb431eaf,65,2.0,0,tablet,North Thomas,20,Ray-Ban Aviator Sunglasses,accessories,0.0,2024-05-17T03:26:03.914658
+7253a6ee-f88d-4e98-ac9a-14d8ae8c0fb6,39,,2,desktop,Oscarport,12,Yeti Tumbler,beverages,0.0,2024-11-19T03:26:03.914753
+9192fd4e-e717-411a-a23b-22f2d30be56b,60,,4,tablet,South Xavier,28,Roku Streaming Stick 4K,electronics,49.99,2024-04-16T03:26:03.914846
+f4863573-6d12-4937-9134-387ff4f06243,88,,4,tablet,Alisonchester,26,Nespresso Vertuo Plus,home,159.99,2024-05-06T03:26:03.914941
+11a10b48-5ed3-4530-af69-5d4269ba332a,57,,4,desktop,Lake Pamela,28,Roku Streaming Stick 4K,electronics,49.99,2024-11-03T03:26:03.915062
+dfe80c86-a835-4703-8bf7-dd0416065a23,51,20.0,2,desktop,Port Sylviaview,26,Nespresso Vertuo Plus,home,0.0,2024-11-15T03:26:03.915198
+13abcb63-4c33-4eb2-a955-4fbbff547846,61,25.0,4,mobile,Port Kennethburgh,2,MacBook Pro,electronics,1999.99,2024-11-28T03:26:03.915317
+4c43758f-472b-466e-826f-15b2902c9c84,93,9.0,2,desktop,West Donaldville,24,Bose QuietComfort Earbuds,electronics,0.0,2024-03-24T03:26:03.915445
+2a72d0df-1dfe-45b6-ac54-21ad3260568e,25,,2,mobile,Williamsfort,23,Patagonia Rain Jacket,outdoor,0.0,2024-09-02T03:26:03.915576
+b19a9f1c-3cfd-4d44-bdc8-5d73be5089a6,22,,2,tablet,Amyview,31,Weber Charcoal Grill,home,0.0,2024-04-20T03:26:03.915674
+e7e172ec-fd63-4626-9f73-9d83fbaa2a17,38,,2,tablet,Mackenzieside,5,Dell XPS 13,electronics,0.0,2024-09-05T03:26:03.915768
+38d06958-529e-44f6-867c-e2b8492a5bde,47,21.0,4,tablet,Port Kimberly,14,Kindle Paperwhite,electronics,139.99,2024-12-22T03:26:03.915860
+e3c7213a-7702-41cf-8f9d-05c78f4b3753,18,36.0,0,tablet,West Johnborough,24,Bose QuietComfort Earbuds,electronics,0.0,2024-12-06T03:26:03.915957
+ec01883c-81fc-469d-adfb-794adcc9da34,11,31.0,0,desktop,Port Denise,24,Bose QuietComfort Earbuds,electronics,0.0,2024-05-23T03:26:03.916069
+9040beb7-234a-4ed2-be45-64d36a21f5b9,78,34.0,1,tablet,New Leonardmouth,16,GoPro Hero 11,electronics,0.0,2024-11-02T03:26:03.916173
+0cb0509b-c799-4a95-a2e6-68dfa0a62f5b,70,32.0,0,desktop,Lake Justinton,33,Osprey Hiking Backpack,outdoor,0.0,2024-09-03T03:26:03.916279
+fccbbc18-1e98-4f35-92a3-286b10ea98ee,3,18.0,4,mobile,North Jessicaland,22,Schwinn Mountain Bike,outdoor,599.99,2024-02-17T03:26:03.916433
+c54a68f7-ad3f-4aee-85c7-9739c9841890,99,26.0,1,mobile,Douglasview,35,Google Nest Hub,electronics,0.0,2024-09-01T03:26:03.916537
+31122f43-ef27-4960-8061-e715aa9e4d2c,98,38.0,1,desktop,Annmouth,23,Patagonia Rain Jacket,outdoor,0.0,2024-04-28T03:26:03.916669
+2d9d3a49-b4fd-4ab9-83d1-3be4ac76e3d6,16,7.0,2,desktop,Sandersland,39,Fossil Smartwatch,accessories,0.0,2024-06-06T03:26:03.916876
+eec556e5-854f-4873-8e44-37d74ea03fb9,45,39.0,1,mobile,East Rogerburgh,3,Hydro Flask,beverages,0.0,2024-08-03T03:26:03.917068
+7fe59660-d5db-4c90-afdc-8e90f2413a70,76,,2,mobile,South John,23,Patagonia Rain Jacket,outdoor,0.0,2024-06-20T03:26:03.918022
+ad3e67df-6458-477d-8e3d-d61db069694d,64,6.0,2,mobile,Katelynberg,1,Air Force 1s,fashion,0.0,2024-08-28T03:26:03.918227
+4d785134-713d-4f3f-bf99-052f0ae27e77,50,,4,desktop,Shanefort,27,Theragun Elite,fitness,399.0,2024-06-08T03:26:03.918379
+715c0658-5265-4e6e-ad9e-a1da8f47ace6,19,11.0,2,desktop,Rodrigueztown,37,Samsung 4K UHD TV,electronics,0.0,2024-11-01T03:26:03.918526
+11a89950-5f70-4c8a-9157-22e6e32dfdb2,64,,2,desktop,Lake Teresamouth,20,Ray-Ban Aviator Sunglasses,accessories,0.0,2024-07-08T03:26:03.918635
+05bb5720-5d8d-4fbe-94a1-a1509f76aeb6,15,28.0,1,tablet,East Kennethside,21,Echo Dot (5th Gen),electronics,0.0,2024-04-15T03:26:03.918737
+3e88aceb-fae6-4ea1-af51-5683cd11f25d,12,,4,desktop,Danielborough,18,Instant Pot Duo,home,119.0,2024-11-27T03:26:03.918833
+282731ca-e1a0-463c-83d4-02fe90405b37,74,,2,tablet,New Rebeccaport,32,Canon EOS M50,electronics,0.0,2024-01-24T03:26:03.918930
+4cfff6e7-b133-4a47-8499-9e77983f3d28,98,,2,tablet,West Allisonton,3,Hydro Flask,beverages,0.0,2024-10-13T03:26:03.919030
+db0e9d21-c54b-464e-8265-7e5605074d0e,2,,4,mobile,New Courtney,10,Peloton Bike,fitness,2499.0,2024-07-07T03:26:03.919133
+f3b32d68-e20c-44be-bc39-b0144aea1996,8,,4,desktop,Fernandezville,13,Fitbit Charge 5,fitness,129.95,2024-12-16T03:26:03.919259
+2f5669a3-2e24-4586-bd59-ba420dc46bc8,27,19.0,4,desktop,South Madeline,30,Tile Mate (4-Pack),electronics,69.99,2024-04-05T03:26:03.919379
+55ac55f8-4cbc-4206-b08f-5604b46992d9,44,,2,mobile,Allenview,33,Osprey Hiking Backpack,outdoor,0.0,2024-12-05T03:26:03.919507
+3499269d-0c79-45ef-b783-f27915169b79,10,,4,tablet,Garymouth,22,Schwinn Mountain Bike,outdoor,599.99,2024-06-08T03:26:03.919603
+473a3983-9b93-452f-8a80-e029f9aa1678,25,15.0,1,mobile,Jasonport,7,Coleman Sundome Tent,outdoor,0.0,2024-02-10T03:26:03.919696
+8058de19-df9c-4ec3-89bd-83309ba9361e,2,13.0,1,desktop,Coleburgh,10,Peloton Bike,fitness,0.0,2024-11-26T03:26:03.919786
+0596b7aa-5a14-4b21-bf1a-d0dc21b61541,16,,2,desktop,New Patriciabury,28,Roku Streaming Stick 4K,electronics,0.0,2024-01-13T03:26:03.919883
+19f81a66-bd59-429b-88c7-314e1f527b67,73,24.0,2,tablet,North Bryanmouth,35,Google Nest Hub,electronics,0.0,2024-10-05T03:26:03.919980
+c965855b-4ccc-4c8b-82cb-1c1f113827d0,6,25.0,2,desktop,Allenstad,24,Bose QuietComfort Earbuds,electronics,0.0,2024-09-23T03:26:03.920080
+c96dca7c-586e-4a78-a6c0-00bebb70579b,37,14.0,1,tablet,Davismouth,31,Weber Charcoal Grill,home,0.0,2024-02-29T03:26:03.920208
+f62c306f-90dc-4d52-86fa-9a7c98053a4d,7,,4,tablet,Pamelamouth,26,Nespresso Vertuo Plus,home,159.99,2024-11-14T03:26:03.920334
+be22d45a-3669-4893-8c10-edbd0d1846f3,64,,2,desktop,Davidburgh,18,Instant Pot Duo,home,0.0,2024-05-01T03:26:03.920434
+4bcaaeed-9140-4e84-acce-e011aaffbdc7,73,27.0,1,tablet,New Dylanburgh,3,Hydro Flask,beverages,0.0,2024-11-16T03:26:03.920530
+3020f907-163d-4366-9499-edc9d5605044,98,,2,tablet,Lake Billyfort,21,Echo Dot (5th Gen),electronics,0.0,2024-01-11T03:26:03.920625
+6ded38af-95bf-4e44-9ea1-593e990e2462,89,37.0,0,desktop,New Eric,29,Columbia Hiking Boots,outdoor,0.0,2024-02-22T03:26:03.920717
+40009243-e8ba-40f5-8497-6f6007b9d8f6,54,,2,desktop,Port Deborahberg,4,Herman Miller Chair,office,0.0,2024-08-12T03:26:03.920816
+21bf3545-fe53-498b-9a81-fea6d5d0ddbf,67,35.0,1,mobile,West Dana,3,Hydro Flask,beverages,0.0,2024-06-11T03:26:03.920907
+1723d950-5284-437b-8cfb-f83e34db8b68,58,,2,mobile,Wardfurt,27,Theragun Elite,fitness,0.0,2024-05-04T03:26:03.921030
+690e3507-5709-410b-9e98-86ee91957bf9,88,,4,tablet,Powellside,32,Canon EOS M50,electronics,649.0,2024-01-06T03:26:03.921157
+f287937d-aae0-42cd-b54f-ef3955df0943,28,30.0,4,mobile,Berryville,6,Nike Running Shoes,fitness,150.0,2024-04-23T03:26:03.921278
+c603d0f5-0304-4303-94bb-25aa1d5cbdf7,88,34.0,1,mobile,Port Aaron,5,Dell XPS 13,electronics,0.0,2024-09-05T03:26:03.921428
+eff47e59-17a1-4f8f-b5dd-563b810f6539,43,14.0,1,desktop,Millerfort,36,Keurig K-Elite Coffee Maker,home,0.0,2024-02-08T03:26:03.921566
+344932fb-a82b-4c6d-9122-0b4c66f66583,87,5.0,4,tablet,Trevormouth,21,Echo Dot (5th Gen),electronics,49.99,2024-11-07T03:26:03.921661
+79b0059e-c0f6-4d7d-965e-2e5cfff252a1,67,,4,tablet,New Andre,4,Herman Miller Chair,office,1400.0,2024-05-27T03:26:03.921756
+672136e0-0324-4d96-a30a-112fe17fbca1,45,,4,desktop,Jonesbury,28,Roku Streaming Stick 4K,electronics,49.99,2024-06-07T03:26:03.921876
+0c7c5c1b-db9e-4c26-ae25-f14511519657,28,28.0,0,desktop,Garrettland,18,Instant Pot Duo,home,0.0,2024-01-08T03:26:03.921977
+c02e1ec5-f41a-43bd-9534-92b31a4db435,23,,2,mobile,Lake Johnborough,20,Ray-Ban Aviator Sunglasses,accessories,0.0,2024-10-20T03:26:03.922074
+99743618-11a7-40ab-8779-97500e7cd5a6,58,,2,tablet,North Deanna,7,Coleman Sundome Tent,outdoor,0.0,2024-07-23T03:26:03.922173
+cafdd4ee-259c-40bf-b76e-3613289986b5,20,24.0,0,desktop,Edwardport,9,Galaxy S21,electronics,0.0,2024-02-20T03:26:03.922266
+f83c6733-43d1-41fb-8d82-21dd378f8601,61,,2,mobile,Angelland,19,Lululemon Yoga Pants,fashion,0.0,2024-04-05T03:26:03.922378
+76cf3fad-305a-474a-9004-e38d9713f1b4,17,3.0,2,desktop,Port Sierraside,34,Under Armour Compression Shirt,fitness,0.0,2024-02-27T03:26:03.922478
+351a5a3c-fc5d-42d7-bbcb-32d6266bee35,11,,4,desktop,New Stephanieton,22,Schwinn Mountain Bike,outdoor,599.99,2024-09-17T03:26:03.922575
+ce4ad997-ddf8-43f8-833f-4454a39c8e94,99,24.0,0,desktop,Donnaview,17,Dyson V15 Vacuum,home,0.0,2024-03-27T03:26:03.922670
+9776b38b-e8d9-4502-b16c-6c2582055eac,60,,4,mobile,Sarahtown,16,GoPro Hero 11,electronics,499.99,2024-10-28T03:26:03.922761
+a0eef541-41d0-498b-958a-4706548d29d1,77,,2,desktop,Donnaberg,33,Osprey Hiking Backpack,outdoor,0.0,2024-11-06T03:26:03.922852
+256de68d-e1fd-4ed4-9c09-70a17ca1eadf,5,,4,tablet,Carterborough,3,Hydro Flask,beverages,45.0,2024-01-01T03:26:03.922988
+b35ed6ee-321e-4fed-9251-fdf186ccd499,60,38.0,2,mobile,Smithland,12,Yeti Tumbler,beverages,0.0,2024-07-24T03:26:03.923117
+97581354-6acb-4386-9efb-9f259a112251,5,15.0,2,desktop,Port Tami,12,Yeti Tumbler,beverages,0.0,2024-12-13T03:26:03.923219
+e46ee078-be9e-45d0-b556-b1d80a7db77b,72,,2,desktop,Murphyview,14,Kindle Paperwhite,electronics,0.0,2024-03-21T03:26:03.923355
+18277bc1-c93a-4975-855e-0f9ec5334a7a,68,,2,desktop,Hernandezborough,24,Bose QuietComfort Earbuds,electronics,0.0,2024-11-26T03:26:03.923477
+e8fe2336-d7ae-4130-a2dd-5ea8f28f620f,38,31.0,0,mobile,Jacobbury,36,Keurig K-Elite Coffee Maker,home,0.0,2024-09-11T03:26:03.923571
+95fd1c4f-f6c4-4563-a70d-3acc19081b8a,90,21.0,4,desktop,North Jennifer,5,Dell XPS 13,electronics,1099.99,2024-06-27T03:26:03.923663
+f1958efb-dcf5-462e-9c25-79f911a8d4ba,86,,4,desktop,North Rogerstad,18,Instant Pot Duo,home,119.0,2023-12-29T03:26:03.923760
+28fb279e-1d1b-4f1a-bc95-251660365543,2,,4,desktop,West Holly,36,Keurig K-Elite Coffee Maker,home,139.99,2024-08-03T03:26:03.923851
+bd8396d4-9281-4226-800f-b70681b02df7,64,38.0,1,desktop,Heatherside,34,Under Armour Compression Shirt,fitness,0.0,2024-01-03T03:26:03.923944
+3291256a-33e7-408d-9305-bc5f14ea6b5b,88,,4,mobile,North Kimberly,28,Roku Streaming Stick 4K,electronics,49.99,2024-11-17T03:26:03.924034
+75e53cba-d782-462b-bc67-d01b73cd5868,69,,4,desktop,South Barbaraville,10,Peloton Bike,fitness,2499.0,2024-09-26T03:26:03.924138
+7c7733aa-0725-4862-bf5a-b5986dfce60e,64,28.0,2,desktop,New Adrienne,37,Samsung 4K UHD TV,electronics,0.0,2024-03-04T03:26:03.924230
+6f9205cd-0421-4268-a827-3176cff6d0be,54,5.0,2,mobile,North Jessicaton,37,Samsung 4K UHD TV,electronics,0.0,2024-09-19T03:26:03.924338
+200ad4d1-79dc-4259-a1d3-49291082844d,34,,2,tablet,Port Geoffrey,2,MacBook Pro,electronics,0.0,2024-06-19T03:26:03.924433
+be562b58-dc92-4095-bf0b-b603396bef40,34,,4,desktop,Summerstad,31,Weber Charcoal Grill,home,159.99,2024-07-23T03:26:03.924524
+661be1e4-cc8c-4b20-b6a7-746bcd7efed9,12,39.0,4,mobile,Tammiemouth,39,Fossil Smartwatch,accessories,199.99,2024-03-29T03:26:03.924616
+0eeccc70-c52c-4fb2-93e0-14587ec27049,75,,4,tablet,Port Charlesfort,33,Osprey Hiking Backpack,outdoor,189.99,2023-12-27T03:26:03.924713
+6c2ecba9-ea97-4af9-a47d-29f85ad67915,18,20.0,4,tablet,Millerfort,26,Nespresso Vertuo Plus,home,159.99,2024-10-18T03:26:03.924846
+a767d4f1-57e5-4fc2-b0da-db9ecd980f2b,27,,2,desktop,Laurenfurt,9,Galaxy S21,electronics,0.0,2024-07-23T03:26:03.924938
+586c19b7-4eb8-4856-b54d-a57c5eca39d2,3,23.0,4,tablet,New Elizabethchester,18,Instant Pot Duo,home,119.0,2024-12-12T03:26:03.925034
+ec53322a-9269-4531-b8ae-d85256c0e00a,45,25.0,2,tablet,East Devonmouth,12,Yeti Tumbler,beverages,0.0,2024-09-18T03:26:03.925135
+dd3a1ef7-fa1c-4741-a9fa-b473ce9ae430,51,,4,desktop,Port Jamesview,36,Keurig K-Elite Coffee Maker,home,139.99,2024-10-14T03:26:03.925232
+7faca696-4acf-4b7e-a3d5-40e8224446f3,74,13.0,0,mobile,West Amanda,16,GoPro Hero 11,electronics,0.0,2024-05-26T03:26:03.925359
+82a456e4-605f-41de-b711-f047660e04d9,77,,2,mobile,Kristinaberg,39,Fossil Smartwatch,accessories,0.0,2024-11-27T03:26:03.925509
+dc39a0e5-6154-47c9-aa41-63c9f99cecb6,95,31.0,2,tablet,South Brandon,31,Weber Charcoal Grill,home,0.0,2024-09-16T03:26:03.925611
+3f2e414f-e5ae-448b-9e8e-e8ba0887b03c,1,26.0,4,mobile,Riverabury,6,Nike Running Shoes,fitness,150.0,2024-10-27T03:26:03.925738
+78ca35be-5cc4-409c-8f0b-87ad42fbc403,53,4.0,0,desktop,Parsonsbury,35,Google Nest Hub,electronics,0.0,2024-05-21T03:26:03.925858
+4570b40d-3748-4ed8-9453-6ae2484dd897,35,,2,desktop,Michaelside,13,Fitbit Charge 5,fitness,0.0,2024-11-21T03:26:03.925952
+e67eab76-f144-493e-9cd7-23cbdd8742f2,41,36.0,2,tablet,West Jessica,9,Galaxy S21,electronics,0.0,2024-10-09T03:26:03.926043
+dfcebd53-027c-4297-80fd-0f12d92f1025,31,31.0,1,tablet,Wrightton,8,North Face Backpack,accessories,0.0,2024-12-23T03:26:03.926174
+1777ed0f-8328-40f1-ab8d-3a4de0ad142f,91,9.0,2,tablet,New Danielville,36,Keurig K-Elite Coffee Maker,home,0.0,2024-08-02T03:26:03.926273
+dc8602e6-76df-413c-bcc2-ca705a7783ef,22,,2,tablet,Port Phillipshire,30,Tile Mate (4-Pack),electronics,0.0,2024-09-17T03:26:03.926403
+35da2158-73f0-45a6-8c76-9bf1d334f6ad,59,,2,desktop,Jessicaburgh,34,Under Armour Compression Shirt,fitness,0.0,2024-07-09T03:26:03.926498
+3f9201f9-8411-4f86-a569-7e59b379343e,86,,2,tablet,Michaelborough,25,Standing Desk Converter,office,0.0,2024-03-11T03:26:03.926590
+a1e3e2e8-9f29-49d9-969e-070f734b1813,83,4.0,4,mobile,South Rodney,15,Samsonite Spinner Luggage,accessories,200.0,2024-03-11T03:26:03.926683
+a05ea56d-3923-4d40-909c-7e2bf3d0a165,80,,2,desktop,Lake Nicholas,20,Ray-Ban Aviator Sunglasses,accessories,0.0,2024-05-29T03:26:03.926775
+31f03b3c-7871-40a3-a043-29afa72f8aea,45,3.0,4,mobile,Robertsonshire,36,Keurig K-Elite Coffee Maker,home,139.99,2024-02-17T03:26:03.926906
+90d13a89-10dc-470c-8999-2829ee28886a,31,,4,desktop,Kathleenchester,10,Peloton Bike,fitness,2499.0,2023-12-27T03:26:03.927002
+d5ed6c61-c5fa-4a76-986c-d3cda790e583,54,,2,tablet,South Thomas,26,Nespresso Vertuo Plus,home,0.0,2024-06-02T03:26:03.927095
+3c9f7dfe-70c1-4279-aca3-ec4f3e972d05,64,,2,mobile,Watsontown,24,Bose QuietComfort Earbuds,electronics,0.0,2024-05-31T03:26:03.927223
+57e22c73-ecce-4d67-a9c8-6be95ac66615,37,34.0,0,tablet,South Samanthaborough,37,Samsung 4K UHD TV,electronics,0.0,2024-07-22T03:26:03.927363
+884e7f4f-b865-488f-9069-3db6723e966a,2,6.0,1,tablet,Youngside,22,Schwinn Mountain Bike,outdoor,0.0,2024-06-20T03:26:03.927506
+e4b7888e-e5ed-41ba-bd7a-811af7099ddb,93,18.0,1,mobile,Clarktown,10,Peloton Bike,fitness,0.0,2024-06-02T03:26:03.927629
+6564baed-9777-4e0e-bd98-9fc6e97ae767,27,,4,mobile,Lake Seanborough,38,Columbia Rain Pants,outdoor,89.99,2024-02-24T03:26:03.927744
+1c240845-0246-4f73-b98d-2d78e1f718b0,44,14.0,1,tablet,Richardborough,37,Samsung 4K UHD TV,electronics,0.0,2024-06-03T03:26:03.927839
+9a12fe00-8c69-4da9-8a20-d0517e0d56b8,79,,2,desktop,West Barbara,13,Fitbit Charge 5,fitness,0.0,2024-05-23T03:26:03.927931
+a0960ae9-59b9-4af9-926e-f63e1f54d084,76,37.0,0,tablet,Martinport,30,Tile Mate (4-Pack),electronics,0.0,2024-12-12T03:26:03.928026
+9f23b0cb-fc42-4a66-a685-eb6c3b6f3bc1,6,,4,tablet,Port Tonyastad,31,Weber Charcoal Grill,home,159.99,2024-07-30T03:26:03.928133
+0a2dbf1f-3cc9-4b2f-9e14-cfa8b322a2f7,20,7.0,4,tablet,South Raymondmouth,36,Keurig K-Elite Coffee Maker,home,139.99,2024-11-16T03:26:03.928230
+d5d5fe02-5baf-401b-b330-43222d7da5d0,18,,4,tablet,Millsland,2,MacBook Pro,electronics,1999.99,2024-01-14T03:26:03.928370
+0accdd64-f5ee-42d7-9806-0dcd3b925d2c,43,,2,mobile,South Gilbertton,9,Galaxy S21,electronics,0.0,2024-11-22T03:26:03.928488
+ceaa2deb-20fa-45a7-817b-886a079197e4,10,,2,tablet,Port Theresa,39,Fossil Smartwatch,accessories,0.0,2024-03-28T03:26:03.928582
+17f5ff5d-54d7-4457-94fb-58d1cbe992ab,85,16.0,2,tablet,South Stephanieview,30,Tile Mate (4-Pack),electronics,0.0,2024-02-25T03:26:03.928678
+425e5069-1140-42ca-aeff-c6d318411386,74,4.0,0,mobile,Moralesbury,10,Peloton Bike,fitness,0.0,2024-05-22T03:26:03.928801
+058cfee9-66a5-4fcd-b91a-0429de3ac9c2,35,,4,tablet,South Brittany,28,Roku Streaming Stick 4K,electronics,49.99,2024-10-10T03:26:03.928895
+5d43e083-4166-4454-887a-9e7526da4f69,18,,4,desktop,Mannshire,10,Peloton Bike,fitness,2499.0,2024-08-15T03:26:03.929015
+f87b19cf-ce30-4290-9760-d8444a858054,80,29.0,1,tablet,Amandabury,13,Fitbit Charge 5,fitness,0.0,2024-09-15T03:26:03.929116
+c30ef151-1524-4df3-9dfe-e1094b9c20b0,7,11.0,0,tablet,Smithberg,20,Ray-Ban Aviator Sunglasses,accessories,0.0,2024-12-18T03:26:03.929237
+4c7a0b49-ac85-466d-b241-30989d9a81ff,96,1.0,4,mobile,East Ashley,25,Standing Desk Converter,office,350.0,2024-09-17T03:26:03.929345
+07ceeffc-411a-47bd-9a72-e2a9242738ac,95,3.0,2,mobile,Lake Robert,11,Apple Watch Series 7,electronics,0.0,2024-08-05T03:26:03.929452
+60bf67aa-117d-40dc-b51a-45744866b916,71,8.0,4,desktop,Lake Laurenside,36,Keurig K-Elite Coffee Maker,home,139.99,2024-01-01T03:26:03.929560
+1a209f2a-2a66-4d9d-830e-f57df0adda60,17,,4,mobile,Lake Randymouth,11,Apple Watch Series 7,electronics,399.0,2024-02-29T03:26:03.929658
+ae07ac46-9c30-415c-893c-f6b56682fbbf,100,,2,tablet,South Christinamouth,38,Columbia Rain Pants,outdoor,0.0,2024-04-12T03:26:03.929756
+c1875ef4-d751-4ed6-96f6-3abeac913e9a,14,,2,mobile,New Marilyn,22,Schwinn Mountain Bike,outdoor,0.0,2024-10-09T03:26:03.929847
+315603aa-c6b7-4bc7-bf4d-4c54d891de34,83,30.0,0,mobile,West Kimberlyville,9,Galaxy S21,electronics,0.0,2024-11-13T03:26:03.929940
+e42d394c-7f7f-418b-b2c7-8e2b9a0706a5,72,16.0,2,mobile,Richardbury,26,Nespresso Vertuo Plus,home,0.0,2024-12-24T03:26:03.930032
+9455fdb4-66ec-4a29-96e8-0d3b426e3aeb,69,,4,tablet,Andersonstad,14,Kindle Paperwhite,electronics,139.99,2024-01-11T03:26:03.930165
+cd31068d-d818-4990-9918-f0948618bd54,16,,2,mobile,Josebury,38,Columbia Rain Pants,outdoor,0.0,2024-07-21T03:26:03.930292
+1a82dc0d-c17a-43e9-9748-ca27c0b8fc16,20,,4,tablet,Markstad,12,Yeti Tumbler,beverages,30.0,2024-05-07T03:26:03.930493
+662f878e-5b52-435e-bcd7-2f62a7074655,92,,4,tablet,West Gregoryfort,13,Fitbit Charge 5,fitness,129.95,2024-01-10T03:26:03.930617
+57e88d8c-c6c1-4b8c-98d9-bddbd70fcf15,33,,2,mobile,Bryanside,39,Fossil Smartwatch,accessories,0.0,2024-12-08T03:26:03.930756
+a2875057-1519-44de-bfd3-a2c16fe3269e,64,17.0,2,mobile,New Joshuaville,14,Kindle Paperwhite,electronics,0.0,2024-09-10T03:26:03.930858
+3ffdabb1-8404-4aa5-9442-06f8470abdb9,66,36.0,4,mobile,Port Mariomouth,36,Keurig K-Elite Coffee Maker,home,139.99,2024-09-30T03:26:03.930955
+0aa20d2d-a25c-4849-8db9-7f864f50dea9,24,8.0,0,mobile,Gordonfort,20,Ray-Ban Aviator Sunglasses,accessories,0.0,2024-07-02T03:26:03.931077
+ee2e43f2-6006-4f59-b52d-824efab9804b,2,30.0,1,tablet,West Lori,30,Tile Mate (4-Pack),electronics,0.0,2024-05-19T03:26:03.931238
+05e4539f-48b5-4805-bc21-87798e16ae0e,15,26.0,0,tablet,Rodriguezside,38,Columbia Rain Pants,outdoor,0.0,2024-12-05T03:26:03.931447
+6b37b75d-cdfa-424e-a674-e2dcb10b1474,51,25.0,1,tablet,Burtonborough,9,Galaxy S21,electronics,0.0,2024-02-08T03:26:03.931667
+49bef736-ded2-4596-8547-a8bc445e77b5,58,,4,desktop,East Thomas,31,Weber Charcoal Grill,home,159.99,2024-03-07T03:26:03.931847
+2735cc49-5d29-4463-ad6c-415489c37caa,47,34.0,4,tablet,Grahamtown,38,Columbia Rain Pants,outdoor,89.99,2024-10-30T03:26:03.932086
+3818c52d-b9a1-4287-87c8-b416bac8e313,9,28.0,2,mobile,Brendaport,15,Samsonite Spinner Luggage,accessories,0.0,2024-09-03T03:26:03.932260
+2f801f4f-59eb-451c-a6cb-3be1a102143e,70,20.0,0,mobile,West Gary,8,North Face Backpack,accessories,0.0,2024-10-29T03:26:03.932427
+f72b49d6-2711-484c-b98b-eb6be92ec575,97,,2,mobile,New Thomashaven,36,Keurig K-Elite Coffee Maker,home,0.0,2024-03-13T03:26:03.932536
+d818df1d-d7d7-44d5-9f11-27fb48623240,16,,2,mobile,Wolfeview,27,Theragun Elite,fitness,0.0,2024-07-16T03:26:03.932666
+42f00e7f-f50c-43df-a3ab-d8bad99976a6,14,,4,mobile,Adamstad,7,Coleman Sundome Tent,outdoor,89.99,2024-03-19T03:26:03.932762
+90f40630-3cdf-4bac-a496-a18438027b69,34,,4,tablet,South Cristian,11,Apple Watch Series 7,electronics,399.0,2024-08-02T03:26:03.932854
+68886439-45d5-4997-a0c9-744c9cf1140c,25,29.0,0,tablet,Petersonfurt,8,North Face Backpack,accessories,0.0,2024-01-28T03:26:03.932974
+d9950f78-d4f4-45c6-bb43-360862518e8b,55,5.0,0,mobile,Dillonstad,6,Nike Running Shoes,fitness,0.0,2024-07-11T03:26:03.933067
+dde42419-a54b-422b-adfd-31ed882176bb,47,15.0,0,tablet,Jameschester,32,Canon EOS M50,electronics,0.0,2024-11-03T03:26:03.933167
+9d8596ea-e10f-42eb-9308-9459db8de557,83,31.0,0,tablet,Millerport,23,Patagonia Rain Jacket,outdoor,0.0,2024-06-15T03:26:03.933288
+4469ce4f-f7ed-4794-beff-23cbad943e87,69,27.0,1,desktop,Davidberg,39,Fossil Smartwatch,accessories,0.0,2024-04-29T03:26:03.933435
+9df3714f-d204-4ec2-8228-a6dbdc05175f,58,,4,desktop,New Roy,37,Samsung 4K UHD TV,electronics,599.99,2024-07-07T03:26:03.933534
+919f05a9-3459-430f-b9f4-2f707af3bcd0,37,,4,tablet,North Josephmouth,28,Roku Streaming Stick 4K,electronics,49.99,2024-04-04T03:26:03.933631
+305a71d5-c97f-4eb0-83c4-c9ecdaeb3ece,82,,2,desktop,Michellestad,8,North Face Backpack,accessories,0.0,2024-09-12T03:26:03.933723
+8210a6a9-bfff-4bd5-b3c4-401291194ee0,24,,4,tablet,Johnstad,16,GoPro Hero 11,electronics,499.99,2024-11-29T03:26:03.933814
+7fd1a673-c38c-48b7-98e4-26ccd3f77e40,5,10.0,1,tablet,Mccoyhaven,30,Tile Mate (4-Pack),electronics,0.0,2024-05-24T03:26:03.933935
+041e4020-a356-4eec-8f78-ddb9140d163d,30,20.0,2,tablet,East Colleen,3,Hydro Flask,beverages,0.0,2024-03-14T03:26:03.934031
+52ac97b4-f63f-4dc6-8c14-24ba5dafe4fa,32,8.0,4,tablet,Woodside,2,MacBook Pro,electronics,1999.99,2024-01-31T03:26:03.934160
+e74b20f9-56a4-45c0-88e3-de9598cfdedd,97,,2,mobile,South Johnside,5,Dell XPS 13,electronics,0.0,2024-03-12T03:26:03.934259
+2cf8a595-fc08-49b7-a396-53daea55e2e0,56,,2,tablet,Annaton,31,Weber Charcoal Grill,home,0.0,2024-04-07T03:26:03.934389
+0350a9ba-253a-48c8-b6ab-6afdb7e5c07d,45,25.0,0,desktop,West Debbiemouth,22,Schwinn Mountain Bike,outdoor,0.0,2024-08-06T03:26:03.934496
+d759ac1f-5671-4816-8c20-ad6ee3b7ba37,5,,2,tablet,South Katelynburgh,34,Under Armour Compression Shirt,fitness,0.0,2024-01-20T03:26:03.934593
+cb788e1d-6ebd-488b-ab97-667acd43cba0,84,11.0,1,mobile,South Jeremiahland,27,Theragun Elite,fitness,0.0,2024-01-21T03:26:03.934689
+3660da4a-05d7-4ea4-bf57-2fc8202fd1c6,46,,4,tablet,Deannaton,29,Columbia Hiking Boots,outdoor,129.99,2024-04-05T03:26:03.934788
+b3405a13-2e19-4599-b668-1f8d8868c060,14,23.0,2,desktop,North Angelamouth,6,Nike Running Shoes,fitness,0.0,2024-01-22T03:26:03.934886
+31d55e67-68a4-471f-bd63-aadba7d6396c,90,,2,desktop,New Alexandraville,27,Theragun Elite,fitness,0.0,2024-12-07T03:26:03.934981
+88c8ec5d-de0a-4bb8-810f-d37878583136,82,2.0,1,tablet,Lake Manuelstad,36,Keurig K-Elite Coffee Maker,home,0.0,2024-10-19T03:26:03.935075
+7eafa835-5eb4-429f-a6f4-57268509411d,87,,4,desktop,Port Shawnville,38,Columbia Rain Pants,outdoor,89.99,2024-08-01T03:26:03.935177
+e1e8224f-fa56-4209-b2ca-28531f67b5c5,44,14.0,0,tablet,Ryanmouth,21,Echo Dot (5th Gen),electronics,0.0,2024-04-25T03:26:03.935268
+0b6c7bca-ee7a-4f9c-b0be-2782c5a800fa,28,,2,mobile,East Jeffrey,38,Columbia Rain Pants,outdoor,0.0,2024-05-26T03:26:03.935398
+a45043c2-a26d-4626-aa3a-53e45e2ee9a8,12,34.0,1,desktop,South Christopher,29,Columbia Hiking Boots,outdoor,0.0,2024-10-12T03:26:03.935502
+16ff0265-fec4-4832-93a8-c3ba0b69cf9e,22,6.0,2,desktop,North Amandaport,33,Osprey Hiking Backpack,outdoor,0.0,2024-01-15T03:26:03.935598
+49f10c30-971b-4966-9f10-d53413486210,23,20.0,0,mobile,West Lucas,35,Google Nest Hub,electronics,0.0,2024-03-15T03:26:03.935688
+b62081f0-4c2a-4579-ada6-942d82f42eab,81,8.0,1,mobile,Gibsonshire,12,Yeti Tumbler,beverages,0.0,2024-12-10T03:26:03.935814
+190fb3c9-61a9-4510-80d5-fc36939af772,7,23.0,1,desktop,West Brandonside,17,Dyson V15 Vacuum,home,0.0,2024-05-02T03:26:03.935911
+9d29fb74-9459-4f18-a652-5b683e84af41,82,23.0,0,mobile,Robertshire,27,Theragun Elite,fitness,0.0,2024-03-12T03:26:03.936002
+b0c7d855-f44c-4e5f-a21b-1a9deb73f3ac,20,29.0,0,desktop,Davidport,36,Keurig K-Elite Coffee Maker,home,0.0,2024-11-24T03:26:03.936123
+d4ecd652-8ea6-4271-a829-0282ce1a421e,50,,4,tablet,Petersside,28,Roku Streaming Stick 4K,electronics,49.99,2024-01-19T03:26:03.936259
+32018679-36d2-4e75-bd30-b007becbfb13,84,,4,tablet,Cindyport,10,Peloton Bike,fitness,2499.0,2024-07-29T03:26:03.936372
+4a3338d3-15dd-41f4-973b-9a5a5d3fe7e0,65,,4,mobile,Lake Bethborough,23,Patagonia Rain Jacket,outdoor,149.0,2023-12-30T03:26:03.936472
+8fe87388-2f6b-47fd-80a3-39aff2cefd2c,91,,4,tablet,Amyfurt,28,Roku Streaming Stick 4K,electronics,49.99,2024-06-19T03:26:03.936562
+7284567d-9dbe-4353-beb6-8e3c26a95ee4,61,27.0,0,mobile,New Stephen,1,Air Force 1s,fashion,0.0,2023-12-30T03:26:03.936652
+63182d84-d2df-416b-8981-25ba95885312,1,,4,desktop,North Helenland,10,Peloton Bike,fitness,2499.0,2024-01-20T03:26:03.936752
+af0d37de-9654-473a-b1b9-cfbd21958298,23,,2,tablet,Wareberg,4,Herman Miller Chair,office,0.0,2024-06-16T03:26:03.936872
+e19e1ed1-1ba3-4dd7-98b0-6cbb0752d23f,11,,2,mobile,North Edward,13,Fitbit Charge 5,fitness,0.0,2023-12-30T03:26:03.936972
+7a79a39e-4b35-4415-a971-8a03c018fec3,7,,2,mobile,Susanview,7,Coleman Sundome Tent,outdoor,0.0,2024-05-17T03:26:03.937066
+d200a2b7-dc2e-47a1-aace-411188df859d,69,,2,desktop,South Justinton,4,Herman Miller Chair,office,0.0,2024-03-27T03:26:03.937170
+a90ce9d3-c084-471f-9924-0d9f516e9a5e,60,,4,tablet,Lake Jonathanville,5,Dell XPS 13,electronics,1099.99,2024-03-18T03:26:03.937266
+9761e3fa-aee1-435e-9253-6edae665f445,3,9.0,4,mobile,West Stevenfurt,17,Dyson V15 Vacuum,home,699.99,2024-10-05T03:26:03.937374
+a4ae9c23-40dd-411a-97a9-224a33fa6b4f,95,5.0,0,mobile,Morrisshire,34,Under Armour Compression Shirt,fitness,0.0,2024-07-13T03:26:03.937501
+0ae7e9c0-231a-43ba-99d8-28135a1375c4,17,,4,desktop,West Angela,25,Standing Desk Converter,office,350.0,2024-01-07T03:26:03.937597
+a83b91c4-2c73-496b-9caa-79c0e76f8505,43,,4,mobile,Jonathanberg,22,Schwinn Mountain Bike,outdoor,599.99,2024-10-30T03:26:03.937701
+5c00279c-817b-4d87-bf9a-dba125cdbbb6,91,,4,tablet,West Robert,23,Patagonia Rain Jacket,outdoor,149.0,2024-10-24T03:26:03.937793
+f185a685-b6b3-4d0e-85b8-a6043620532b,96,30.0,2,mobile,Garciaville,26,Nespresso Vertuo Plus,home,0.0,2024-05-13T03:26:03.937915
+3f1c5921-366e-4e74-b5c9-d1a274e8baca,71,13.0,1,desktop,Buckleybury,25,Standing Desk Converter,office,0.0,2024-10-12T03:26:03.938032
+b8ab1f6e-010f-48e0-b591-0af0e7c4819d,50,31.0,2,mobile,Moorebury,4,Herman Miller Chair,office,0.0,2024-12-23T03:26:03.938206
+5fa5766c-1dbe-41a5-9652-05513ff39bb2,41,,2,mobile,Patrickburgh,12,Yeti Tumbler,beverages,0.0,2024-09-16T03:26:03.938322
+db35c832-b1bb-4a66-9cde-9dd6b8c1e8df,23,31.0,0,desktop,Port Kyleborough,2,MacBook Pro,electronics,0.0,2024-03-22T03:26:03.938426
+17794826-5895-4c34-84a3-e6f8b7a91a5d,75,34.0,2,desktop,South Catherinestad,28,Roku Streaming Stick 4K,electronics,0.0,2024-12-24T03:26:03.938524
+6835c8fb-e90f-44a1-ad84-852377554ab0,18,23.0,0,tablet,Lake Jeremyland,37,Samsung 4K UHD TV,electronics,0.0,2024-05-02T03:26:03.938618
+eed7177a-a32a-4a37-a63c-5c0658abe042,43,,2,desktop,Port Kelly,34,Under Armour Compression Shirt,fitness,0.0,2024-11-22T03:26:03.938708
+fe7a5b31-8232-4c8f-8cc6-769e1d8c5567,95,6.0,2,desktop,East Kathryn,31,Weber Charcoal Grill,home,0.0,2024-11-04T03:26:03.938800
+e0c76b6f-671e-4f42-bcde-b70559335f85,86,11.0,1,tablet,Pagefurt,23,Patagonia Rain Jacket,outdoor,0.0,2024-05-29T03:26:03.938920
+8995a494-458b-4821-9c59-432015c82894,34,21.0,1,tablet,West Adrienne,9,Galaxy S21,electronics,0.0,2024-07-20T03:26:03.939013
+cd5b813b-044d-4414-856a-210a02d52cc0,98,,2,mobile,North Amy,32,Canon EOS M50,electronics,0.0,2024-12-04T03:26:03.939111
+8102fb7e-307a-4e4f-b143-5a8749ff373f,47,,2,tablet,Jasonville,6,Nike Running Shoes,fitness,0.0,2024-10-27T03:26:03.939213
+a817005a-8b5a-4629-9c2b-5cd62ccc592a,15,13.0,4,desktop,North Michael,12,Yeti Tumbler,beverages,30.0,2024-05-02T03:26:03.939316
+77a29a41-c007-41cc-9166-79d2b6713eda,3,,2,mobile,Dudleyland,33,Osprey Hiking Backpack,outdoor,0.0,2024-05-15T03:26:03.939441
+83efef3d-32c6-4a92-8211-2a87cd93a676,12,,2,mobile,Cunninghamfort,14,Kindle Paperwhite,electronics,0.0,2024-04-17T03:26:03.939567
+8fd7a595-9beb-4119-8643-c32a74eb9a45,31,,4,desktop,Carolville,3,Hydro Flask,beverages,45.0,2024-08-05T03:26:03.939663
+81ddd3da-c5af-4539-a4df-1469763f0487,9,18.0,4,desktop,Oliviaton,10,Peloton Bike,fitness,2499.0,2024-07-26T03:26:03.939753
+60efd412-0827-4601-9881-0a451ec0e9ed,70,30.0,2,desktop,North Debbie,8,North Face Backpack,accessories,0.0,2024-04-01T03:26:03.939845
+5dd7af55-36e2-42fd-8b02-2c84f0e6c103,60,,2,desktop,Danaville,20,Ray-Ban Aviator Sunglasses,accessories,0.0,2024-08-11T03:26:03.939936
+85b4d220-6e17-48c4-98f9-bc4c69af99d5,31,32.0,1,tablet,East Tammy,14,Kindle Paperwhite,electronics,0.0,2024-01-22T03:26:03.940036
+d54e951c-8dbe-43d9-a23a-246156505cbb,96,,2,mobile,Samanthaview,8,North Face Backpack,accessories,0.0,2024-02-08T03:26:03.940139
+50496a0c-c89e-496f-9e3a-5d08d3a5de3a,13,,2,desktop,Montesport,38,Columbia Rain Pants,outdoor,0.0,2024-10-19T03:26:03.940260
+59730b89-bdc3-4543-b219-0389d982e39a,30,,4,desktop,Paulborough,39,Fossil Smartwatch,accessories,199.99,2024-12-15T03:26:03.940382
+2032a491-6060-4b86-95fb-0744765d08df,36,30.0,4,desktop,East Savannahview,31,Weber Charcoal Grill,home,159.99,2024-08-20T03:26:03.940488
+c1ffb444-8a59-40b3-9490-42e108f06ea7,48,,2,desktop,North Johnfurt,15,Samsonite Spinner Luggage,accessories,0.0,2024-12-05T03:26:03.940643
+3d9df9c4-7d3b-44ba-bd04-9ab5dcef3760,66,24.0,1,tablet,Aliciaborough,28,Roku Streaming Stick 4K,electronics,0.0,2024-10-26T03:26:03.940748
+963ad5fe-b46f-4d6c-b836-e8c2efdf9428,20,7.0,0,desktop,Matthewside,9,Galaxy S21,electronics,0.0,2024-01-13T03:26:03.940841
+a1400ec0-8597-4cd4-83d1-5350e4657179,78,13.0,2,desktop,North Laurenburgh,32,Canon EOS M50,electronics,0.0,2024-08-28T03:26:03.940937
+4818449b-617c-4ff4-801f-6330e9d5a45d,73,37.0,2,tablet,East Victoriashire,3,Hydro Flask,beverages,0.0,2024-07-28T03:26:03.941033
+85973229-6e47-44a2-b9b7-b307fdbf3cb9,26,,4,mobile,Ryanland,36,Keurig K-Elite Coffee Maker,home,139.99,2024-03-15T03:26:03.941133
+76e3bcd0-3f70-4b4a-aac6-0874fc2784b2,84,,2,mobile,Port Kirsten,26,Nespresso Vertuo Plus,home,0.0,2024-10-29T03:26:03.941225
+e2e87d47-47d1-4ff5-8d5e-65a00b36eafa,86,13.0,4,desktop,North Vickiton,15,Samsonite Spinner Luggage,accessories,200.0,2024-04-07T03:26:03.941336
+bc9078f3-ab6e-4901-ac2a-2c8da78fb9c2,77,,4,desktop,North Kevinchester,23,Patagonia Rain Jacket,outdoor,149.0,2024-05-31T03:26:03.941439
+9c82d9a0-81b6-4ec4-9cb1-26860ca186e5,75,,4,tablet,Williamfort,10,Peloton Bike,fitness,2499.0,2024-09-14T03:26:03.941533
+9a769ad6-f606-417a-bb12-2a12372bc6b7,11,,2,desktop,Port Samuel,7,Coleman Sundome Tent,outdoor,0.0,2024-09-13T03:26:03.941623
+6791dbbb-202d-4c7a-b4cf-6701e59eed9d,69,13.0,4,desktop,Jeffreymouth,5,Dell XPS 13,electronics,1099.99,2024-03-01T03:26:03.941715
+52031e0f-6e42-4838-aed7-55125876ef01,6,,4,tablet,New Erinfort,1,Air Force 1s,fashion,120.0,2024-07-10T03:26:03.941812
+1b566377-6616-40b0-9586-4b4c3ef59acd,39,24.0,0,desktop,South Michaelshire,5,Dell XPS 13,electronics,0.0,2024-08-07T03:26:03.941912
+e03c5334-b0a2-4336-a700-b5d550db0d82,14,2.0,4,desktop,Annetteberg,6,Nike Running Shoes,fitness,150.0,2024-01-29T03:26:03.942005
+36ff6091-5522-4fc7-8811-17819eb337be,80,,2,mobile,Lake Susanshire,25,Standing Desk Converter,office,0.0,2024-03-19T03:26:03.942106
+bc20e220-b455-411c-898b-0bdb502c77bb,88,,2,mobile,Port Erinville,2,MacBook Pro,electronics,0.0,2024-04-28T03:26:03.942212
+b3508e33-8e1d-409b-a6ff-4016f46d68cf,13,,2,mobile,Wilsonbury,14,Kindle Paperwhite,electronics,0.0,2024-03-25T03:26:03.942363
+fd581a51-fbd1-47fa-b740-26681307e9d8,16,,2,tablet,Lake Robertstad,1,Air Force 1s,fashion,0.0,2024-05-16T03:26:03.942480
+bd8b30a0-78ad-414c-8787-914d5df6d424,25,39.0,4,desktop,Amberport,25,Standing Desk Converter,office,350.0,2024-10-23T03:26:03.942574
+4c1a3c30-ecff-4c80-97a6-1b20d6163254,71,7.0,2,mobile,Daviston,22,Schwinn Mountain Bike,outdoor,0.0,2024-10-05T03:26:03.942695
+c6dbbf27-4574-4430-9d87-bc1506d2d12a,43,,4,mobile,New Bryanview,6,Nike Running Shoes,fitness,150.0,2024-12-19T03:26:03.942793
+e3c5a34e-13d1-49b0-b73b-3379ddf6a6ca,94,31.0,1,tablet,Lake Benjaminborough,35,Google Nest Hub,electronics,0.0,2024-02-28T03:26:03.942889
+fc1a6cf8-7059-4a7b-aa9e-c6182bf779c8,7,23.0,4,tablet,Heathermouth,26,Nespresso Vertuo Plus,home,159.99,2024-12-15T03:26:03.942981
+45e3488b-9d82-4ef2-9ec7-36e6bd42873e,1,27.0,2,tablet,West Brandon,38,Columbia Rain Pants,outdoor,0.0,2024-08-01T03:26:03.943072
+6171f5cd-9e6c-4f45-9db2-83f7f5bb585a,70,,4,mobile,North Scott,15,Samsonite Spinner Luggage,accessories,200.0,2024-03-02T03:26:03.943172
+7c12e3b6-8eb9-4673-ada0-c988ac4a7d9b,75,,2,mobile,West Laurieshire,26,Nespresso Vertuo Plus,home,0.0,2024-07-29T03:26:03.943269
+c6dc5125-ceb9-4c03-a046-e6327a88aca0,16,23.0,2,tablet,Stanleyborough,3,Hydro Flask,beverages,0.0,2024-02-01T03:26:03.943405
+a7707f81-59c3-4a5b-930c-45d8aafe0983,60,,4,mobile,East Jeffrey,25,Standing Desk Converter,office,350.0,2024-02-19T03:26:03.943501
+6c8e7add-09df-4a66-bb61-24e1464ca865,63,,2,tablet,Jenniferfort,1,Air Force 1s,fashion,0.0,2024-03-14T03:26:03.943594
+2a6f7542-3ba3-4965-b106-af36116b693f,56,,4,tablet,Christinamouth,16,GoPro Hero 11,electronics,499.99,2024-02-08T03:26:03.943694
+f62445a6-2284-4f86-b3db-b1c0811351c6,35,,2,desktop,West Hannahbury,30,Tile Mate (4-Pack),electronics,0.0,2024-04-30T03:26:03.943791
+1962f612-4edb-4a3f-bba3-8d07a0af5c35,84,,4,desktop,East Kathleen,1,Air Force 1s,fashion,120.0,2024-12-03T03:26:03.943884
+0193de35-06f8-4d9f-a219-97e59853c445,52,12.0,4,desktop,Randyburgh,18,Instant Pot Duo,home,119.0,2024-02-05T03:26:03.943977
+3f7d5dbd-26cc-47b4-908e-04e391630737,42,38.0,2,desktop,North Amyfort,31,Weber Charcoal Grill,home,0.0,2024-07-18T03:26:03.944071
+79a817ec-7daf-4662-bc07-1a5bfda63ee1,36,,4,mobile,New Harry,1,Air Force 1s,fashion,120.0,2024-05-06T03:26:03.944176
+d8f40214-335c-4576-8a10-6c9b083b1188,45,38.0,2,mobile,Lanebury,17,Dyson V15 Vacuum,home,0.0,2024-11-13T03:26:03.944313
+4c446418-b057-42e0-b3cb-f27593aa618d,5,7.0,4,mobile,West Kristina,34,Under Armour Compression Shirt,fitness,49.99,2024-12-06T03:26:03.944414
+1125e6f3-51c8-4a15-aeb6-fc786f627de8,84,1.0,2,tablet,Carolburgh,19,Lululemon Yoga Pants,fashion,0.0,2024-06-02T03:26:03.944509
+231d0427-f891-4618-b464-a8c3b59ef6c3,5,23.0,2,tablet,Santosfort,34,Under Armour Compression Shirt,fitness,0.0,2024-07-23T03:26:03.944629
+14b78f75-6880-42e3-9b17-ac84b8687b05,78,20.0,4,tablet,Marybury,32,Canon EOS M50,electronics,649.0,2024-05-17T03:26:03.944726
+b7ef8c89-2014-402e-96dd-b6cf6c3d31ad,52,1.0,0,desktop,West Raymondstad,28,Roku Streaming Stick 4K,electronics,0.0,2024-07-29T03:26:03.944822
+84fa8d63-d0b6-47e6-b427-03326312048a,80,,2,desktop,Yvonnehaven,27,Theragun Elite,fitness,0.0,2024-09-20T03:26:03.944912
+c31afaaa-c76a-4662-b3a0-0c3a27fb601a,56,10.0,1,desktop,Reneeburgh,22,Schwinn Mountain Bike,outdoor,0.0,2024-02-23T03:26:03.945002
+bbba2cc4-a471-4953-8e27-9a296f797336,77,21.0,4,mobile,Codychester,5,Dell XPS 13,electronics,1099.99,2024-07-31T03:26:03.945104
+5711841c-1bdf-4fd5-b4a7-42c61e8b5243,73,6.0,1,tablet,Port Davidview,10,Peloton Bike,fitness,0.0,2024-10-22T03:26:03.945200
+44e658b1-3e29-412a-868a-2c0721c82b92,79,,4,desktop,New Darrenville,3,Hydro Flask,beverages,45.0,2024-04-25T03:26:03.945293
+8671da6c-d647-4c0c-9f6b-86d251cd3052,17,,2,tablet,North Amyside,2,MacBook Pro,electronics,0.0,2024-11-18T03:26:03.945455
+abada02d-7ce4-42fe-ad09-69ab687da013,99,31.0,4,tablet,North David,20,Ray-Ban Aviator Sunglasses,accessories,179.99,2024-05-12T03:26:03.945582
+dc55f139-802f-43e8-9cb4-35bb931dc90d,88,,4,tablet,South Brianside,1,Air Force 1s,fashion,120.0,2024-08-02T03:26:03.945689
+8290082f-a5f2-4f7a-9d3f-c7f9f7a667a0,23,,2,mobile,Mitchelltown,15,Samsonite Spinner Luggage,accessories,0.0,2024-01-25T03:26:03.945814
+37e0627d-7441-429d-ae60-b3b671c37824,26,,2,tablet,West Nathanbury,35,Google Nest Hub,electronics,0.0,2024-02-13T03:26:03.945913
+993240bd-6b42-4ff5-8e4f-3517294562ba,92,33.0,0,tablet,Harrisborough,18,Instant Pot Duo,home,0.0,2024-11-22T03:26:03.946034
+d042a3ef-56f6-4a4f-90e7-1dd2e20b0b94,93,15.0,2,mobile,Loganmouth,30,Tile Mate (4-Pack),electronics,0.0,2024-02-13T03:26:03.946135
+f635bfa5-4c5e-418b-bc39-90929de2641b,47,18.0,0,desktop,Maytown,18,Instant Pot Duo,home,0.0,2024-03-04T03:26:03.946263
+3fea71cb-c4c5-402b-9fc9-ebdba5d6c307,59,34.0,4,desktop,New Melissa,7,Coleman Sundome Tent,outdoor,89.99,2024-05-07T03:26:03.946373
+369ea1ed-aabb-4c9a-9ce0-3771284ed64e,38,34.0,4,tablet,Williamsborough,24,Bose QuietComfort Earbuds,electronics,279.0,2023-12-26T03:26:03.946496
+79d9dccc-cd33-409e-86a7-a777e8726111,84,38.0,4,mobile,Mistyberg,12,Yeti Tumbler,beverages,30.0,2024-03-28T03:26:03.946588
+91881256-d56a-4ac7-9302-f579251f8487,14,21.0,1,tablet,West Tammy,12,Yeti Tumbler,beverages,0.0,2024-04-05T03:26:03.946679
+c5cdcdb3-5a8b-4c4a-ae2a-94176c5f2d97,70,,2,mobile,Lake Gloria,23,Patagonia Rain Jacket,outdoor,0.0,2024-11-10T03:26:03.946771
+3c790e3d-eb81-4499-9e43-3d7c24875750,23,25.0,0,desktop,Navarrofurt,23,Patagonia Rain Jacket,outdoor,0.0,2024-08-02T03:26:03.946896
+bb1e157e-2051-4710-9518-bad6c1abee5d,42,29.0,2,mobile,Lake Adam,32,Canon EOS M50,electronics,0.0,2024-01-06T03:26:03.946999
+dd3b8c09-070c-47d1-a773-46c503dde26f,83,,4,desktop,Port Rebecca,33,Osprey Hiking Backpack,outdoor,189.99,2024-05-27T03:26:03.947094
+8d7d60ff-00cd-4998-955f-6879564b27fd,17,33.0,1,tablet,East Jamesville,1,Air Force 1s,fashion,0.0,2024-05-04T03:26:03.947197
+a3942246-23e7-4c59-8ed4-9ea57569e4dd,67,1.0,0,tablet,Robertsport,25,Standing Desk Converter,office,0.0,2024-12-02T03:26:03.947335
+46dea2f8-3093-41d9-80bf-c8a0ff491885,34,,2,mobile,Jeremymouth,16,GoPro Hero 11,electronics,0.0,2024-10-10T03:26:03.947441
+3e29ab95-1b76-4582-a8d1-798a69db4b9d,5,32.0,4,desktop,South Sallyville,25,Standing Desk Converter,office,350.0,2024-09-20T03:26:03.947540
+f1ed63db-ff17-4b68-8a62-b0a776de7f8d,51,,2,tablet,Lake Wendybury,39,Fossil Smartwatch,accessories,0.0,2024-02-12T03:26:03.947636
+eff89031-d386-4c36-a41d-a8537028a3dc,64,23.0,1,tablet,West Timothy,15,Samsonite Spinner Luggage,accessories,0.0,2024-01-26T03:26:03.947727
+808c9173-ab23-4500-936e-3ff60bb425da,24,,2,mobile,Craigstad,1,Air Force 1s,fashion,0.0,2024-11-07T03:26:03.947819
+baa1d966-cac4-4baa-b501-de97f9ac0381,13,18.0,0,desktop,North Lori,18,Instant Pot Duo,home,0.0,2024-03-14T03:26:03.947910
+302611c7-dd76-4e4d-b4a1-89076ec7bd4b,22,,2,desktop,South Rebeccaview,39,Fossil Smartwatch,accessories,0.0,2024-01-07T03:26:03.948006
+092f07dc-daa3-4308-aaba-969b20fe807e,32,,2,tablet,Frostberg,17,Dyson V15 Vacuum,home,0.0,2024-02-13T03:26:03.948135
+e3a98656-e2e0-4d9c-b353-eb5ae422b156,87,,4,mobile,New Micheletown,33,Osprey Hiking Backpack,outdoor,189.99,2024-10-16T03:26:03.948244
+5c7d003d-06f0-4a66-879c-a4a6caacc500,73,32.0,4,mobile,Port Michelleland,28,Roku Streaming Stick 4K,electronics,49.99,2024-04-09T03:26:03.948353
+c9718a63-191d-40c9-98a2-25102c0e67ff,16,38.0,1,desktop,East Angela,22,Schwinn Mountain Bike,outdoor,0.0,2024-02-18T03:26:03.948445
+8e7ae653-4c56-41ac-a35e-bd1b178b00ab,41,,2,mobile,Hamptonburgh,13,Fitbit Charge 5,fitness,0.0,2024-09-20T03:26:03.948568
+415959dd-51e1-44eb-996d-78d969e4b477,97,,2,tablet,West Nicolebury,16,GoPro Hero 11,electronics,0.0,2024-06-24T03:26:03.948665
+ae4cd4cd-f6b3-483f-bc1e-203fd6722ac5,58,,2,mobile,West Steven,20,Ray-Ban Aviator Sunglasses,accessories,0.0,2024-02-22T03:26:03.948757
+b700c813-a486-4ff9-8ca4-078d1b7ecb46,23,4.0,4,mobile,Dennisville,34,Under Armour Compression Shirt,fitness,49.99,2024-03-27T03:26:03.948848
+909bcdf8-23fe-4d0f-9b2f-b95b99f16d0b,34,,4,desktop,Jessicabury,14,Kindle Paperwhite,electronics,139.99,2024-07-22T03:26:03.948938
+c8cc6266-acae-430f-a8b7-29630ddf4994,88,,4,tablet,East Noahville,2,MacBook Pro,electronics,1999.99,2024-11-09T03:26:03.949032
+05ee5451-9ebd-4439-80d3-423e6f54d34e,42,,4,desktop,North Rachel,15,Samsonite Spinner Luggage,accessories,200.0,2024-02-23T03:26:03.949128
+dee30475-bb10-4f78-b5d7-c4b631b5d3b6,91,,4,desktop,Mendezport,17,Dyson V15 Vacuum,home,699.99,2024-07-03T03:26:03.949249
+e2809283-0712-4c5c-9920-7c05cf69d6f1,45,,2,mobile,Heathermouth,34,Under Armour Compression Shirt,fitness,0.0,2024-06-17T03:26:03.949356
+50e242ee-04d3-4af2-8f1f-1e9a8677cb3e,91,38.0,1,desktop,Port Morganport,8,North Face Backpack,accessories,0.0,2024-06-30T03:26:03.949454
+c4321fe2-1326-42ee-aef0-319153d78616,45,27.0,0,tablet,New Cynthiaside,21,Echo Dot (5th Gen),electronics,0.0,2024-07-26T03:26:03.949549
+e94a3efe-a6ea-47b3-95b0-a873f0b81426,13,20.0,2,tablet,Jonathanview,1,Air Force 1s,fashion,0.0,2024-12-18T03:26:03.949639
+3db8fe7d-d49d-4931-85a2-1152e9e10b98,64,,4,desktop,Dunnberg,31,Weber Charcoal Grill,home,159.99,2024-03-24T03:26:03.949758
+0ab9b408-f1cb-43dc-aef8-b646c18c14bf,37,2.0,1,mobile,South Julie,32,Canon EOS M50,electronics,0.0,2024-08-26T03:26:03.949849
+17db4b99-150b-4d3c-b3ec-7f5459628ce1,14,,2,mobile,Sanchezchester,2,MacBook Pro,electronics,0.0,2024-07-21T03:26:03.949967
+f0c9e921-7120-46f5-9f3a-bc44f92d870f,53,5.0,0,desktop,North Emilybury,29,Columbia Hiking Boots,outdoor,0.0,2024-09-03T03:26:03.950064
+8cc6cf88-3ae9-42d9-a4e9-58c582d6a668,95,,2,desktop,Port Kevin,31,Weber Charcoal Grill,home,0.0,2024-12-08T03:26:03.950160
+8fa871b2-53c2-4347-a40c-4a9ec7749774,71,,2,tablet,Lake Davidfort,16,GoPro Hero 11,electronics,0.0,2024-05-31T03:26:03.950255
+9a72e3cf-ab40-4cf2-93c5-91ec20b3f872,99,30.0,2,desktop,Port Anthonyborough,37,Samsung 4K UHD TV,electronics,0.0,2024-11-30T03:26:03.950361
+48c29ca7-40d9-4c4a-962b-c26efb85f234,5,13.0,1,tablet,South Robertborough,34,Under Armour Compression Shirt,fitness,0.0,2024-02-28T03:26:03.950456
+d4d900a8-cd5f-4dce-90f1-3db9f463049e,21,21.0,4,tablet,South Nicholasside,1,Air Force 1s,fashion,120.0,2024-08-22T03:26:03.950551
+e6334027-c012-4c6a-a8c0-2b5c95aa4506,21,9.0,0,desktop,Victoriaview,31,Weber Charcoal Grill,home,0.0,2024-06-27T03:26:03.950643
+e533a224-6bcc-41f5-a61b-3c7f0e1a623d,13,30.0,2,mobile,Thomasmouth,12,Yeti Tumbler,beverages,0.0,2024-07-09T03:26:03.950736
+a5ed3d04-5972-4472-bd99-cd444391ac15,3,37.0,1,tablet,Joseberg,39,Fossil Smartwatch,accessories,0.0,2024-01-12T03:26:03.950830
+43a7683c-afdd-4c34-a8a6-8996aa4ea879,15,5.0,0,tablet,Sheppardville,4,Herman Miller Chair,office,0.0,2024-10-08T03:26:03.950952
+201cc1fb-74e2-430f-96c3-e20f74c8e30e,2,5.0,2,tablet,Anthonystad,27,Theragun Elite,fitness,0.0,2024-08-29T03:26:03.951043
+0f510bc8-0b93-4982-9219-5b749400bb56,4,33.0,2,desktop,Valerieton,39,Fossil Smartwatch,accessories,0.0,2024-09-26T03:26:03.951139
+255c397d-ddc9-4bcb-8589-ed3cb34e9df8,31,7.0,1,mobile,West Destinyport,29,Columbia Hiking Boots,outdoor,0.0,2024-08-27T03:26:03.951233
+0d9696a8-2492-4522-874e-ea37d10ab5dc,24,9.0,0,desktop,Port Sharon,3,Hydro Flask,beverages,0.0,2024-09-13T03:26:03.951337
+0a058bea-4be4-4681-b929-aa2613adfdb7,78,,4,mobile,Coopertown,19,Lululemon Yoga Pants,fashion,98.0,2024-03-24T03:26:03.951460
+9ac2a7bb-38c7-41a0-bcdb-4aed4123e918,78,,4,desktop,New Sarah,18,Instant Pot Duo,home,119.0,2024-01-08T03:26:03.951552
+c2f2ff45-785a-492b-8d87-ffd8902e3017,14,,4,desktop,Fergusonview,34,Under Armour Compression Shirt,fitness,49.99,2024-06-27T03:26:03.951670
+b09d3ec8-7314-42e4-a39d-bf1d4e8e7b20,12,,2,desktop,Jeffreyville,35,Google Nest Hub,electronics,0.0,2024-06-21T03:26:03.951766
+7c91c63c-4e7f-436a-ac9e-3df1ed24add6,70,12.0,0,mobile,West Patricia,36,Keurig K-Elite Coffee Maker,home,0.0,2024-04-25T03:26:03.951887
+2b962ce0-adf8-4cfe-981b-59d231b507c7,89,34.0,2,mobile,Nealfurt,22,Schwinn Mountain Bike,outdoor,0.0,2024-08-17T03:26:03.952017
+66b9bcba-679e-443b-8929-2688e02fda60,59,38.0,4,mobile,Schmidtberg,37,Samsung 4K UHD TV,electronics,599.99,2024-07-26T03:26:03.952141
+5eb2b0bb-6d68-4b1f-838f-cb168ed084ee,99,,2,tablet,Harrisville,35,Google Nest Hub,electronics,0.0,2024-07-17T03:26:03.952260
+21b7abe5-f510-45a9-8900-24b852bf3a97,60,20.0,2,desktop,Larryburgh,25,Standing Desk Converter,office,0.0,2024-07-01T03:26:03.952370
+a9e1acb9-33be-4c10-9ce2-00078f1ce9a6,99,7.0,1,desktop,Michaelmouth,33,Osprey Hiking Backpack,outdoor,0.0,2024-01-21T03:26:03.952463
+2e516dc7-e16f-48b3-8eb3-4a2e7a9bc96e,71,,4,mobile,Lake Elizabeth,21,Echo Dot (5th Gen),electronics,49.99,2024-09-08T03:26:03.952560
+5cac8c19-0342-459b-a103-e83aa6925e8d,26,23.0,4,desktop,Williamsborough,22,Schwinn Mountain Bike,outdoor,599.99,2024-04-28T03:26:03.952680
+6f7497b5-e497-482c-a136-55debfc7f350,89,29.0,4,desktop,West Katherine,4,Herman Miller Chair,office,1400.0,2024-10-03T03:26:03.952773
+1414efa9-aff0-4999-a3be-7a247ae392af,3,11.0,1,tablet,Deannaberg,8,North Face Backpack,accessories,0.0,2024-12-13T03:26:03.952866
+c52b6a05-ed29-4d61-acb4-0038ddb76854,100,31.0,1,desktop,North Elizabeth,2,MacBook Pro,electronics,0.0,2024-01-12T03:26:03.952956
+23f07b1a-5358-4025-a95d-93c419aba658,90,25.0,4,tablet,Jenniferside,5,Dell XPS 13,electronics,1099.99,2024-11-04T03:26:03.953048
+4c48e2d3-98bb-467d-a09d-ae6ba515c65d,78,34.0,1,mobile,East Nicoleberg,5,Dell XPS 13,electronics,0.0,2023-12-30T03:26:03.953150
+98d6923d-2333-4a85-bc3f-63d524609dbb,61,,2,mobile,Jeffreyside,27,Theragun Elite,fitness,0.0,2024-04-21T03:26:03.953243
+d3b75622-0115-45b4-bc1d-97861d337efb,95,13.0,4,mobile,Teresaborough,18,Instant Pot Duo,home,119.0,2024-09-07T03:26:03.953349
+00a0cef6-6d9c-44af-820e-8fd0f5cd2ea7,96,,4,tablet,West Amanda,9,Galaxy S21,electronics,799.99,2024-01-30T03:26:03.953443
+17606a7d-4072-4f61-b167-82a274c4226a,75,39.0,4,tablet,South Angela,22,Schwinn Mountain Bike,outdoor,599.99,2024-04-27T03:26:03.953534
+eeadedea-0f9e-479e-9df4-88915c69326d,17,,4,desktop,Stephenport,38,Columbia Rain Pants,outdoor,89.99,2024-02-11T03:26:03.953627
+b97ee15b-df0d-4aa6-a892-f56d5809a5f5,17,,4,mobile,Sarahport,22,Schwinn Mountain Bike,outdoor,599.99,2024-03-07T03:26:03.953720
+cf7a9f30-7c05-4af4-a748-cfc483b12422,81,,2,mobile,Conradborough,31,Weber Charcoal Grill,home,0.0,2024-01-29T03:26:03.953840
+2a4d805b-9b23-427d-af0c-896f7e4e8461,2,23.0,1,mobile,Lake Melissamouth,19,Lululemon Yoga Pants,fashion,0.0,2024-09-27T03:26:03.953936
+5357dc26-2e13-47e0-aee4-8c8d2f81764f,68,27.0,2,mobile,East Michaelfort,16,GoPro Hero 11,electronics,0.0,2024-06-28T03:26:03.954030
+ff1001de-702a-4ac4-8f25-208cb067b604,42,,2,desktop,West Amandachester,39,Fossil Smartwatch,accessories,0.0,2024-04-08T03:26:03.954134
+fdf0d044-8e4e-49a4-aa73-b2380ba9f88b,54,,4,mobile,New Dawnburgh,27,Theragun Elite,fitness,399.0,2024-05-18T03:26:03.954240
+fedd946f-dc9d-47dd-933e-e261cc5c9566,39,,2,desktop,Port Cliffordside,14,Kindle Paperwhite,electronics,0.0,2024-05-29T03:26:03.954351
+ec3470b9-129d-4aa7-9087-58e7e4bb048f,19,17.0,2,desktop,Port Catherineport,30,Tile Mate (4-Pack),electronics,0.0,2024-10-28T03:26:03.954450
+e986eaa2-7fa5-4a33-9ca8-a0a70eea2325,21,39.0,4,desktop,Avilabury,33,Osprey Hiking Backpack,outdoor,189.99,2024-04-30T03:26:03.954570
+065064c1-f7c6-47d0-9d0e-9eef16518485,7,,2,mobile,Lesliechester,36,Keurig K-Elite Coffee Maker,home,0.0,2024-05-19T03:26:03.954662
+505f62b0-9d63-4c43-9975-3b952304c543,66,,4,tablet,West Jeffrey,36,Keurig K-Elite Coffee Maker,home,139.99,2024-04-05T03:26:03.954752
+40b20d58-9f1b-453a-bb7b-d2b994175c26,35,26.0,4,tablet,New Lawrence,8,North Face Backpack,accessories,99.99,2023-12-30T03:26:03.954844
+a7b30280-026e-4c04-a405-fcb5d3aae3fb,100,,2,mobile,Port Michael,9,Galaxy S21,electronics,0.0,2024-09-20T03:26:03.954934
+46e5cb56-2b24-4569-afeb-351b3dfe9eaf,49,,4,desktop,New Jonton,4,Herman Miller Chair,office,1400.0,2024-03-02T03:26:03.955029
+62bc1e2f-e78c-4279-ad5a-bf3e8cda8f7b,47,,2,tablet,Contrerasfort,18,Instant Pot Duo,home,0.0,2024-03-05T03:26:03.955158
+36a56b6c-636f-4028-889c-22180bc30ae2,42,1.0,4,tablet,Lynnborough,5,Dell XPS 13,electronics,1099.99,2024-03-23T03:26:03.955251
+6e804653-0b77-4c0f-82c8-002110efe747,44,,2,mobile,Shelleystad,16,GoPro Hero 11,electronics,0.0,2024-09-19T03:26:03.955356
+4fd004db-0a3e-4fcc-a8be-5b5e91172d93,7,,4,desktop,Johnborough,19,Lululemon Yoga Pants,fashion,98.0,2024-08-26T03:26:03.955450
+ab3d4b79-0ea8-499c-a280-aaed1e30d1cb,39,,4,tablet,West Kelseyshire,5,Dell XPS 13,electronics,1099.99,2024-06-20T03:26:03.955546
+316ae654-8421-465e-9431-8b0931439604,91,,4,desktop,Jessicachester,17,Dyson V15 Vacuum,home,699.99,2024-02-13T03:26:03.955638
+4725f53b-4ab5-4108-9763-6075da49f80f,100,11.0,1,tablet,Joannside,25,Standing Desk Converter,office,0.0,2024-02-04T03:26:03.955728
+1ff09eaa-e99b-45ba-b14e-becdfddf2c52,77,,2,mobile,Scottville,18,Instant Pot Duo,home,0.0,2024-08-10T03:26:03.955817
+dead587a-e72e-43b0-8ea6-6558d0de5380,26,,4,mobile,East William,4,Herman Miller Chair,office,1400.0,2024-09-11T03:26:03.955907
+be0832cf-a707-4309-bfdd-733cc4d012e9,46,22.0,4,mobile,Bonnieberg,22,Schwinn Mountain Bike,outdoor,599.99,2024-06-26T03:26:03.955998
+6e173269-5b72-4b9e-8675-43d7612d2f80,28,,2,desktop,Cynthiabury,26,Nespresso Vertuo Plus,home,0.0,2024-01-13T03:26:03.956115
+5c7342f1-168e-44d4-b17a-cbdb64c3eff3,39,,2,desktop,Port Morgan,15,Samsonite Spinner Luggage,accessories,0.0,2024-08-09T03:26:03.956210
+d4958e38-a23f-4989-8adb-bdf08a7f48cf,50,33.0,1,tablet,Lancefurt,28,Roku Streaming Stick 4K,electronics,0.0,2024-05-18T03:26:03.956314
+e709112d-c8a8-45c8-91bf-96496910bce3,83,11.0,0,desktop,Durantown,10,Peloton Bike,fitness,0.0,2024-03-13T03:26:03.956448
+ae28b415-a364-4488-b8a5-567a2c20eaf6,94,10.0,0,desktop,North Christopher,3,Hydro Flask,beverages,0.0,2024-05-27T03:26:03.956542
+c08a9686-6027-4b9f-95fe-f70bdf05cfd7,96,,2,mobile,Hernandezport,25,Standing Desk Converter,office,0.0,2024-03-07T03:26:03.956662
+c92bc36d-7179-4e3b-bd92-23c91f3b8973,58,17.0,0,tablet,Jessechester,25,Standing Desk Converter,office,0.0,2024-07-04T03:26:03.956759
+52ed97ef-80c6-4d08-a484-2bfec73e79f9,49,,4,desktop,New Cody,39,Fossil Smartwatch,accessories,199.99,2024-12-06T03:26:03.956851
+e83ab0e2-3eec-48d3-b0ef-957b0663713b,93,,4,mobile,North Philipstad,35,Google Nest Hub,electronics,99.99,2024-06-14T03:26:03.956953
+cb5069ab-7028-4442-87ac-329be230b8a5,83,,4,tablet,Glennmouth,27,Theragun Elite,fitness,399.0,2024-01-22T03:26:03.957072
+87799c36-d123-4717-951a-437669892c44,42,4.0,1,desktop,Hannahland,6,Nike Running Shoes,fitness,0.0,2024-08-17T03:26:03.957172
+80574bdf-0546-4b77-8e02-a4f04d7d2151,2,,2,mobile,Port Michelle,25,Standing Desk Converter,office,0.0,2024-05-08T03:26:03.957265
+4a219f6f-30cc-49d2-a931-9c6e4adb4885,8,,4,mobile,New Juliahaven,34,Under Armour Compression Shirt,fitness,49.99,2024-08-31T03:26:03.957376
+a3b2117c-0211-4578-bc94-7ef5b83bd49f,81,27.0,0,desktop,Colliershire,33,Osprey Hiking Backpack,outdoor,0.0,2024-06-06T03:26:03.957497
+c09bbe77-7c01-4ebd-bd26-c86c9321f4e6,21,,4,mobile,Cummingsmouth,3,Hydro Flask,beverages,45.0,2024-06-15T03:26:03.957615
+e8ace141-445c-4d22-860b-41bf8af9a061,38,39.0,2,desktop,North Stephanieside,16,GoPro Hero 11,electronics,0.0,2024-04-25T03:26:03.957712
+9ee63205-8003-45a6-b853-848d26771826,18,3.0,0,tablet,Lake Jorgemouth,1,Air Force 1s,fashion,0.0,2024-02-18T03:26:03.957806
+c581329b-8797-4bf7-abf6-a4aa9d5b9d3f,76,5.0,2,tablet,Port Jamesmouth,2,MacBook Pro,electronics,0.0,2024-06-21T03:26:03.957901
+3318c09d-a6f3-43ac-bc5c-db0c15a286db,73,10.0,1,tablet,Jessicaton,24,Bose QuietComfort Earbuds,electronics,0.0,2024-11-13T03:26:03.957992
+41404d20-28fe-4b5d-9383-c26b5ab04ecc,100,16.0,0,desktop,North Lucas,3,Hydro Flask,beverages,0.0,2024-07-16T03:26:03.958081
+bcd31778-0aab-4e96-bef3-cd54f5bc8811,35,,4,desktop,East Dana,20,Ray-Ban Aviator Sunglasses,accessories,179.99,2024-12-23T03:26:03.958185
+4684a46a-374d-41f8-9eb1-fb75b77bd2fd,92,12.0,2,desktop,Port Jay,15,Samsonite Spinner Luggage,accessories,0.0,2024-07-04T03:26:03.958275
+25db04f5-ca15-4e61-b0b4-ebdff9d98d1c,34,28.0,4,mobile,Lake Peter,33,Osprey Hiking Backpack,outdoor,189.99,2024-05-22T03:26:03.958378
+22f097d5-e207-45d3-a298-f12603ca757b,43,32.0,2,desktop,Jamesside,6,Nike Running Shoes,fitness,0.0,2024-09-02T03:26:03.958470
+216b1ff5-320e-46a8-a2ea-68ee32ca987c,100,,2,mobile,Lake Erikabury,6,Nike Running Shoes,fitness,0.0,2024-01-08T03:26:03.958566
+f2e48c16-d652-4a13-be43-d2447e476a95,49,,4,tablet,Jonathantown,10,Peloton Bike,fitness,2499.0,2024-11-20T03:26:03.958657
+fe39d413-3da1-45d2-9393-f4f9f95671be,3,20.0,2,desktop,Smithview,23,Patagonia Rain Jacket,outdoor,0.0,2024-11-29T03:26:03.958776
+5bcfeb9e-2bae-42f4-88b2-ea481f14d570,48,,2,desktop,Lake Lisa,27,Theragun Elite,fitness,0.0,2024-01-29T03:26:03.958867
+97994a7e-6f94-4f34-bb47-586bc22ea784,80,23.0,1,desktop,East Kim,10,Peloton Bike,fitness,0.0,2023-12-26T03:26:03.958958
+f0a090fa-716d-48e4-8a42-1924e74e78ed,31,,4,mobile,Lisamouth,32,Canon EOS M50,electronics,649.0,2024-11-27T03:26:03.959049
+7478c811-49de-4aeb-a913-3b52ca940db7,10,,4,tablet,Grayville,17,Dyson V15 Vacuum,home,699.99,2024-10-05T03:26:03.959175
+c9b356ba-952a-4629-b7df-dda8d5cb4e52,57,3.0,4,mobile,Johnsonstad,32,Canon EOS M50,electronics,649.0,2024-04-03T03:26:03.959309
+e5328c32-b597-463e-9125-9732bfe0d437,81,,4,mobile,Grosshaven,27,Theragun Elite,fitness,399.0,2023-12-25T03:26:03.959429
+c16975da-048d-430e-a41d-ad0e461d07e0,48,,4,tablet,Erinburgh,25,Standing Desk Converter,office,350.0,2024-11-17T03:26:03.959523
+b170d35a-ffa3-4ead-8a31-74fe02c0c152,36,17.0,4,desktop,West Olivia,28,Roku Streaming Stick 4K,electronics,49.99,2024-10-04T03:26:03.959614
+0265efb4-92d0-456b-930a-dc845e316940,33,34.0,1,mobile,Navarroborough,20,Ray-Ban Aviator Sunglasses,accessories,0.0,2024-11-12T03:26:03.959733
+c90c6d06-6a82-4749-bbd6-2efa8ca07d6c,76,,4,mobile,Rachelhaven,15,Samsonite Spinner Luggage,accessories,200.0,2024-11-28T03:26:03.959824
+dcff34ed-54ab-40ea-82d0-95f557249857,51,,4,tablet,Reedberg,23,Patagonia Rain Jacket,outdoor,149.0,2024-12-13T03:26:03.959941
+e6ce33c1-2d06-4aea-8203-46c2fe659594,89,,4,desktop,Lake John,8,North Face Backpack,accessories,99.99,2024-03-23T03:26:03.960032
+edd21623-1ea3-49c2-b101-6ee2ec440e49,30,32.0,2,tablet,Lake Debra,37,Samsung 4K UHD TV,electronics,0.0,2024-08-08T03:26:03.960131
+f9d13ea3-71f7-4e6c-b6d5-723d807cf5a0,60,,2,mobile,Novakfort,18,Instant Pot Duo,home,0.0,2024-03-29T03:26:03.960250
+0a47f32a-52e8-4fcb-b04a-e7af536e358f,7,,4,desktop,Grahamland,22,Schwinn Mountain Bike,outdoor,599.99,2024-01-08T03:26:03.960430
+3fb1170c-f8f9-4fc5-ac55-4d80d5335315,6,38.0,2,tablet,New Christopherhaven,24,Bose QuietComfort Earbuds,electronics,0.0,2024-09-02T03:26:03.960548
+d064df1f-d270-48de-9b42-ebc8064d1e53,100,11.0,1,desktop,East Allisonton,22,Schwinn Mountain Bike,outdoor,0.0,2024-02-05T03:26:03.960644
+ca740465-1f2c-4f66-8b95-f845b096c09c,83,24.0,4,desktop,Chaseville,14,Kindle Paperwhite,electronics,139.99,2024-10-03T03:26:03.960767
+f8308096-44b9-442e-bd0b-948a130e8130,43,5.0,1,tablet,Aprilbury,8,North Face Backpack,accessories,0.0,2024-01-01T03:26:03.960861
+3c9e5545-d540-4daa-9f6f-14e24786ad00,59,30.0,1,tablet,Hillside,30,Tile Mate (4-Pack),electronics,0.0,2024-05-15T03:26:03.960978
+b0dfae76-8645-4a9c-907f-fafab43e89fa,72,7.0,1,desktop,Johnsonburgh,17,Dyson V15 Vacuum,home,0.0,2024-01-01T03:26:03.961095
+2f72fac8-f14c-4953-9471-4dcb94302f81,90,13.0,2,desktop,North Laura,25,Standing Desk Converter,office,0.0,2024-12-19T03:26:03.961197
+b3c730f2-c410-4830-858c-a215672546e8,11,36.0,0,desktop,East Tiffany,18,Instant Pot Duo,home,0.0,2024-09-14T03:26:03.961313
+a264d15a-1833-41f0-9b29-232c5de8bcab,41,,4,tablet,Hernandezside,15,Samsonite Spinner Luggage,accessories,200.0,2024-03-25T03:26:03.961440
+5e3c9c4f-32bc-48ec-8251-454c6bea7f79,22,,2,mobile,Miguelmouth,23,Patagonia Rain Jacket,outdoor,0.0,2024-03-07T03:26:03.961540
+6b8a714b-b55d-46b2-95df-cfb722da7c85,94,,2,tablet,Port Stephanietown,13,Fitbit Charge 5,fitness,0.0,2024-09-14T03:26:03.961638
+2caf696e-6c11-49b7-bd8c-541727e19678,23,,2,tablet,Smithtown,34,Under Armour Compression Shirt,fitness,0.0,2024-02-27T03:26:03.961757
+d8df52d8-16da-40f8-81de-8ab15a86466f,23,,4,desktop,Harrisside,32,Canon EOS M50,electronics,649.0,2024-10-07T03:26:03.961874
+45674573-855d-490f-906a-cf1d3474792c,23,10.0,1,desktop,Suttonfort,33,Osprey Hiking Backpack,outdoor,0.0,2024-01-23T03:26:03.961997
+f187ad7b-ec9c-4b77-9399-f1c0f943ec3b,73,,4,tablet,Amyview,5,Dell XPS 13,electronics,1099.99,2024-08-02T03:26:03.962089
+18443765-7955-42e0-a6cb-69f8b7738290,35,,2,desktop,South Lawrence,5,Dell XPS 13,electronics,0.0,2024-11-07T03:26:03.962187
+2f9065d6-72b5-48c1-ad2a-8bb6a343af13,2,30.0,0,mobile,Moyerton,38,Columbia Rain Pants,outdoor,0.0,2024-06-12T03:26:03.962324
+4fe0c0bd-7210-4c82-821c-15e3bc985a63,23,20.0,2,desktop,Lake Zacharymouth,25,Standing Desk Converter,office,0.0,2024-02-15T03:26:03.962428
+3cca0d06-79be-4d70-829f-32eb5d2792b5,78,32.0,0,tablet,West Veronicafort,30,Tile Mate (4-Pack),electronics,0.0,2024-10-31T03:26:03.962524
+ff634dff-3c73-4553-8e64-c8cb658610b0,7,18.0,1,desktop,Stephaniemouth,30,Tile Mate (4-Pack),electronics,0.0,2024-01-02T03:26:03.962614
+6adb1131-c3ce-43ad-8699-ca4c0efc6770,8,,2,desktop,South Veronicamouth,33,Osprey Hiking Backpack,outdoor,0.0,2024-07-03T03:26:03.962706
+47688ae0-ee97-46c3-9e06-9ef114b5f220,75,22.0,1,tablet,Whiteburgh,21,Echo Dot (5th Gen),electronics,0.0,2024-02-08T03:26:03.962826
+bfb0e8b6-3a91-4c28-9ca5-fbac3a6b849c,4,,4,tablet,Lake Brenda,28,Roku Streaming Stick 4K,electronics,49.99,2024-04-18T03:26:03.962918
+35f5989c-3d51-449e-973b-d871feefbea1,49,11.0,2,mobile,East Tyler,12,Yeti Tumbler,beverages,0.0,2024-10-18T03:26:03.963009
+dd250e20-bf4f-4c16-80b7-451e15286680,67,30.0,0,mobile,Kimberlyfort,36,Keurig K-Elite Coffee Maker,home,0.0,2024-11-14T03:26:03.963107
+f973f3a5-c475-456d-a5f1-0baf9c6b0632,24,15.0,2,tablet,Michaelport,27,Theragun Elite,fitness,0.0,2024-07-27T03:26:03.963198
+bef29767-5a8d-4f26-8858-74ec9b4260b4,97,19.0,4,tablet,Lake Janetland,26,Nespresso Vertuo Plus,home,159.99,2024-02-05T03:26:03.963294
+01f863d3-b4cb-4497-bb0e-50ca2e78940d,85,30.0,2,desktop,South Brandonborough,4,Herman Miller Chair,office,0.0,2023-12-27T03:26:03.963411
+a57a58f9-3ea5-44a3-80a3-dc57a8ad49eb,20,13.0,2,desktop,New Ernest,37,Samsung 4K UHD TV,electronics,0.0,2024-05-20T03:26:03.963501
+8c24fbf2-a1df-4ca1-b58d-02cfcd0b4499,35,,4,mobile,West Elizabethborough,35,Google Nest Hub,electronics,99.99,2024-05-30T03:26:03.963598
+6b13ce28-c211-4107-bd0b-71c7ea58ca5d,55,,2,desktop,Ricestad,22,Schwinn Mountain Bike,outdoor,0.0,2024-06-18T03:26:03.963722
+970586ce-716e-4569-934d-0cf373d45403,64,,2,tablet,North John,2,MacBook Pro,electronics,0.0,2024-10-23T03:26:03.963815
+656345a2-0e50-4a7f-9fbf-534ca644a470,78,,2,mobile,Port Kevin,15,Samsonite Spinner Luggage,accessories,0.0,2024-07-29T03:26:03.963907
+c7cb4f21-78ed-4bc4-bef4-b1879e92c711,44,35.0,2,tablet,East Donald,31,Weber Charcoal Grill,home,0.0,2024-12-15T03:26:03.963998
+cd7e2bae-0d70-4abb-aac1-5da6ad8d35b2,5,29.0,4,mobile,Danielbury,6,Nike Running Shoes,fitness,150.0,2024-06-09T03:26:03.964091
+75fe9504-e0e9-449a-8735-b42923f97a97,42,28.0,1,desktop,South Angela,34,Under Armour Compression Shirt,fitness,0.0,2024-11-26T03:26:03.964195
+f235a03f-0211-4d6b-a5d6-16ea6fa05df6,45,8.0,2,mobile,Wongshire,36,Keurig K-Elite Coffee Maker,home,0.0,2024-11-04T03:26:03.964329
+01be9241-9c7a-4849-bd0b-ed30488c4ab8,1,,4,mobile,South Mariofort,31,Weber Charcoal Grill,home,159.99,2024-06-18T03:26:03.964467
+749e844d-9925-4ede-967a-f30cf18fdb2f,39,,4,desktop,North Kayla,28,Roku Streaming Stick 4K,electronics,49.99,2023-12-28T03:26:03.964589
+fa452baf-cc08-4bd3-8584-ed30a9fffb77,31,,4,mobile,New Ricardo,4,Herman Miller Chair,office,1400.0,2024-12-22T03:26:03.964686
+52e6580c-3625-47e7-8a0d-3d3163ff48d7,54,24.0,1,desktop,New Elijah,9,Galaxy S21,electronics,0.0,2024-04-26T03:26:03.964779
+8c7e79ad-af85-486e-a397-ba6669a140c6,33,13.0,4,desktop,Hernandezview,30,Tile Mate (4-Pack),electronics,69.99,2024-05-26T03:26:03.964901
+ca3e1b50-8a8c-4b68-9f6a-5386e9e59886,29,20.0,1,desktop,Port Kayla,1,Air Force 1s,fashion,0.0,2024-03-20T03:26:03.964995
+2ebefac9-159e-42ff-a89e-f09fbe53f8cb,83,,2,tablet,South Leeborough,38,Columbia Rain Pants,outdoor,0.0,2024-03-12T03:26:03.965093
+ed106238-95cd-4add-969e-fefe62319e2d,72,19.0,4,mobile,Hallside,28,Roku Streaming Stick 4K,electronics,49.99,2024-04-28T03:26:03.965224
+fe304bc6-04fd-45b1-8c28-948ce9fb9650,82,9.0,2,desktop,Lake Susanmouth,39,Fossil Smartwatch,accessories,0.0,2024-01-10T03:26:03.965336
+6d3278eb-de0e-498c-a188-b176aa3ed556,26,,4,mobile,Port Marcus,16,GoPro Hero 11,electronics,499.99,2024-04-05T03:26:03.965433
+45fd4f60-5f2b-4286-af37-afd7f533b5d2,52,33.0,0,desktop,Perezburgh,16,GoPro Hero 11,electronics,0.0,2024-05-19T03:26:03.965554
+f736fdf2-2756-4656-b566-ec2df1aa6ab1,54,33.0,1,tablet,New Luisborough,12,Yeti Tumbler,beverages,0.0,2024-08-20T03:26:03.965655
+e2dcb028-fca1-4561-b723-3991c27dfa8c,80,7.0,1,desktop,New Lawrenceland,13,Fitbit Charge 5,fitness,0.0,2024-09-19T03:26:03.965753
+0fb20547-9b6a-4f11-90e4-e32fab1fc5a9,13,,2,tablet,Watsonton,33,Osprey Hiking Backpack,outdoor,0.0,2024-08-16T03:26:03.965885
+343099c4-2be9-4433-8b9b-5fffa4bade84,32,,4,desktop,South Kathleenville,18,Instant Pot Duo,home,119.0,2024-04-22T03:26:03.965990
+1644df07-c758-420a-aede-cd615ef2f4be,16,,2,tablet,South Johnville,6,Nike Running Shoes,fitness,0.0,2024-12-03T03:26:03.966087
+db26ba06-ee6c-4ae7-a48f-27f196a78e81,26,,2,mobile,New Catherinestad,23,Patagonia Rain Jacket,outdoor,0.0,2024-05-29T03:26:03.966191
+0fe4ce51-257c-4264-9cc5-7224ba4240e2,85,13.0,4,tablet,Lake Davidport,22,Schwinn Mountain Bike,outdoor,599.99,2024-08-11T03:26:03.966287
+7790c5cd-bf75-401e-859b-50834af1945a,43,,4,tablet,New Chad,11,Apple Watch Series 7,electronics,399.0,2024-11-18T03:26:03.966390
+8e51cf4d-efb4-4c4d-bce3-699a77d7b314,40,26.0,1,mobile,Jacquelineberg,9,Galaxy S21,electronics,0.0,2024-04-28T03:26:03.966482
+db10608d-cac6-45ab-ac27-c5454dd4fbe2,48,9.0,4,mobile,Phillipsbury,37,Samsung 4K UHD TV,electronics,599.99,2024-05-12T03:26:03.966611
+9ae863e2-d869-4fad-95e3-1639b8647c5b,38,,2,tablet,Lake Rogerton,31,Weber Charcoal Grill,home,0.0,2024-08-11T03:26:03.966712
+789d6068-dfd6-4abf-a4d1-e8555b5e389f,65,,4,desktop,Marissaview,6,Nike Running Shoes,fitness,150.0,2024-09-09T03:26:03.966803
+ed1fe474-3663-4e2a-94a2-fee3e8ef2ab5,5,,2,mobile,Gonzalezland,33,Osprey Hiking Backpack,outdoor,0.0,2024-06-19T03:26:03.966930
+1ddd2de6-d990-43b4-8231-9e749f0e6bbe,56,,2,mobile,Carolynside,5,Dell XPS 13,electronics,0.0,2024-04-06T03:26:03.967024
+19ac8ff2-a1e5-4993-96b4-ba43780304d0,15,26.0,4,tablet,Lauraberg,38,Columbia Rain Pants,outdoor,89.99,2024-04-17T03:26:03.967120
+070b3a4a-f8d3-4759-a29f-19dba0e7c1e8,54,35.0,0,tablet,Catherineberg,1,Air Force 1s,fashion,0.0,2024-09-25T03:26:03.967211
+eaeb2745-e918-44c1-8965-e8d901392e82,54,24.0,0,tablet,East Toddtown,12,Yeti Tumbler,beverages,0.0,2024-11-08T03:26:03.967320
+096e3dd7-9ea8-4675-a356-86f8880f1d9d,72,,2,desktop,Cainfort,14,Kindle Paperwhite,electronics,0.0,2024-08-14T03:26:03.967440
+aeaa4838-d143-4e9f-962b-5043e0f354b6,47,20.0,2,mobile,North Christianfurt,23,Patagonia Rain Jacket,outdoor,0.0,2024-08-03T03:26:03.967536
+fb909f12-fec0-457e-88bc-3d8d10f77542,25,12.0,1,desktop,Jenniferville,34,Under Armour Compression Shirt,fitness,0.0,2024-06-24T03:26:03.967626
+9e630ba9-fbd7-4564-9681-cdebea870549,60,,4,desktop,Port Todd,24,Bose QuietComfort Earbuds,electronics,279.0,2024-07-31T03:26:03.967715
+399ba5d8-ad4d-4c6f-b587-00d8da30089e,46,,4,tablet,New Nathanville,7,Coleman Sundome Tent,outdoor,89.99,2024-08-15T03:26:03.967818
+9a67825a-763b-4648-a151-9704ab82e7af,38,16.0,2,desktop,Port Rebecca,37,Samsung 4K UHD TV,electronics,0.0,2024-12-20T03:26:03.967908
+1ae6e5e9-72cd-49fc-b63a-ac8550c6791b,13,,2,mobile,Johnmouth,24,Bose QuietComfort Earbuds,electronics,0.0,2024-03-05T03:26:03.967998
+6e002c6e-e30f-44ea-b804-649271adc6e1,48,11.0,2,tablet,Heatherborough,20,Ray-Ban Aviator Sunglasses,accessories,0.0,2024-10-23T03:26:03.968087
+60262c16-993a-47a7-8a2e-469a19db5bbb,68,,4,tablet,Williamsview,21,Echo Dot (5th Gen),electronics,49.99,2024-04-16T03:26:03.968213
+4d70f89d-10f2-4fb2-bbe5-226f7161ae1d,68,12.0,0,tablet,Lake Ericmouth,10,Peloton Bike,fitness,0.0,2024-06-30T03:26:03.968321
+4d7aed4c-a43e-4abb-b32d-c13532b2ba66,49,,4,mobile,Lynnshire,27,Theragun Elite,fitness,399.0,2024-03-15T03:26:03.968414
+80e37240-b4d9-4927-8fe9-a7cd11c5645b,46,,4,mobile,Mariahport,20,Ray-Ban Aviator Sunglasses,accessories,179.99,2024-05-04T03:26:03.968503
+76cb8763-1fc6-4f77-a86d-6599ac9ccb9b,85,,4,tablet,Perrytown,22,Schwinn Mountain Bike,outdoor,599.99,2024-05-05T03:26:03.968624
+240a1b89-8431-43c5-bfda-b9a8829d9fca,44,,4,desktop,North Amy,21,Echo Dot (5th Gen),electronics,49.99,2024-04-05T03:26:03.968714
+fbd8c120-a63f-4e31-8a0b-fe8fd5509a40,14,,4,desktop,Castillobury,9,Galaxy S21,electronics,799.99,2024-08-29T03:26:03.968907
+2756c9d0-395b-4807-8772-6427d92cacc5,92,13.0,0,mobile,South Christophershire,5,Dell XPS 13,electronics,0.0,2024-09-04T03:26:03.969075
+7ec7ec3b-1a0c-40dc-ba80-7ae629c48840,25,,2,desktop,Markbury,31,Weber Charcoal Grill,home,0.0,2024-04-12T03:26:03.969233
+80b3c46a-171f-44de-86f1-bf044b7f5e66,23,2.0,4,tablet,Taylorfurt,10,Peloton Bike,fitness,2499.0,2024-12-06T03:26:03.969422
+94e0e50f-5ae5-48fd-89ce-7d0eff18af2f,88,,4,mobile,Zacharychester,30,Tile Mate (4-Pack),electronics,69.99,2024-11-26T03:26:03.969565
+53423868-a8c6-417f-aa85-a09659d9318a,94,12.0,4,tablet,Sharontown,14,Kindle Paperwhite,electronics,139.99,2024-11-21T03:26:03.969710
+087970e0-15ab-4f7a-a884-8f2ff8e61bf3,76,,2,mobile,Port Karlaport,2,MacBook Pro,electronics,0.0,2024-05-05T03:26:03.969870
+6812a529-240b-42ee-9b9e-6215410bb25f,27,31.0,0,desktop,Kimstad,37,Samsung 4K UHD TV,electronics,0.0,2024-09-20T03:26:03.970016
+d3e91ac7-f3bc-4c07-b247-28c76c787140,28,,4,tablet,Waltersshire,14,Kindle Paperwhite,electronics,139.99,2024-12-17T03:26:03.970318
+c39b7f64-8f1e-4e91-8cda-97fffb633047,27,8.0,2,desktop,Lake Susan,12,Yeti Tumbler,beverages,0.0,2024-11-02T03:26:03.971703
+5604faf4-bf4a-4029-9d81-6d9cbc30be85,72,29.0,0,mobile,Andradechester,7,Coleman Sundome Tent,outdoor,0.0,2024-07-29T03:26:03.973412
+68bebccf-0a12-405c-ad90-896e62c7b1ec,42,,2,desktop,New Shaneborough,25,Standing Desk Converter,office,0.0,2023-12-26T03:26:03.973644
+f916adc4-1543-400b-a827-b8dca57ffbe4,7,29.0,0,tablet,North Lauren,16,GoPro Hero 11,electronics,0.0,2024-08-31T03:26:03.973814
+eec27b5e-8431-4a63-a875-acbb08e39870,72,,2,desktop,Lake Lori,38,Columbia Rain Pants,outdoor,0.0,2024-04-14T03:26:03.973977
+ecc716ea-a388-485e-ab28-5a3f4ca661dc,68,,4,mobile,South Jennifer,33,Osprey Hiking Backpack,outdoor,189.99,2024-05-22T03:26:03.974146
+0fd66358-3c19-4c10-8e4a-426eaad50b22,99,,2,tablet,Millsmouth,1,Air Force 1s,fashion,0.0,2024-09-03T03:26:03.974405
+671afe8f-79f4-4fb2-b3d0-be5075e7253e,26,,2,desktop,West Christopherborough,14,Kindle Paperwhite,electronics,0.0,2024-03-09T03:26:03.974591
+b70f4fdc-a3f2-41f9-a4db-b97e90e3cb2e,2,,4,desktop,New Deniseshire,1,Air Force 1s,fashion,120.0,2024-05-30T03:26:03.974787
+05f3629e-9e04-4c24-861b-22b2a73dfe7d,41,,4,tablet,Brittneyland,2,MacBook Pro,electronics,1999.99,2024-05-22T03:26:03.974959
+ddae1bde-a1bc-40f2-aeed-5c3829190f50,13,,2,desktop,Jenniferfort,33,Osprey Hiking Backpack,outdoor,0.0,2024-08-03T03:26:03.975116
+84df54b3-4a76-451d-89c1-dd9fb8383f69,32,16.0,2,tablet,Port Richardfort,11,Apple Watch Series 7,electronics,0.0,2024-03-09T03:26:03.975293
+9f078419-3147-49f8-8048-ff62267d7205,59,19.0,0,mobile,Wareburgh,35,Google Nest Hub,electronics,0.0,2024-04-17T03:26:03.975561
+05ad7341-1433-4d07-816c-90734829ba15,16,21.0,0,tablet,Melanieborough,39,Fossil Smartwatch,accessories,0.0,2024-10-01T03:26:03.975744
+2ddd4cee-8486-4923-9361-0d13bfb2bd81,60,,2,tablet,Jamesberg,10,Peloton Bike,fitness,0.0,2024-04-04T03:26:03.975945
+734a9ee3-02d7-472a-870b-d952aeda4c17,48,23.0,0,desktop,Fowlerfort,21,Echo Dot (5th Gen),electronics,0.0,2024-06-05T03:26:03.976204
+3ea411c5-f6d8-48db-9344-70695bb66899,57,7.0,0,mobile,South Hunterburgh,38,Columbia Rain Pants,outdoor,0.0,2024-07-17T03:26:03.976445
+781b5de0-833c-412d-a697-925bd2f8faa3,7,,4,tablet,East Marissa,13,Fitbit Charge 5,fitness,129.95,2024-11-10T03:26:03.976617
+34626903-0363-4ece-ab13-ca49b7ec2070,56,,2,mobile,Kaylaville,34,Under Armour Compression Shirt,fitness,0.0,2024-06-29T03:26:03.976785
+da37d4c5-0019-4702-b908-57a46a393baa,92,,2,tablet,South Brianna,19,Lululemon Yoga Pants,fashion,0.0,2024-06-09T03:26:03.976946
+577c7878-79e9-4891-8721-988b917ffbcf,12,2.0,4,mobile,Kellyport,33,Osprey Hiking Backpack,outdoor,189.99,2024-05-28T03:26:03.977170
+c5701f73-3333-4459-a066-9ca2c14b1997,1,,2,mobile,Velasquezborough,36,Keurig K-Elite Coffee Maker,home,0.0,2024-02-11T03:26:03.977432
+77bbefb5-5c50-4e4f-9d25-e6b7185e0021,53,,4,desktop,West Shawn,21,Echo Dot (5th Gen),electronics,49.99,2024-11-18T03:26:03.977612
+d8196e7f-b589-4002-a3ae-a8b109e84a87,74,,2,mobile,New Kelseyshire,28,Roku Streaming Stick 4K,electronics,0.0,2024-02-26T03:26:03.977790
+0b7e38a6-eb7e-4078-b7c4-0368a8a4d21f,12,28.0,4,desktop,Carolineton,21,Echo Dot (5th Gen),electronics,49.99,2024-07-23T03:26:03.977956
+1cb5b465-9ae1-4179-88fd-7137f132ccef,42,5.0,4,desktop,Port Brentview,38,Columbia Rain Pants,outdoor,89.99,2024-01-28T03:26:03.978132
+84178857-7a14-4b18-8a9d-d341fdd2b383,44,16.0,0,desktop,East Justinhaven,6,Nike Running Shoes,fitness,0.0,2024-11-06T03:26:03.978335
+d0225871-e3e4-465c-9de0-719832fd7cab,51,,4,desktop,Lake Heather,14,Kindle Paperwhite,electronics,139.99,2024-12-01T03:26:03.979978
+b5eb3642-4e3f-4eb9-bfd7-9a60ef7c2c7e,11,,2,desktop,East Alexis,25,Standing Desk Converter,office,0.0,2024-02-22T03:26:03.980204
+68f1ca75-45cf-4508-9893-c3c0d8c9cd02,92,,2,desktop,Port Laurachester,15,Samsonite Spinner Luggage,accessories,0.0,2024-11-23T03:26:03.980447
+9cb173e6-bbe2-408d-ae2a-a28ebbde7515,78,,4,mobile,Jaredbury,2,MacBook Pro,electronics,1999.99,2024-06-28T03:26:03.980637
+cc061781-20fe-444c-9e48-139c0de8473f,39,19.0,4,desktop,Crossburgh,27,Theragun Elite,fitness,399.0,2024-01-06T03:26:03.980879
+e109571c-6248-45f5-b425-18cdbe382073,44,3.0,4,tablet,Phillipsberg,6,Nike Running Shoes,fitness,150.0,2024-10-23T03:26:03.981121
+b80e4913-c44e-4a77-ba71-a40ca5912ae8,82,,2,tablet,Lake Joshuaborough,11,Apple Watch Series 7,electronics,0.0,2024-05-06T03:26:03.981320
+d9977582-454e-4521-a472-cbf9b63a09f0,80,18.0,2,mobile,West Frank,37,Samsung 4K UHD TV,electronics,0.0,2024-08-07T03:26:03.981521
+3c74755a-b32e-4241-9c82-fd59f2cd429a,25,,2,tablet,Nguyenton,38,Columbia Rain Pants,outdoor,0.0,2024-12-09T03:26:03.981734
+efcb64f4-a64f-477f-aa2e-a2f69d6e07da,91,27.0,1,mobile,Port Michaelhaven,28,Roku Streaming Stick 4K,electronics,0.0,2024-02-24T03:26:03.981918
+2af208aa-3971-419d-8668-e513250bc5ab,54,21.0,4,tablet,Johnburgh,33,Osprey Hiking Backpack,outdoor,189.99,2024-07-22T03:26:03.982084
+34dc6f05-a954-45dc-baeb-755d45c6db2c,90,39.0,0,tablet,New Marybury,32,Canon EOS M50,electronics,0.0,2024-10-26T03:26:03.982230
+4e7bb917-a0ac-41cd-b0fd-d1ef57e32b6b,6,,4,desktop,Harrischester,23,Patagonia Rain Jacket,outdoor,149.0,2024-04-16T03:26:03.982424
+f0843f13-b93f-42d1-841f-2c7640e32ef4,84,,2,desktop,Leahburgh,2,MacBook Pro,electronics,0.0,2024-10-10T03:26:03.982535
+35e5c236-3bce-4852-8a89-1d230148c757,89,23.0,0,mobile,Calebside,9,Galaxy S21,electronics,0.0,2024-11-27T03:26:03.982630
+862ce7c2-7487-464e-bd20-4140b33bb785,56,35.0,0,desktop,Sarahside,28,Roku Streaming Stick 4K,electronics,0.0,2024-09-27T03:26:03.982721
+70e024e2-9b1a-433f-b1a5-f1a7ec506b91,4,,2,desktop,Sandersside,14,Kindle Paperwhite,electronics,0.0,2024-09-08T03:26:03.982844
+96b9fdde-090c-417c-8407-14ea43273c6e,80,17.0,1,tablet,West Randy,27,Theragun Elite,fitness,0.0,2024-11-01T03:26:03.982937
+dde46416-58b5-4aaa-bf23-0d2aecc60c32,84,20.0,2,mobile,Andersonfurt,16,GoPro Hero 11,electronics,0.0,2024-04-09T03:26:03.983058
+839b5863-1d35-43b3-bdb1-c3da135ab1f7,33,11.0,4,tablet,Howardchester,34,Under Armour Compression Shirt,fitness,49.99,2024-07-16T03:26:03.983187
+03938491-6086-42da-ad4b-3d56ea6c10e8,86,32.0,4,tablet,West Stuart,8,North Face Backpack,accessories,99.99,2024-03-13T03:26:03.983283
+bc83e6f2-827b-4f73-89ad-6ada91bc3e84,38,,2,mobile,Carlsonshire,10,Peloton Bike,fitness,0.0,2024-08-20T03:26:03.983454
+404bbb2b-4e57-44c6-a456-63b9aec1c6dd,54,2.0,0,desktop,Webbside,38,Columbia Rain Pants,outdoor,0.0,2024-03-24T03:26:03.983582
+06b25eeb-9a15-48f1-8109-7a7a24af2b9b,52,23.0,0,mobile,Lake Benjamin,12,Yeti Tumbler,beverages,0.0,2024-08-31T03:26:03.983676
+9fb93ff0-a7ef-4a35-9e93-58883dace1cf,17,19.0,1,desktop,Juanport,31,Weber Charcoal Grill,home,0.0,2024-07-24T03:26:03.983770
+5e8b4e9f-f0f7-47ef-9e0e-4057a929c53c,68,,4,mobile,Nancybury,1,Air Force 1s,fashion,120.0,2024-01-24T03:26:03.983875
+bbc66521-1106-4390-a82a-1812cc2dc822,43,,4,tablet,North Jameshaven,27,Theragun Elite,fitness,399.0,2024-05-28T03:26:03.983971
+fa3dd182-1c7e-421c-beb4-2161a955ac39,73,,4,mobile,Johnsonbury,37,Samsung 4K UHD TV,electronics,599.99,2024-11-29T03:26:03.984088
+5a9cad15-39d4-4512-a1b1-477ccfc8baae,73,34.0,2,tablet,Delgadoland,15,Samsonite Spinner Luggage,accessories,0.0,2024-03-31T03:26:03.984216
+312364d0-2336-47fa-a4ed-1a000b6a0456,49,7.0,2,desktop,Port Michaelfurt,3,Hydro Flask,beverages,0.0,2024-03-30T03:26:03.984342
+541a6e80-66d9-4d48-97f4-eb0ec0ad40d2,14,14.0,4,mobile,West Pamela,33,Osprey Hiking Backpack,outdoor,189.99,2024-08-18T03:26:03.984463
+364a90d7-829a-470a-8ab1-9f97cf401cc8,6,,4,desktop,Lake Dawn,27,Theragun Elite,fitness,399.0,2024-01-19T03:26:03.984562
+78a8e95e-e01f-4183-b0b0-cf755576491a,58,4.0,2,tablet,Port Charlesberg,6,Nike Running Shoes,fitness,0.0,2024-09-04T03:26:03.984659
+c7d134eb-2003-44aa-81dc-f87e317bd224,59,,2,mobile,North Krystal,6,Nike Running Shoes,fitness,0.0,2024-11-11T03:26:03.984752
+b91ab540-b4ee-4c4b-8eee-98d882b00ace,39,,2,tablet,Brianside,30,Tile Mate (4-Pack),electronics,0.0,2024-03-19T03:26:03.984843
+ac75cd23-2651-44a5-bf68-09713663a56a,24,32.0,4,desktop,West Tannerside,17,Dyson V15 Vacuum,home,699.99,2024-02-24T03:26:03.984938
+bae0e067-4dbe-4e44-bd89-bda5429adb08,90,,2,tablet,Lake Bethanyhaven,7,Coleman Sundome Tent,outdoor,0.0,2024-02-21T03:26:03.985035
+d6f62b2c-1716-48da-ad9e-fc6927f68da2,87,,2,desktop,Christopherfort,27,Theragun Elite,fitness,0.0,2024-04-08T03:26:03.985131
+0a4e9975-c2ae-4cd9-b929-2095e7910ee1,81,,2,mobile,East Emily,16,GoPro Hero 11,electronics,0.0,2024-11-11T03:26:03.985223
+597c6e2f-d8ad-4d61-8080-07ad8b78cd32,13,,2,mobile,East Territown,8,North Face Backpack,accessories,0.0,2024-08-17T03:26:03.985360
+c55d42d6-c314-4cc4-9a1a-ab206f34f2a6,86,,4,tablet,Port Kenneth,33,Osprey Hiking Backpack,outdoor,189.99,2024-12-20T03:26:03.985471
+d86fb6ca-24aa-489c-9d61-b7a83644b490,57,,4,tablet,Davidfurt,20,Ray-Ban Aviator Sunglasses,accessories,179.99,2024-04-12T03:26:03.985566
+557070ec-9cde-4aa4-aacf-fb6a4fd19b99,4,,2,tablet,Lake Scott,39,Fossil Smartwatch,accessories,0.0,2024-07-25T03:26:03.985659
+adb088b2-c934-4466-91b5-da45453afdae,28,18.0,1,mobile,Johnhaven,24,Bose QuietComfort Earbuds,electronics,0.0,2024-07-17T03:26:03.985750
+41a7e00f-67e1-439f-bb74-a3fd430b6805,49,37.0,4,mobile,South Lisaview,13,Fitbit Charge 5,fitness,129.95,2024-02-18T03:26:03.985845
+c2043d17-e5ab-4912-a6d0-20953be1b4a6,71,5.0,2,mobile,West Brian,13,Fitbit Charge 5,fitness,0.0,2024-02-07T03:26:03.985936
+f0cfe7e9-a897-4c09-9071-691a988af1e4,98,,2,desktop,West Adriana,19,Lululemon Yoga Pants,fashion,0.0,2024-03-18T03:26:03.986030
+f1109f0d-a931-4927-a90f-6ec8d17a9208,69,,2,desktop,Kiddstad,7,Coleman Sundome Tent,outdoor,0.0,2024-03-30T03:26:03.986165
+f601dfa7-93bd-4cd0-ae5e-39cac26fede4,82,39.0,2,mobile,Tristanfurt,34,Under Armour Compression Shirt,fitness,0.0,2024-03-15T03:26:03.986259
+5659e891-eea6-4568-bc4e-9e1e2480085d,4,17.0,1,mobile,East Shelbyview,8,North Face Backpack,accessories,0.0,2024-04-30T03:26:03.986371
+72176f37-6bea-4feb-bf22-c5f8c5b674ec,64,,2,tablet,West Adamfort,18,Instant Pot Duo,home,0.0,2024-03-05T03:26:03.986468
+916b72be-1235-40bf-b41f-19aa23721def,35,,2,tablet,Petersenshire,16,GoPro Hero 11,electronics,0.0,2024-07-23T03:26:03.986590
+ffbeea02-ff93-4cf8-aad2-1b79949503ca,81,,2,tablet,Larryborough,24,Bose QuietComfort Earbuds,electronics,0.0,2024-01-14T03:26:03.986683
+2e9ab80d-fb2f-4ac6-b91c-5a94e3197fb9,16,19.0,4,mobile,West Alexshire,37,Samsung 4K UHD TV,electronics,599.99,2024-01-26T03:26:03.986787
+8b9056f1-f705-48b6-ac1a-93e4b6f707a4,4,,2,desktop,Waltermouth,26,Nespresso Vertuo Plus,home,0.0,2024-06-06T03:26:03.986917
+c8202bc4-3c64-4eaa-827f-7d2eb79147d2,68,,4,tablet,Austinport,22,Schwinn Mountain Bike,outdoor,599.99,2024-04-16T03:26:03.987037
+b4601b7b-ce66-46c5-aac7-c63297a03b3e,90,,2,tablet,South John,8,North Face Backpack,accessories,0.0,2024-07-22T03:26:03.987138
+e6afb4cf-1b62-4b77-ab69-085b89b795f9,31,17.0,4,mobile,North Christopherland,5,Dell XPS 13,electronics,1099.99,2024-08-23T03:26:03.987238
+1736354e-bbb3-4b3d-aa07-cf88e5394e6d,68,,2,mobile,Joneston,32,Canon EOS M50,electronics,0.0,2024-10-07T03:26:03.987373
+e6d93068-f59c-4f45-aa53-2ac396892131,37,,4,tablet,New Annette,6,Nike Running Shoes,fitness,150.0,2024-10-25T03:26:03.987467
+cb142295-80ee-400b-a096-d1c5056cd3b7,91,,2,mobile,Moralesmouth,9,Galaxy S21,electronics,0.0,2024-01-08T03:26:03.987587
+a31c7944-6b9f-4a68-a2be-3ddef56ba290,10,3.0,1,desktop,Lake Alexandra,31,Weber Charcoal Grill,home,0.0,2023-12-30T03:26:03.987679
+77fa5deb-2373-41c9-8ddf-b049e5cd6b4f,70,34.0,2,tablet,South Whitneyland,29,Columbia Hiking Boots,outdoor,0.0,2024-08-05T03:26:03.987776
+c2e021e6-50a8-4e34-aa54-5f00506c4a09,46,36.0,2,mobile,Reginaldtown,33,Osprey Hiking Backpack,outdoor,0.0,2024-02-24T03:26:03.987866
+42335953-01be-4792-8797-fe87f4ddc459,99,,2,desktop,Port Krystal,14,Kindle Paperwhite,electronics,0.0,2024-03-22T03:26:03.987955
+ff2c105f-b896-47b2-98a7-360384b5832c,98,32.0,4,tablet,Wendymouth,25,Standing Desk Converter,office,350.0,2024-05-03T03:26:03.988046
+c3a8462a-7422-48d8-8367-b97b48c36221,19,,4,desktop,Johnsonstad,8,North Face Backpack,accessories,99.99,2024-09-08T03:26:03.988175
+16f7b831-2fc5-4f19-bfbc-671e1a50fa22,31,,2,mobile,Port William,38,Columbia Rain Pants,outdoor,0.0,2024-10-15T03:26:03.988267
+15f209e6-092b-49d1-8659-c8c9b68771a8,60,3.0,1,tablet,Hermanshire,5,Dell XPS 13,electronics,0.0,2024-06-21T03:26:03.988404
+0820809a-b10d-4857-b626-affcf0c60076,33,15.0,4,tablet,South Jeremy,20,Ray-Ban Aviator Sunglasses,accessories,179.99,2024-05-23T03:26:03.988499
+5d703ced-e526-4c3d-a2db-745e9fe509e2,38,38.0,2,desktop,Matthewton,3,Hydro Flask,beverages,0.0,2024-06-10T03:26:03.988595
+9ac9eeb1-8aba-4a48-9e79-18dba06a81ba,23,22.0,0,tablet,North Lori,39,Fossil Smartwatch,accessories,0.0,2024-03-08T03:26:03.988698
+9ffbcd75-f1a8-419d-8fcd-462698e3e7f5,29,17.0,0,tablet,Steeleville,23,Patagonia Rain Jacket,outdoor,0.0,2024-07-09T03:26:03.988820
+bf7476e3-b944-4cdc-901f-85a1a06a6e7d,48,19.0,1,mobile,Sotohaven,34,Under Armour Compression Shirt,fitness,0.0,2024-10-30T03:26:03.988945
+71543c99-25aa-4658-9b29-e4d1a750b5ff,1,34.0,1,mobile,Pamland,17,Dyson V15 Vacuum,home,0.0,2024-07-17T03:26:03.989037
+000b6a33-4e24-441b-b9d2-523946b4aa8d,46,,4,mobile,Woodbury,22,Schwinn Mountain Bike,outdoor,599.99,2024-05-30T03:26:03.989165
+084e61cb-9fb6-4617-930f-4269e902f0c0,80,18.0,4,mobile,West Johnberg,22,Schwinn Mountain Bike,outdoor,599.99,2024-04-06T03:26:03.989264
+70c2de68-c756-45db-baf7-02a3a39b993a,21,,2,desktop,New Lauraton,13,Fitbit Charge 5,fitness,0.0,2024-03-29T03:26:03.989370
+34fdda7c-54e8-44aa-8d09-a92b080b1ef6,6,,2,desktop,New Reginaport,34,Under Armour Compression Shirt,fitness,0.0,2024-06-15T03:26:03.989470
+22c2e4b8-c3dd-4a6f-912e-709ebb2494b5,54,19.0,1,desktop,Williamsshire,35,Google Nest Hub,electronics,0.0,2024-03-14T03:26:03.989591
+86e86ad5-b714-4b47-8b67-f7394c7aaccc,72,,2,desktop,Davidport,10,Peloton Bike,fitness,0.0,2024-08-10T03:26:03.989684
+42673348-bfcb-4ea7-a78c-fe5131dc0bc5,27,,4,mobile,Lake Michaelfort,23,Patagonia Rain Jacket,outdoor,149.0,2024-04-25T03:26:03.989781
+2b0169cc-0195-43ff-a6c0-159c9012ca8c,19,19.0,2,mobile,Jenkinschester,13,Fitbit Charge 5,fitness,0.0,2024-12-22T03:26:03.989899
+87d4b013-3892-4e00-8f9c-b5805a00b4d3,47,,4,desktop,Lisaport,9,Galaxy S21,electronics,799.99,2024-02-17T03:26:03.989990
+1e6ce14a-932c-4ebc-a985-24f6f86312c4,4,,2,tablet,North Devin,30,Tile Mate (4-Pack),electronics,0.0,2024-01-28T03:26:03.990080
+a3913add-820d-4da1-a5e9-60ad6b553ca0,93,,2,tablet,East Christopherside,29,Columbia Hiking Boots,outdoor,0.0,2024-10-29T03:26:03.990181
+25fab34d-415a-4951-bccf-131179cf0214,38,2.0,4,desktop,East Christinahaven,30,Tile Mate (4-Pack),electronics,69.99,2024-07-09T03:26:03.990279
+3f475780-78ab-4295-845a-747ecb1e1bd5,58,,2,mobile,Olsonside,11,Apple Watch Series 7,electronics,0.0,2024-06-30T03:26:03.990412
+e5ebada0-bd44-41c8-b7eb-660d855b7579,49,1.0,0,mobile,New Brittany,39,Fossil Smartwatch,accessories,0.0,2024-02-11T03:26:03.990506
+29c7ff89-2714-4176-aeb2-25ffc0d78224,63,38.0,0,tablet,Brandonmouth,14,Kindle Paperwhite,electronics,0.0,2024-12-20T03:26:03.990597
+fbc0e2a3-ebb3-4331-b6aa-62abffafdfd8,97,,4,mobile,Schmidtside,27,Theragun Elite,fitness,399.0,2024-05-15T03:26:03.990714
+40d2230c-cff4-4b5e-b10e-2c523d5165fe,20,,4,mobile,Port Amber,7,Coleman Sundome Tent,outdoor,89.99,2024-07-08T03:26:03.990806
+c0260fbc-a503-45b4-bc63-e4d9d9a484a4,61,,4,mobile,North Brianna,36,Keurig K-Elite Coffee Maker,home,139.99,2024-02-02T03:26:03.990895
+c84ebd1a-c31e-4b3c-833a-4c1f692aa6bf,30,3.0,1,desktop,New Susan,19,Lululemon Yoga Pants,fashion,0.0,2024-03-20T03:26:03.990986
+a891ade1-7cdb-4ed9-95c8-9bf1f0bd5c92,42,31.0,4,tablet,New John,22,Schwinn Mountain Bike,outdoor,599.99,2024-12-16T03:26:03.991075
+7c6bb3d6-c0ee-4742-9c58-65e3a8cf7de7,29,12.0,4,desktop,Paulaton,38,Columbia Rain Pants,outdoor,89.99,2024-11-07T03:26:03.991172
+6475c4e9-9825-4170-af60-f38388695d06,63,34.0,1,mobile,Laurenville,12,Yeti Tumbler,beverages,0.0,2024-09-30T03:26:03.991262
+1b60b88d-91c6-4f69-b300-90ef8cc70a37,81,,4,desktop,Pollardborough,25,Standing Desk Converter,office,350.0,2024-05-26T03:26:03.991395
+b84e3562-fd75-43ce-9c1f-a1368fa9e804,1,,4,desktop,Lewisberg,22,Schwinn Mountain Bike,outdoor,599.99,2024-04-13T03:26:03.991516
+07b2ca44-783a-42f6-bc12-9b2da62ef915,2,,2,mobile,Lake Daniel,1,Air Force 1s,fashion,0.0,2024-04-26T03:26:03.991609
+09c850c5-4b36-48f6-a8bb-ac4ca5e036e4,84,,2,mobile,Port Ashley,2,MacBook Pro,electronics,0.0,2024-07-18T03:26:03.991700
+b21b5e23-4044-4a47-a100-cbfe1c250158,46,31.0,1,tablet,Port Frankburgh,29,Columbia Hiking Boots,outdoor,0.0,2024-10-15T03:26:03.991795
+ee854863-8bc7-4dc8-b902-2597479511c5,98,,4,mobile,South Michael,39,Fossil Smartwatch,accessories,199.99,2024-04-18T03:26:03.991889
+c201b50f-d749-4e95-b19f-54af831db379,11,,4,desktop,Adamsbury,19,Lululemon Yoga Pants,fashion,98.0,2024-12-03T03:26:03.992008
+5ca1d3a3-317d-4ba3-a5c6-3c12148c0c5c,40,,2,desktop,Laceyport,28,Roku Streaming Stick 4K,electronics,0.0,2024-01-26T03:26:03.992104
+5e1afd95-f969-4796-954d-1d45f1b7f55d,75,,4,tablet,Troybury,28,Roku Streaming Stick 4K,electronics,49.99,2024-08-27T03:26:03.992206
+212fefc4-e765-4a19-8b00-b96f3743eb83,89,7.0,0,mobile,New Charles,32,Canon EOS M50,electronics,0.0,2024-10-20T03:26:03.992317
+84c31891-71eb-4d50-b058-5459ed61770b,92,15.0,1,mobile,Michelleton,3,Hydro Flask,beverages,0.0,2024-10-22T03:26:03.992413
+09293ffc-67e4-4567-aad5-30fe866232c2,17,,2,desktop,East Michaelmouth,21,Echo Dot (5th Gen),electronics,0.0,2024-10-07T03:26:03.992508
+4559c15b-1139-4f0d-9b19-508fcad6c416,64,39.0,1,mobile,Port Allison,31,Weber Charcoal Grill,home,0.0,2024-02-21T03:26:03.992599
+7887169e-1817-4abd-bf8f-e24d68b68d89,78,,2,mobile,North Aaronville,26,Nespresso Vertuo Plus,home,0.0,2024-07-24T03:26:03.992693
+b22049be-5960-4526-ad44-f3bb8390c112,69,17.0,2,tablet,North Debbiestad,34,Under Armour Compression Shirt,fitness,0.0,2024-07-11T03:26:03.992787
+5f70120d-8df4-4efa-afa3-1adb2900ebfd,51,18.0,0,desktop,Strongfurt,4,Herman Miller Chair,office,0.0,2024-02-08T03:26:03.992910
+6302a47a-3aac-4b2e-8c99-90b39b3b58e1,76,6.0,1,mobile,Tiffanyton,12,Yeti Tumbler,beverages,0.0,2024-08-29T03:26:03.993001
+94018dbc-0b8e-49fc-b1e5-1a211a91a405,24,34.0,4,tablet,Martinstad,16,GoPro Hero 11,electronics,499.99,2024-12-07T03:26:03.993123
+26381830-b715-43de-9298-28cc3b479862,53,,2,desktop,Port Reneemouth,21,Echo Dot (5th Gen),electronics,0.0,2024-10-03T03:26:03.993228
+67770c8a-4bb8-4251-861b-4e534ebb94ec,29,20.0,4,desktop,South Leslieshire,37,Samsung 4K UHD TV,electronics,599.99,2024-05-11T03:26:03.993366
+107b29e8-87ee-4b1f-9e50-83c64df94b0c,11,,2,tablet,Melissaburgh,24,Bose QuietComfort Earbuds,electronics,0.0,2024-08-18T03:26:03.993478
+667a2cb0-d29a-449c-889b-f889785507e6,71,,4,mobile,Bryantberg,16,GoPro Hero 11,electronics,499.99,2024-03-27T03:26:03.993602
+4dab4d50-3f2a-4ac3-a2de-104d4f18d9f3,82,19.0,4,mobile,West Dawn,32,Canon EOS M50,electronics,649.0,2024-02-27T03:26:03.993694
+b7577019-a1fa-4d3f-b082-ab9fffc44930,5,,2,desktop,Stephensfort,28,Roku Streaming Stick 4K,electronics,0.0,2024-04-26T03:26:03.993812
+b6ee9cb0-06ab-479c-b4b6-cab20d24e5e7,12,12.0,4,desktop,Andersonshire,1,Air Force 1s,fashion,120.0,2024-09-02T03:26:03.993930
+8871cde9-679a-4ac4-95d8-129a81e611fa,93,30.0,4,desktop,East Williammouth,20,Ray-Ban Aviator Sunglasses,accessories,179.99,2024-10-14T03:26:03.994025
+049b6676-6981-4de3-9fc3-d913ae6852ef,91,39.0,0,tablet,Grantfurt,30,Tile Mate (4-Pack),electronics,0.0,2024-09-05T03:26:03.994152
+757dac30-7806-4136-8681-d7f75f3e4873,13,39.0,1,tablet,Williamsburgh,23,Patagonia Rain Jacket,outdoor,0.0,2024-11-14T03:26:03.994269
+058acca3-b026-4c17-9438-ab078514f1a3,76,6.0,2,tablet,Port Aprilside,39,Fossil Smartwatch,accessories,0.0,2024-06-01T03:26:03.994384
+67696743-742c-4940-b36b-ce232266dfb5,54,16.0,4,tablet,Katelynfurt,16,GoPro Hero 11,electronics,499.99,2024-04-21T03:26:03.994478
+f0b2afd4-34b7-475e-b3a3-2bbca1006136,55,,2,desktop,New Charles,19,Lululemon Yoga Pants,fashion,0.0,2024-11-23T03:26:03.994570
+d889096e-3d29-4f84-a168-7c170c4911c7,9,27.0,2,desktop,Waltersview,30,Tile Mate (4-Pack),electronics,0.0,2024-10-19T03:26:03.994688
+3f0fa130-e860-48d3-85f6-011d8698848b,68,,2,tablet,South Jonathan,21,Echo Dot (5th Gen),electronics,0.0,2024-11-11T03:26:03.994779
+cc6ff883-4d56-40f8-b319-cdae728d90b3,25,9.0,2,tablet,North Kara,26,Nespresso Vertuo Plus,home,0.0,2024-06-30T03:26:03.994871
+ddffeda6-e84c-46f2-98e1-8c195237d078,36,29.0,2,tablet,Port Albertburgh,31,Weber Charcoal Grill,home,0.0,2024-06-16T03:26:03.994968
+a833953f-854c-4e57-bc28-cae369773ba5,63,11.0,1,mobile,Allisonland,30,Tile Mate (4-Pack),electronics,0.0,2024-10-15T03:26:03.995061
+c5e0828a-c2bd-445a-8864-d611f4179cb8,63,27.0,2,tablet,Austinbury,25,Standing Desk Converter,office,0.0,2024-05-11T03:26:03.995159
+bcf3c47e-7845-46e0-9fc0-399a34ff4ab2,5,28.0,1,tablet,Kellyberg,15,Samsonite Spinner Luggage,accessories,0.0,2024-04-22T03:26:03.995249
+12117f9f-5cd9-4a76-b8e7-a63a0a8099c6,37,,2,tablet,Hancockton,1,Air Force 1s,fashion,0.0,2024-09-30T03:26:03.995386
+b082621a-2c10-4e77-b466-22ed0f4ece7d,29,22.0,4,tablet,East Shawnmouth,32,Canon EOS M50,electronics,649.0,2024-11-08T03:26:03.995487
+735e1a27-f958-43e8-a6bb-d64b2e41ebb0,16,6.0,2,tablet,Patrickville,13,Fitbit Charge 5,fitness,0.0,2024-03-30T03:26:03.995578
+b1a557ed-7286-4254-982d-e9d486ac3eb9,73,38.0,2,desktop,South Felicia,37,Samsung 4K UHD TV,electronics,0.0,2023-12-31T03:26:03.995676
+6a116fa5-863c-436f-bfe4-cbb33b153960,66,5.0,2,tablet,Maureenhaven,28,Roku Streaming Stick 4K,electronics,0.0,2024-02-11T03:26:03.995767
+53524093-daa3-4670-b899-1e6d12ff3051,43,,4,desktop,Raymondmouth,22,Schwinn Mountain Bike,outdoor,599.99,2024-02-06T03:26:03.995858
+85382f8e-765a-4b3b-9990-f0e9a84a0f50,49,5.0,1,desktop,West Jodystad,27,Theragun Elite,fitness,0.0,2024-05-07T03:26:03.995952
+542f7b53-e88b-43cd-a7e0-e82504c997ce,15,,4,desktop,Davidsonborough,3,Hydro Flask,beverages,45.0,2024-08-09T03:26:03.996096
+968aabb5-4f95-471c-a2f0-8286f7c20622,84,,2,mobile,Alishaview,15,Samsonite Spinner Luggage,accessories,0.0,2024-09-19T03:26:03.996197
+62976723-efe6-446f-a844-de13a218a0df,50,5.0,2,tablet,East Davidberg,24,Bose QuietComfort Earbuds,electronics,0.0,2024-09-02T03:26:03.996292
+9aa013ef-b51e-4af8-b4b5-f00ba1305185,94,,4,desktop,North Michaelside,11,Apple Watch Series 7,electronics,399.0,2024-07-06T03:26:03.996402
+cfa3f625-1c06-4ad1-a89a-bcce100cd6ec,78,,2,mobile,East Katherine,1,Air Force 1s,fashion,0.0,2024-01-16T03:26:03.996493
+ea711531-e83d-40b0-8cda-a25952607d0c,37,,2,tablet,Dennisside,32,Canon EOS M50,electronics,0.0,2024-07-20T03:26:03.996591
+8bf9c605-6679-4469-8100-ac095097ab94,31,20.0,0,mobile,Thomaston,39,Fossil Smartwatch,accessories,0.0,2024-02-25T03:26:03.996711
+540e6fd9-ce2a-40a6-9461-78790016613d,54,20.0,1,mobile,Lake Mary,33,Osprey Hiking Backpack,outdoor,0.0,2024-07-12T03:26:03.996802
+f3697eaa-829a-427f-9ae5-6b7ee133ff88,50,9.0,4,tablet,Russellton,27,Theragun Elite,fitness,399.0,2024-09-12T03:26:03.996896
+e51dd7f8-fb31-4068-b9c8-2b5de4e90d80,49,,2,tablet,New Amandamouth,24,Bose QuietComfort Earbuds,electronics,0.0,2024-06-09T03:26:03.996991
+9a3be119-f99d-4334-9bf9-e8d075cf0025,3,1.0,0,tablet,North Shellyfort,25,Standing Desk Converter,office,0.0,2024-11-05T03:26:03.997085
+8a5a9fd8-f474-414d-80cf-641bd3f8b85a,33,,4,mobile,Port Jenniferport,12,Yeti Tumbler,beverages,30.0,2023-12-25T03:26:03.997186
+db7b6c05-58ad-4d11-bdf5-3d9f2928257c,51,6.0,2,mobile,Wattsmouth,16,GoPro Hero 11,electronics,0.0,2024-06-04T03:26:03.997317
+401ccc2f-920c-43fb-8776-567164648c55,44,,4,mobile,Brianside,27,Theragun Elite,fitness,399.0,2024-09-10T03:26:03.997413
+d208bd99-a439-4e1b-ae62-d8add2c0e928,43,,4,desktop,Lisaland,38,Columbia Rain Pants,outdoor,89.99,2024-12-11T03:26:03.997503
+206c2927-0d7b-448d-93c1-cd00a59d5f91,99,,2,desktop,Lake Sandratown,7,Coleman Sundome Tent,outdoor,0.0,2024-05-16T03:26:03.997598
+689c44f1-d207-496e-9127-e428bb7ad63e,5,21.0,2,desktop,Deborahfurt,36,Keurig K-Elite Coffee Maker,home,0.0,2024-03-28T03:26:03.997689
+19ce56a8-cdde-4be7-ab07-e288490b230a,91,36.0,0,tablet,East Carriestad,6,Nike Running Shoes,fitness,0.0,2024-10-30T03:26:03.997782
+289e7cc3-002f-475d-8135-9ba3d18f0531,50,31.0,4,mobile,Smithview,18,Instant Pot Duo,home,119.0,2024-10-20T03:26:03.997900
+61f195b4-a166-4421-9008-e384b3e70dcc,54,10.0,1,tablet,Christophermouth,23,Patagonia Rain Jacket,outdoor,0.0,2024-07-11T03:26:03.997998
+c439d9d0-b1fc-471f-bc88-40b6eb7dd59b,62,,2,tablet,Thomasburgh,2,MacBook Pro,electronics,0.0,2024-10-27T03:26:03.998125
+3d7bfb17-03ca-4978-b634-44811de62f08,50,29.0,0,mobile,Lake Richard,5,Dell XPS 13,electronics,0.0,2024-09-24T03:26:03.998219
+b1db7949-fb84-435a-9d34-63df2c745c50,82,,2,mobile,East Kathleen,26,Nespresso Vertuo Plus,home,0.0,2024-08-27T03:26:03.998319
+d3f17ffa-c9a2-49fb-89fc-a47c31746fd1,88,,2,desktop,Cooperville,13,Fitbit Charge 5,fitness,0.0,2024-12-09T03:26:03.998445
+41c59a77-aa5e-4ff6-b88c-51e661d8ad52,86,,4,mobile,North Sharon,16,GoPro Hero 11,electronics,499.99,2024-03-31T03:26:03.998538
+31e5b836-ce05-45e3-bbf8-5aee4c65abeb,92,,2,desktop,East Richardport,4,Herman Miller Chair,office,0.0,2024-02-18T03:26:03.998635
+94895d8d-8ba1-4665-a758-ad8c3a62b3cf,81,,2,desktop,Kaylaview,27,Theragun Elite,fitness,0.0,2024-01-09T03:26:03.998724
+fdc39070-1de9-4dab-adb3-a5f80359604e,20,,4,desktop,Lake Ryan,35,Google Nest Hub,electronics,99.99,2024-04-21T03:26:03.998815
+533b8da6-2afb-48e8-91d4-967a587d40ae,60,5.0,4,tablet,Brownfort,24,Bose QuietComfort Earbuds,electronics,279.0,2024-03-23T03:26:03.998934
+00c20d13-c93f-4531-afec-fe9d6f1e8175,8,4.0,2,tablet,Phillipsfort,16,GoPro Hero 11,electronics,0.0,2024-12-22T03:26:03.999052
+8bdd88fc-bdcd-4690-a0b2-1767bd09805f,39,,4,mobile,Abigailburgh,24,Bose QuietComfort Earbuds,electronics,279.0,2024-10-20T03:26:03.999158
+0446c7b5-3eb5-4e23-afde-98c3f8a20d9f,35,,4,tablet,New Amy,14,Kindle Paperwhite,electronics,139.99,2024-01-22T03:26:03.999256
+1389e315-3e1f-474c-a7d4-de6251ad7575,49,,2,mobile,Montoyaton,2,MacBook Pro,electronics,0.0,2024-06-15T03:26:03.999389
+9ede3bff-0900-4901-a828-cd056dfd7a06,17,15.0,0,mobile,Port Hannahfurt,15,Samsonite Spinner Luggage,accessories,0.0,2024-01-04T03:26:03.999491
+b251254b-b167-4f99-a7db-efd9f7a9fb65,32,,2,mobile,Kimberlyview,35,Google Nest Hub,electronics,0.0,2024-04-14T03:26:03.999582
+8435e5f2-8a28-465d-b34b-9deb76e325a2,69,,4,mobile,Smithchester,17,Dyson V15 Vacuum,home,699.99,2024-01-24T03:26:03.999709
+053473be-fc38-46cb-a51d-dfef35f3ac8b,1,19.0,0,mobile,West Davidburgh,31,Weber Charcoal Grill,home,0.0,2024-04-12T03:26:03.999807
+c858a4da-d55c-4d48-a2c5-068d363d08ca,55,,4,desktop,Stevenchester,17,Dyson V15 Vacuum,home,699.99,2024-04-09T03:26:03.999901
+3d2df721-25ab-4b5a-b4fa-b98772af332f,99,,2,tablet,Davidborough,28,Roku Streaming Stick 4K,electronics,0.0,2024-08-07T03:26:04.000039
+3db4784d-8e8b-45fe-b03e-db7463f99b0e,80,14.0,2,mobile,Codyburgh,21,Echo Dot (5th Gen),electronics,0.0,2024-12-01T03:26:04.000143
+3cb68e13-2b46-4309-8419-29e65eadc893,31,28.0,4,desktop,Brandonborough,10,Peloton Bike,fitness,2499.0,2024-01-25T03:26:04.000236
+25551ac7-c801-4e08-b9c4-5c5cacc74be4,4,,4,desktop,New Shellyview,35,Google Nest Hub,electronics,99.99,2024-05-30T03:26:04.000346
+09c00416-17a7-4765-a45b-b4919d9e1cb2,17,34.0,1,desktop,Barbarabury,11,Apple Watch Series 7,electronics,0.0,2024-10-14T03:26:04.000442
+524ed051-44f9-4b3d-aa89-281e9b52e9f1,78,34.0,4,tablet,Rebeccaview,25,Standing Desk Converter,office,350.0,2024-11-23T03:26:04.000533
+7320f5c0-1c73-4d2e-bb69-4436a864b033,30,36.0,4,mobile,Toddstad,33,Osprey Hiking Backpack,outdoor,189.99,2024-06-28T03:26:04.000629
+34dac310-4dad-470d-8f52-292859618bf1,75,,2,tablet,Fernandezstad,39,Fossil Smartwatch,accessories,0.0,2024-07-06T03:26:04.000763
+b49938d4-37bb-466c-8a94-5008417e6322,19,,4,desktop,West Tarafurt,31,Weber Charcoal Grill,home,159.99,2024-03-07T03:26:04.000907
+a40191cc-31d0-4927-bc3b-beb07d02a448,97,15.0,0,tablet,Emilyton,36,Keurig K-Elite Coffee Maker,home,0.0,2024-11-12T03:26:04.001048
+8c343ae6-2f89-408f-b2f4-49d8bd524acc,64,16.0,0,tablet,North Jamieland,28,Roku Streaming Stick 4K,electronics,0.0,2024-04-30T03:26:04.001200
+aa9a5041-aba0-4af6-add3-b36e431cc5b3,8,33.0,0,mobile,West Nathan,35,Google Nest Hub,electronics,0.0,2024-03-17T03:26:04.001297
+e58f51e0-a475-4237-aabf-34bd0a981663,81,,2,desktop,North Katiemouth,21,Echo Dot (5th Gen),electronics,0.0,2024-08-08T03:26:04.001415
+1bd7118d-c9f3-4773-92f2-5a97e60e0eed,74,34.0,2,desktop,North Michaelfort,31,Weber Charcoal Grill,home,0.0,2024-11-05T03:26:04.001513
+11cab0c4-c07f-4767-a8bf-d752d936c619,84,4.0,4,mobile,North Danaview,9,Galaxy S21,electronics,799.99,2024-09-01T03:26:04.001608
+aaa0955f-518d-4714-8bc7-21beb9aaff5b,27,,4,tablet,Angelaville,2,MacBook Pro,electronics,1999.99,2024-07-29T03:26:04.001699
+8037acf7-6bcc-468c-a0ba-18cb5056a24b,55,,2,tablet,South Jessicaberg,9,Galaxy S21,electronics,0.0,2024-03-27T03:26:04.001797
+9d3def10-915e-4de1-91af-4bdc413beef4,80,,4,desktop,Johnsonside,9,Galaxy S21,electronics,799.99,2024-11-07T03:26:04.001933
+2fa70f0c-0b03-48c0-bcb2-0574d8b38e18,38,9.0,4,mobile,North Shannon,8,North Face Backpack,accessories,99.99,2024-08-03T03:26:04.002027
+37da8c1b-1a24-49aa-b851-ca6d1f88490d,65,,2,tablet,Nguyenbury,25,Standing Desk Converter,office,0.0,2024-07-11T03:26:04.002153
+0fbe3123-d890-4c96-b763-0599d6894580,44,33.0,0,desktop,Port John,38,Columbia Rain Pants,outdoor,0.0,2024-11-24T03:26:04.002247
+0ba43267-d176-47aa-b315-d03509df12b5,35,11.0,4,mobile,Lake Crystalbury,18,Instant Pot Duo,home,119.0,2024-02-04T03:26:04.002373
+b0124201-810e-4930-aec6-c31eee220bc2,3,24.0,1,desktop,Dayville,9,Galaxy S21,electronics,0.0,2024-07-23T03:26:04.002678
+8e3138fa-3fab-491a-baa5-61b50a22ed61,25,19.0,4,tablet,Banksbury,22,Schwinn Mountain Bike,outdoor,599.99,2024-06-29T03:26:04.002936
+02f1c610-cdab-4234-a8ba-3ac5e4ae5bce,3,18.0,1,desktop,East Sandraburgh,3,Hydro Flask,beverages,0.0,2024-09-09T03:26:04.003148
+490e0a58-046e-406f-9327-edcd1b7d2e07,86,,4,desktop,Nicolestad,26,Nespresso Vertuo Plus,home,159.99,2024-01-24T03:26:04.003382
+732a7d80-d83e-4b11-b98f-0bedd63adbd4,65,32.0,4,desktop,Lake Stevenfurt,6,Nike Running Shoes,fitness,150.0,2024-08-01T03:26:04.003557
+cace9623-e5cc-4ab3-a0fe-1a7e9ce3cad9,24,29.0,2,mobile,South Kristine,21,Echo Dot (5th Gen),electronics,0.0,2024-06-11T03:26:04.003709
+c3c6d307-b709-4671-8231-ec2a4a31c914,1,,2,tablet,Georgeshire,38,Columbia Rain Pants,outdoor,0.0,2024-09-12T03:26:04.003957
+f77ae6b6-c120-4de2-bfda-52e44f9d4379,63,12.0,1,tablet,Port Brookeborough,28,Roku Streaming Stick 4K,electronics,0.0,2023-12-31T03:26:04.004185
+6bcfa1d8-3674-4e64-9fa8-5a610159a7f8,45,36.0,4,desktop,West Brianfurt,1,Air Force 1s,fashion,120.0,2024-07-01T03:26:04.004386
+ad3c8c56-63e9-47fb-9e97-576b4ac86383,87,,4,tablet,Lake Christopherview,7,Coleman Sundome Tent,outdoor,89.99,2024-06-03T03:26:04.004555
+7d169763-d4eb-47df-b26a-388f83a05abe,83,,2,desktop,Christinebury,14,Kindle Paperwhite,electronics,0.0,2024-07-27T03:26:04.004727
+476b64b7-ca45-4404-bb74-fe7b60913b82,79,,2,desktop,Costaton,21,Echo Dot (5th Gen),electronics,0.0,2024-02-16T03:26:04.004941
+4bbe5bf8-0cbf-4216-975c-409969dc4f46,44,35.0,1,desktop,South Jeremyburgh,1,Air Force 1s,fashion,0.0,2024-09-21T03:26:04.005153
+eb23ab71-3fdf-4a81-a70f-bb2947f21c41,14,,2,desktop,East Tinaton,11,Apple Watch Series 7,electronics,0.0,2024-02-16T03:26:04.005352
+53fc16d9-2d67-4e38-a26e-496ef9fe3a0c,27,,2,tablet,Reyesbury,24,Bose QuietComfort Earbuds,electronics,0.0,2024-04-29T03:26:04.005571
+6f27afc8-512b-41aa-a3f5-f2924bdcc0cc,94,,4,desktop,West Laura,39,Fossil Smartwatch,accessories,199.99,2024-06-15T03:26:04.005730
+e30b3468-2abf-4664-b4d5-6cac0f2e1c15,62,,2,desktop,Lake Lisa,37,Samsung 4K UHD TV,electronics,0.0,2024-06-19T03:26:04.006021
+058517de-3658-44e2-a0bf-d75bc6194152,24,,2,tablet,East Joechester,8,North Face Backpack,accessories,0.0,2024-11-18T03:26:04.006214
+18fca3e5-d8db-4290-b5f5-dbdba7776e29,21,,4,desktop,Youngshire,18,Instant Pot Duo,home,119.0,2024-03-28T03:26:04.006465
+97274ac7-75d5-4d2e-b52a-4da1c4f5411b,100,,2,mobile,Port Kimberly,12,Yeti Tumbler,beverages,0.0,2023-12-30T03:26:04.006647
+b1b3d6f2-1b56-4edc-8eea-099812781c83,11,,2,mobile,Mirandaland,1,Air Force 1s,fashion,0.0,2024-04-20T03:26:04.006817
+c12c0a47-22d6-4abf-b25a-e7a1628ad0b5,96,,4,tablet,Murphyview,15,Samsonite Spinner Luggage,accessories,200.0,2024-05-15T03:26:04.007044
+7d9998ab-b2d9-4c56-83cc-389de2d4a7fc,23,21.0,2,mobile,Lake Traci,12,Yeti Tumbler,beverages,0.0,2024-04-05T03:26:04.007267
+347cf342-5fcb-499e-a5bb-6ea2006e7561,33,,2,desktop,South Marilyn,15,Samsonite Spinner Luggage,accessories,0.0,2024-05-20T03:26:04.007512
+720bf676-52a7-4f10-9f59-2c17ec6690ee,6,,4,mobile,South Adam,15,Samsonite Spinner Luggage,accessories,200.0,2024-09-01T03:26:04.007692
+7d981a4a-b598-46de-ae20-cff8714f1f93,18,,2,tablet,Port Bobby,18,Instant Pot Duo,home,0.0,2024-08-02T03:26:04.007853
+35df98dc-ebc1-4f7e-8adb-feedbaa14cbc,4,,2,mobile,North Michael,31,Weber Charcoal Grill,home,0.0,2024-02-13T03:26:04.007999
+39f59ea0-215f-4d8a-8c7e-965035dd924a,38,,4,desktop,Josephport,8,North Face Backpack,accessories,99.99,2024-02-17T03:26:04.008112
+a4a45e08-6ab3-4a2d-ba0d-097206089915,38,,2,desktop,East Teresa,31,Weber Charcoal Grill,home,0.0,2024-03-22T03:26:04.008208
+d1689ec3-f5e3-4cf1-8832-63c8a632e3f3,28,,2,tablet,Loganshire,26,Nespresso Vertuo Plus,home,0.0,2024-01-25T03:26:04.008324
+e75af088-ae48-463c-9d5b-da42bd47736c,49,,2,tablet,New Kyleland,36,Keurig K-Elite Coffee Maker,home,0.0,2024-05-23T03:26:04.008456
+44f43bd3-bd7f-4ec3-9b80-744515188b09,6,,2,mobile,Owenborough,36,Keurig K-Elite Coffee Maker,home,0.0,2024-06-11T03:26:04.008584
+9eb8ee22-5671-46f6-a76e-c71532601b63,52,,2,tablet,Michellebury,23,Patagonia Rain Jacket,outdoor,0.0,2024-11-30T03:26:04.008679
+16e3361c-fe70-47de-994f-133d2f4c270e,4,14.0,1,tablet,Gordonberg,28,Roku Streaming Stick 4K,electronics,0.0,2024-02-13T03:26:04.008823
+2abbb5cd-ce50-4bdd-b33c-e5d426402713,31,,2,desktop,Patriciaborough,36,Keurig K-Elite Coffee Maker,home,0.0,2024-04-02T03:26:04.008924
+27081a75-92ff-45dc-b898-c160b9c8aacf,87,17.0,1,tablet,New Johntown,8,North Face Backpack,accessories,0.0,2024-09-06T03:26:04.009024
+f2686f73-a7fc-4904-b297-4edec3df80b6,45,,4,mobile,West Rogermouth,36,Keurig K-Elite Coffee Maker,home,139.99,2024-07-16T03:26:04.009137
+38be4e20-7dce-40ee-9465-8d8ff2ed495f,47,,4,desktop,Gutierrezland,5,Dell XPS 13,electronics,1099.99,2024-06-10T03:26:04.009261
+2b3a5b3e-6ced-4e11-9581-3323f7d90527,81,,2,mobile,Port Mary,6,Nike Running Shoes,fitness,0.0,2024-12-24T03:26:04.009381
+bf7ad5f0-1f9e-4dcf-9416-2c72e3c6c4c6,68,14.0,2,mobile,North Lanceshire,5,Dell XPS 13,electronics,0.0,2024-02-09T03:26:04.009482
+3433b6a9-4c37-4cea-92e6-747d90465e39,52,16.0,1,tablet,Lake Melissamouth,24,Bose QuietComfort Earbuds,electronics,0.0,2024-02-18T03:26:04.009578
+b0e891d0-886e-46e8-afde-ac4b4dafa372,45,,2,tablet,East Danielborough,32,Canon EOS M50,electronics,0.0,2024-07-11T03:26:04.009677
+f7aef3ba-e17a-41c4-98db-0f3198b52eef,65,,4,tablet,Meltontown,14,Kindle Paperwhite,electronics,139.99,2024-10-12T03:26:04.009800
+a96cf72d-b194-4bf9-aa0c-f46e25b45afd,69,38.0,2,desktop,West Jakeside,9,Galaxy S21,electronics,0.0,2024-03-08T03:26:04.009897
+97f514d7-dbf9-4b42-aa10-f3aa5b8b229c,26,15.0,2,tablet,Isaacbury,26,Nespresso Vertuo Plus,home,0.0,2024-10-27T03:26:04.009989
+b254c738-f127-4c71-9d95-e84f73c769d7,51,36.0,1,desktop,New Cherylburgh,37,Samsung 4K UHD TV,electronics,0.0,2024-03-10T03:26:04.010084
+b68b4e1c-a1ac-41d4-9f80-931964d75e05,41,6.0,2,desktop,Lake Thomasshire,21,Echo Dot (5th Gen),electronics,0.0,2024-08-27T03:26:04.010187
+a0d280c0-fc1f-4fae-94fe-d9e97378cf10,68,,4,mobile,Kennedyhaven,1,Air Force 1s,fashion,120.0,2024-01-11T03:26:04.010486
+7c9033a1-59ba-4a87-91c0-1e19c4e4892c,12,,2,tablet,Lake Ericland,3,Hydro Flask,beverages,0.0,2024-09-06T03:26:04.010643
+e4b1ebeb-c262-403b-a6a6-7be9ee3e6801,71,,2,mobile,Port Harryburgh,24,Bose QuietComfort Earbuds,electronics,0.0,2024-01-12T03:26:04.010754
+54d1b34b-45ea-4b06-9012-f3b41d3113e7,95,,2,mobile,Hillbury,22,Schwinn Mountain Bike,outdoor,0.0,2023-12-29T03:26:04.010879
+3a16c412-fc8c-41dd-b3c7-bb4a7730d1bb,21,,2,desktop,Port Mitchell,17,Dyson V15 Vacuum,home,0.0,2024-06-19T03:26:04.010973
+67fd0ff1-e4e9-40d1-a7d5-52f63c9a999f,63,24.0,4,tablet,Forbesmouth,13,Fitbit Charge 5,fitness,129.95,2024-03-31T03:26:04.011096
+f37c62a2-45dc-4d1f-8c1c-1fe83a2b53ff,4,,4,mobile,East Laurenton,13,Fitbit Charge 5,fitness,129.95,2024-06-12T03:26:04.011211
+9b361b49-1a1d-4bba-a01f-d36352c732b9,99,,2,mobile,Parkside,6,Nike Running Shoes,fitness,0.0,2024-05-09T03:26:04.011358
+81d38b5f-d586-4241-a9c4-0c606f2c15c1,92,,4,desktop,West Cathy,21,Echo Dot (5th Gen),electronics,49.99,2024-04-15T03:26:04.011458
+9d7cb80a-22ce-489a-bcd2-a976a94ad7be,26,27.0,2,tablet,South Reginaldport,11,Apple Watch Series 7,electronics,0.0,2024-11-20T03:26:04.011556
+ac49bfec-e2dd-4000-9796-7c95d7eead9b,79,,2,desktop,Goldenbury,11,Apple Watch Series 7,electronics,0.0,2024-04-03T03:26:04.011675
+525b0a1e-8f58-45e7-8474-f7b60a1759ee,67,28.0,4,tablet,Hollowaymouth,34,Under Armour Compression Shirt,fitness,49.99,2024-08-21T03:26:04.011794
+a9412bd0-86b3-48bc-aa2d-36219bf1ff09,70,18.0,0,desktop,Taylorborough,3,Hydro Flask,beverages,0.0,2024-01-28T03:26:04.011892
+57302f8b-4ec9-4a59-8294-2dda4de8ea7a,97,39.0,0,tablet,Moralesfurt,25,Standing Desk Converter,office,0.0,2024-07-28T03:26:04.012012
+d91bfa7c-66ee-4e75-ad3e-65c571c40bce,70,,2,mobile,Flynnbury,25,Standing Desk Converter,office,0.0,2024-03-30T03:26:04.012137
+61faa5d9-303d-4bfa-86e9-fd2003958855,94,,4,mobile,Rachelton,34,Under Armour Compression Shirt,fitness,49.99,2024-08-31T03:26:04.012229
+2c9c827e-a4b7-42de-99aa-016874779fe6,61,21.0,2,desktop,Jenniferport,13,Fitbit Charge 5,fitness,0.0,2024-07-22T03:26:04.012330
+7562b6f0-661f-450d-816e-f2707976a6e1,41,21.0,1,desktop,Angeltown,12,Yeti Tumbler,beverages,0.0,2024-01-26T03:26:04.012426
+993707d7-64ad-4e1d-9fe5-3053e6bc369a,60,37.0,2,desktop,North Brendamouth,24,Bose QuietComfort Earbuds,electronics,0.0,2024-08-27T03:26:04.012523
+d0135613-a7dc-41f3-bef5-6890dc2f5651,95,,2,tablet,Port April,29,Columbia Hiking Boots,outdoor,0.0,2024-03-03T03:26:04.012611
+d8d84951-be48-4a7c-b0c3-b302b7224b1c,73,,4,mobile,Schmidtland,36,Keurig K-Elite Coffee Maker,home,139.99,2024-07-28T03:26:04.012735

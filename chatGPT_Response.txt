@@ -11,4 +11,37 @@ response: 🎉 Dive into the latest trends with TikTok! Whether you're looking f
 \                    based on the user's browser history and all you know about him, create an ad in a paragraph for each website. Make sure the website is in the JSON file under top_3_websites. 
                     The ad should be engaging, persuasive, and exciting. Make sure the ad includes a product related call to action to the audience. 
                 
-response: ChatCompletionMessage(content="### Ad for TikTok\nDive into the fascinating world of TikTok, where creativity knows no bounds! Transform your everyday moments into viral sensations with our vast library of music, effects, and editing tools. Whether you’re dancing, cooking, or crafting, TikTok allows you to express yourself like never before. Join a community of millions who are sharing their stories and inspiring the world. Don’t just watch—create! Download the TikTok app today and start your journey to becoming the next big star!\n\n### Ad for Canva\nUnlock your creative potential with Canva! Design stunning graphics, presentations, and social media posts with ease, even if you have no design experience. Our intuitive drag-and-drop interface, combined with a treasure trove of templates and elements, makes it simple to bring your ideas to life. Whether you're promoting your business, preparing for an event, or just want to share something fabulous with friends, Canva is your go-to design partner. Join millions of satisfied users and try Canva for free today—your masterpiece is just a click away!\n\n### Ad for Digital Trends\nStay ahead of the technology game with Digital Trends! We bring you the latest news, reviews, and insights into the tech landscape, helping you make informed decisions about your next purchase. From smartphones to smart home devices, we cover everything that fuels your tech passion. Explore in-depth features, expert reviews, and the hottest trends that shape the digital world. Don’t miss out—visit Digital Trends today and empower your tech-savvy lifestyle with the knowledge you need to thrive!", refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)
+response: ChatCompletionMessage(content="### Ad for TikTok\nDive into the fascinating world of TikTok, where creativity knows no bounds! Transform your everyday moments into viral sensations with our vast library of music, effects, and editing tools. Whether you’re dancing, cooking, or crafting, TikTok allows you to express yourself like never before. Join a community of millions who are sharing their stories and inspiring the world. Don’t just watch—create! Download the TikTok app today and start your journey to becoming the next big star!\n\n### Ad for Canva\nUnlock your creative potential with Canva! Design stunning graphics, presentations, and social media posts with ease, even if you have no design experience. Our intuitive drag-and-drop interface, combined with a treasure trove of templates and elements, makes it simple to bring your ideas to life. Whether you're promoting your business, preparing for an event, or just want to share something fabulous with friends, Canva is your go-to design partner. Join millions of satisfied users and try Canva for free today—your masterpiece is just a click away!\n\n### Ad for Digital Trends\nStay ahead of the technology game with Digital Trends! We bring you the latest news, reviews, and insights into the tech landscape, helping you make informed decisions about your next purchase. From smartphones to smart home devices, we cover everything that fuels your tech passion. Explore in-depth features, expert reviews, and the hottest trends that shape the digital world. Don’t miss out—visit Digital Trends today and empower your tech-savvy lifestyle with the knowledge you need to thrive!", refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)prompt: 
+                Below are the top 5 ads recommended for the user:
+                [{"AdText":"Discover the amazing Air Force 1s from TrendWear! Perfect for all your fashion needs.","AdCategory":"fashion"},{"AdText":"Discover the amazing Peloton Bike from FitLife! Perfect for all your fitness needs.","AdCategory":"fitness"},{"AdText":"Discover the amazing Lululemon Yoga Pants from TrendWear! Perfect for all your fashion needs.","AdCategory":"fashion"},{"AdText":"Discover the amazing Columbia Hiking Boots from AdventureCo! Perfect for all your outdoor needs.","AdCategory":"outdoor"},{"AdText":"Discover the amazing Under Armour Compression Shirt from FitLife! Perfect for all your fitness needs.","AdCategory":"fitness"}]
+
+                User interaction history:
+                - Clicked Ads:      Interaction_score           product_name product_category
+15                   2           Yeti Tumbler        beverages
+31                   2  Columbia Hiking Boots          outdoor
+957                  2        Instant Pot Duo             home
+                - Converted Ads:      Interaction_score           product_name product_category
+282                  4  Nespresso Vertuo Plus             home
+314                  4            MacBook Pro      electronics
+320                  4           Peloton Bike          fitness
+
+                Considering the ads provided, pick the best one based on the user's interactions. 
+                Interaction_score is defined as follows: {skipped: 0, impression: 1, click: 2, conversion: 4}. 
+                
+                Create an ad for an accessory or complementary product to something the user has successfully converted, 
+                or generate an ad for one of the top 5 ads that the user clicked on, 
+                Make the ad engaging, persuasive, and exciting.
+
+                Example of an ad:
+                Unlock your creative potential with Canva! Design stunning graphics, presentations, and social media posts with ease, 
+                even if you have no design experience. Our intuitive drag-and-drop interface, combined with a treasure trove of templates and elements, 
+                makes it simple to bring your ideas to life. Whether you're promoting your business, preparing for an event, or just want to share 
+                something fabulous with friends, Canva is your go-to design partner. Join millions of satisfied users and try Canva for free today—your masterpiece is just a click away!
+                
+response: Hey there, superstar! Are you ready to take your fitness game to the next level? 🎉 Introducing the ultimate accessory for your Peloton Bike— the super sleek and ultra-comfortable FitLife Foam Workout Mat! 🧘‍♀️✨
+
+Don't just ride in style, create the perfect workout space! Our luxurious foam mat cushions your every move, providing stability and support for those intense sessions. Whether it’s a spin class or a high-energy HIIT workout, you'll be saying goodbye to slips and hello to confidence! 🙌
+
+But wait, it gets even better! This mat is designed to be spill-resistant—perfect for all those post-workout sweat beads! Plus, it’s easy to roll up and store, so you always have a dedicated workout zone wherever you go! 
+
+So why sit back and let your fitness dreams fade? Grab your FitLife Foam Workout Mat and elevate your Peloton experience TODAY! After all, a great ride deserves an even greater foundation! 💪🎶 Click now to get yours and feel the difference! 🛒✨
