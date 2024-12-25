@@ -1,7 +1,7 @@
 import pandas as pd
 from openai import OpenAI
 import os
-import recs
+import main.recs as recs
 import random
 from datetime import datetime
 from elevenlabs.client import ElevenLabs
@@ -19,7 +19,7 @@ class AdAutomation:
         :return: Dictionary containing user interaction history
         """
         # Get all events for the user
-        events_df = pd.read_csv('./synthetic-browsing-history/events_df.csv')
+        events_df = pd.read_csv('./Data/events_df.csv')
         user_events = events_df[events_df["User_id"] == user_id]
 
         # Extract ads with specific interaction scores

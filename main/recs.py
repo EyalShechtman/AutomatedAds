@@ -14,8 +14,8 @@ class Similar_Users:
         returns list of top 5 potential ads that would be appropriate for the user
 
         """
-        ads_df = pd.read_csv('./synthetic-browsing-history/ads_df.csv')
-        events_df = pd.read_csv('./synthetic-browsing-history/events_df.csv')
+        ads_df = pd.read_csv('./Data/ads_df.csv')
+        events_df = pd.read_csv('./Data/events_df.csv')
         # Filter user-specific events
         user_events = events_df[events_df["User_id"] == user_id]
 
