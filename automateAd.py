@@ -3,11 +3,14 @@ from openai import OpenAI
 import os
 import recs
 import random
+from datetime import datetime
+from elevenlabs.client import ElevenLabs
 
 class AdAutomation:
     def __init__(self):
         # Initialize any required variables or objects
-        self.client = OpenAI(api_key = os.getenv("OPENAI_API_KEY"))
+        self.OPENclient = OpenAI(api_key = os.getenv("OPENAI_API_KEY"))
+        self.ELABSclient = ElevenLabs(api_key = os.getenv("ELEVENLABS_API_Key"))
 
     def get_user_history(self, user_id):
         """
@@ -45,7 +48,7 @@ class AdAutomation:
         :param user_id: The user in need of an ad
         """
 
-        client = self.client
+        client = self.OPENclient
         history = self.get_user_history(user_id)
 
         clicked_ads = history['clicked_ads']
@@ -65,6 +68,7 @@ class AdAutomation:
                 Create an ad for an accessory or complementary product to something the user has successfully converted, 
                 or generate an ad for one of the top 5 ads that the user clicked on, 
                 Make the ad engaging, persuasive, and exciting.
+                Don't use emojis, keep everything lowercase. LIMIT THE AD TO 200 characters!
 
                 Example of an ad:
                 Unlock your creative potential with Canva! Design stunning graphics, presentations, and social media posts with ease, 
@@ -89,6 +93,10 @@ class AdAutomation:
             file.write(f'prompt: {prompt}\nresponse: {response_content}')
 
         print(response_content)
+
+        # returned_list = []
+        # returned_list.append(response_content)
+        # returned_list.append()
         return response_content
 
     def speech_to_text(self, audio):
@@ -100,24 +108,36 @@ class AdAutomation:
         # Add logic for speech-to-text conversion
         pass
 
-    def text_to_speech(self, text):
+    def text_to_speech(self, text, userID):
         """
         Convert text to speech.
         :param text: Text to convert to audio
+        :param userID: user in question
         :return: Audio data or file
         """
         # Add logic for text-to-speech conversion
+        client = self.ELABSclient
         try:
-            response = self.client.audio.speech.create(
-                model="tts-1",
-                voice="alloy",
-                input=text,
-            )
-            response.write_to_file("Test_Output.mp3")
-            print("Audio saved as Test_Output.mp3")
+            audio_stream = client.generate(text=text, voice='Brian', model="eleven_multilingual_v2")
         except Exception as e:
-            print(f"Error in text-to-speech: {e}")
+            print(f"Error generating audio: {e}")
+            return None
+        
+        output_dir = "generated_audio"
+        os.makedirs(output_dir, exist_ok=True)  # Ensure the directory exists        
+        timestamp = datetime.now().strftime('%Y%m%d%H%M%S')
+        file_path = os.path.join(output_dir, f'output_audio_{userID}_{timestamp}.mp3')
 
+        try:
+            # Write audio data to the file
+            with open(file_path, "wb") as audio_file:
+                for chunk in audio_stream:
+                    audio_file.write(chunk)
+            print(f"Audio saved to {file_path}")
+            return file_path
+        except Exception as e:
+            print(f"Error saving audio file: {e}")
+            return None
 
 
     def main(self):
@@ -126,9 +146,10 @@ class AdAutomation:
         """
         user_id = random.randint(1, 99)
         device_type = random.choice(['mobile', 'tablet', 'desktop'])
+        print(user_id, device_type)
         ad_rec = recs.Similar_Users().recommend_ads(user_id, device_type)
         ad_response = self.automate_ad(ad_rec, user_id)
-        # text_to_speech = self.text_to_speech(ad_response)
+        self.text_to_speech(ad_response, user_id)
 
 
 # Example usage
