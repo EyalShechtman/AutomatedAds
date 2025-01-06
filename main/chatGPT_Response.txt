@@ -1,0 +1,117 @@
+prompt: 
+                Below are the top 5 ads recommended for the user:
+                [{"AdText":"Discover the amazing Air Force 1s from TrendWear! Perfect for all your fashion needs.","AdCategory":"fashion"},{"AdText":"Discover the amazing Peloton Bike from FitLife! Perfect for all your fitness needs.","AdCategory":"fitness"},{"AdText":"Discover the amazing Lululemon Yoga Pants from TrendWear! Perfect for all your fashion needs.","AdCategory":"fashion"},{"AdText":"Discover the amazing Columbia Hiking Boots from AdventureCo! Perfect for all your outdoor needs.","AdCategory":"outdoor"},{"AdText":"Discover the amazing Under Armour Compression Shirt from FitLife! Perfect for all your fitness needs.","AdCategory":"fitness"}]
+
+                User interaction history:
+                - Clicked Ads:      Interaction_score           product_name product_category
+15                   2           Yeti Tumbler        beverages
+31                   2  Columbia Hiking Boots          outdoor
+957                  2        Instant Pot Duo             home
+                - Converted Ads:      Interaction_score           product_name product_category
+282                  4  Nespresso Vertuo Plus             home
+314                  4            MacBook Pro      electronics
+320                  4           Peloton Bike          fitness
+
+                Considering the ads provided, pick the best one based on the user's interactions. 
+                Interaction_score is defined as follows: {skipped: 0, impression: 1, click: 2, conversion: 4}. 
+                
+                Create an ad for an accessory or complementary product to something the user has successfully converted, 
+                or generate an ad for one of the top 5 ads that the user clicked on, 
+                Make the ad engaging, persuasive, and exciting.
+                Don't use emojis, keep everything lowercase. LIMIT THE AD TO 200 characters!
+
+                Example of an ad:
+                Unlock your creative potential with Canva! Design stunning graphics, presentations, and social media posts with ease, 
+                even if you have no design experience. Our intuitive drag-and-drop interface, combined with a treasure trove of templates and elements, 
+                makes it simple to bring your ideas to life. Whether you're promoting your business, preparing for an event, or just want to share 
+                something fabulous with friends, Canva is your go-to design partner. Join millions of satisfied users and try Canva for free today—your masterpiece is just a click away!
+                
+response: step up your game with the perfect accessory for your outdoor adventures: the amazing misty trail hydration pack from adventureco! stay hydrated and hands-free while you conquer the trails!prompt: 
+                Below are the top 5 ads recommended for the user:
+                [{"AdText":"Discover the amazing Keurig K-Elite Coffee Maker from HomeStyle! Perfect for all your home needs.","AdCategory":"home"},{"AdText":"Discover the amazing Samsonite Spinner Luggage from AccessoryHub! Perfect for all your accessories needs.","AdCategory":"accessories"},{"AdText":"Discover the amazing Dyson V15 Vacuum from HomeStyle! Perfect for all your home needs.","AdCategory":"home"},{"AdText":"Discover the amazing Weber Charcoal Grill from HomeStyle! Perfect for all your home needs.","AdCategory":"home"},{"AdText":"Discover the amazing Nespresso Vertuo Plus from HomeStyle! Perfect for all your home needs.","AdCategory":"home"}]
+
+                User interaction history:
+                - Clicked Ads:      Interaction_score               product_name product_category
+93                   2        Herman Miller Chair           office
+236                  2            Google Nest Hub      electronics
+426                  2                Hydro Flask        beverages
+758                  2  Samsonite Spinner Luggage      accessories
+868                  2          Samsung 4K UHD TV      electronics
+                - Converted Ads:      Interaction_score                 product_name product_category
+496                  4      Roku Streaming Stick 4K      electronics
+629                  4                  Dell XPS 13      electronics
+757                  4            Samsung 4K UHD TV      electronics
+999                  4  Keurig K-Elite Coffee Maker             home
+
+                Considering the ads provided, pick the best one based on the user's interactions. 
+                Interaction_score is defined as follows: {skipped: 0, impression: 1, click: 2, conversion: 4}. 
+                
+                Create an ad for an accessory or complementary product to something the user has successfully converted, 
+                or generate an ad for one of the top 5 ads that the user clicked on, 
+                Make the ad engaging, persuasive, and exciting.
+                Don't use emojis, keep everything lowercase. LIMIT THE AD TO 200 characters!
+
+                Example of an ad:
+                Unlock your creative potential with Canva! Design stunning graphics, presentations, and social media posts with ease, 
+                even if you have no design experience. Our intuitive drag-and-drop interface, combined with a treasure trove of templates and elements, 
+                makes it simple to bring your ideas to life. Whether you're promoting your business, preparing for an event, or just want to share 
+                something fabulous with friends, Canva is your go-to design partner. Join millions of satisfied users and try Canva for free today—your masterpiece is just a click away!
+                
+response: level up your entertainment experience with the roku streaming stick 4k! enjoy stunning picture quality and endless streaming options. plug it in, connect, and dive into your favorite shows today!prompt: 
+                Below are the top 5 ads recommended for the user:
+                [{"AdText":"Discover the amazing Peloton Bike from FitLife! Perfect for all your fitness needs.","AdCategory":"fitness"},{"AdText":"Discover the amazing GoPro Hero 11 from TechCo! Perfect for all your electronics needs.","AdCategory":"electronics"},{"AdText":"Discover the amazing Google Nest Hub from TechCo! Perfect for all your electronics needs.","AdCategory":"electronics"},{"AdText":"Discover the amazing Fitbit Charge 5 from FitLife! Perfect for all your fitness needs.","AdCategory":"fitness"},{"AdText":"Discover the amazing Weber Charcoal Grill from HomeStyle! Perfect for all your home needs.","AdCategory":"home"}]
+
+                User interaction history:
+                - Clicked Ads:      Interaction_score                 product_name product_category
+55                   2       Osprey Hiking Backpack          outdoor
+128                  2        Patagonia Rain Jacket          outdoor
+133                  2              Google Nest Hub      electronics
+446                  2          Columbia Rain Pants          outdoor
+724                  2  Keurig K-Elite Coffee Maker             home
+938                  2          Columbia Rain Pants          outdoor
+                - Converted Ads:      Interaction_score            product_name product_category
+174                  4  Osprey Hiking Backpack          outdoor
+290                  4      Nike Running Shoes          fitness
+386                  4            Peloton Bike          fitness
+652                  4    Weber Charcoal Grill             home
+828                  4   Schwinn Mountain Bike          outdoor
+
+                Considering the ads provided, pick the best one based on the user's interactions. 
+                Interaction_score is defined as follows: {skipped: 0, impression: 1, click: 2, conversion: 4}. 
+                
+                Create an ad for an accessory or complementary product to something the user has successfully converted, 
+                or generate an ad for one of the top 5 ads that the user clicked on, 
+                Make the ad engaging, persuasive, and exciting.
+                Don't use emojis, keep everything lowercase. LIMIT THE AD TO 200 characters!
+
+                Example of an ad:
+                Unlock your creative potential with Canva! Design stunning graphics, presentations, and social media posts with ease, 
+                even if you have no design experience. Our intuitive drag-and-drop interface, combined with a treasure trove of templates and elements, 
+                makes it simple to bring your ideas to life. Whether you're promoting your business, preparing for an event, or just want to share 
+                something fabulous with friends, Canva is your go-to design partner. Join millions of satisfied users and try Canva for free today—your masterpiece is just a click away!
+                
+response: take your fitness journey to the next level with the peloton bike accessories! elevate your workouts with premium mats, weights, and stylish gear. transform your routine and feel unstoppable!prompt: 
+                Below are the top 5 ads recommended for the user:
+                [{"AdText":"Discover the amazing Columbia Hiking Boots from AdventureCo! Perfect for all your outdoor needs.","AdCategory":"outdoor"},{"AdText":"Discover the amazing Samsonite Spinner Luggage from AccessoryHub! Perfect for all your accessories needs.","AdCategory":"accessories"},{"AdText":"Discover the amazing Columbia Rain Pants from AdventureCo! Perfect for all your outdoor needs.","AdCategory":"outdoor"},{"AdText":"Discover the amazing Osprey Hiking Backpack from AdventureCo! Perfect for all your outdoor needs.","AdCategory":"outdoor"},{"AdText":"Discover the amazing Patagonia Rain Jacket from AdventureCo! Perfect for all your outdoor needs.","AdCategory":"outdoor"}]
+
+                User interaction history:
+                - Clicked Ads:      Interaction_score        product_name product_category
+845                  2  Echo Dot (5th Gen)      electronics
+                - Converted Ads:      Interaction_score        product_name product_category
+725                  4  Echo Dot (5th Gen)      electronics
+
+                Considering the ads provided, pick the best one based on the user's interactions. 
+                Interaction_score is defined as follows: {skipped: 0, impression: 1, click: 2, conversion: 4}. 
+                
+                Create an ad for an accessory or complementary product to something the user has successfully converted, 
+                or generate an ad for one of the top 5 ads that the user clicked on, 
+                Make the ad engaging, persuasive, and exciting.
+                Don't use emojis, keep everything lowercase. LIMIT THE AD TO 200 characters!
+
+                Example of an ad:
+                Unlock your creative potential with Canva! Design stunning graphics, presentations, and social media posts with ease, 
+                even if you have no design experience. Our intuitive drag-and-drop interface, combined with a treasure trove of templates and elements, 
+                makes it simple to bring your ideas to life. Whether you're promoting your business, preparing for an event, or just want to share 
+                something fabulous with friends, Canva is your go-to design partner. Join millions of satisfied users and try Canva for free today—your masterpiece is just a click away!
+                
+response: get ready for your next adventure with the ultimate accessory—the amazing samsonite spinner luggage from accessoryhub! travel in style and convenience with durable designs that make packing a breeze! don't wait, elevate your travels now!

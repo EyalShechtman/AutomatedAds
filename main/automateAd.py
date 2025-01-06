@@ -1,16 +1,19 @@
 import pandas as pd
 from openai import OpenAI
 import os
-import main.recs as recs
+from recs import Similar_Users
 import random
 from datetime import datetime
 from elevenlabs.client import ElevenLabs
+# from pydub import AudioSegment
+import ffmpeg
 
 class AdAutomation:
     def __init__(self):
         # Initialize any required variables or objects
         self.OPENclient = OpenAI(api_key = os.getenv("OPENAI_API_KEY"))
         self.ELABSclient = ElevenLabs(api_key = os.getenv("ELEVENLABS_API_Key"))
+        self.musicList = ['../music/BestPart.mp3', '../music/WildFlower.mp3']
 
     def get_user_history(self, user_id):
         """
@@ -19,7 +22,7 @@ class AdAutomation:
         :return: Dictionary containing user interaction history
         """
         # Get all events for the user
-        events_df = pd.read_csv('./Data/events_df.csv')
+        events_df = pd.read_csv('../Data/events_df.csv')
         user_events = events_df[events_df["User_id"] == user_id]
 
         # Extract ads with specific interaction scores
@@ -123,7 +126,7 @@ class AdAutomation:
             print(f"Error generating audio: {e}")
             return None
         
-        output_dir = "generated_audio"
+        output_dir = "../generated_audio"
         os.makedirs(output_dir, exist_ok=True)  # Ensure the directory exists        
         timestamp = datetime.now().strftime('%Y%m%d%H%M%S')
         file_path = os.path.join(output_dir, f'output_audio_{userID}_{timestamp}.mp3')
@@ -134,11 +137,32 @@ class AdAutomation:
                 for chunk in audio_stream:
                     audio_file.write(chunk)
             print(f"Audio saved to {file_path}")
+            self.background_music(ad_file=file_path)
             return file_path
         except Exception as e:
             print(f"Error saving audio file: {e}")
             return None
 
+
+
+    def background_music(self, ad_file, volume = 0.3):
+        background_music = random.choice(self.musicList)
+        output_file = f"../generated_audio/WithBackground{ad_file.split('/')[-1]}"
+        try:
+            (
+                ffmpeg
+                .filter(
+                    [ffmpeg.input(ad_file), ffmpeg.input(background_music).filter('volume', volume)],
+                    'amix', inputs=2, duration='shortest'
+                )
+                .output(output_file, acodec='mp3')  # Output as MP3
+                .run(overwrite_output=True)
+            )
+            print(f"Success. Submitted to {output_file}")
+            return output_file
+        except ffmpeg.Error as e:
+            print(f"Error occurred: {e.stderr.decode()}")
+            return None
 
     def main(self):
         """
@@ -147,7 +171,7 @@ class AdAutomation:
         user_id = random.randint(1, 99)
         device_type = random.choice(['mobile', 'tablet', 'desktop'])
         print(user_id, device_type)
-        ad_rec = recs.Similar_Users().recommend_ads(user_id, device_type)
+        ad_rec = Similar_Users().recommend_ads(user_id, device_type)
         ad_response = self.automate_ad(ad_rec, user_id)
         self.text_to_speech(ad_response, user_id)
 
