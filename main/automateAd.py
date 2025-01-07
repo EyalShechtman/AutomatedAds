@@ -7,6 +7,7 @@ from datetime import datetime
 from elevenlabs.client import ElevenLabs
 # from pydub import AudioSegment
 import ffmpeg
+import time
 
 class AdAutomation:
     def __init__(self):
@@ -92,10 +93,10 @@ class AdAutomation:
         )
 
         response_content = completion.choices[0].message.content
-        with open('chatGPT_Response.txt', 'a') as file:
+        with open('../chatGPT_Response.txt', 'a') as file:
             file.write(f'prompt: {prompt}\nresponse: {response_content}')
 
-        print(response_content)
+        # print(response_content)
 
         # returned_list = []
         # returned_list.append(response_content)
@@ -145,7 +146,7 @@ class AdAutomation:
 
 
 
-    def background_music(self, ad_file, volume = 0.3):
+    def background_music(self, ad_file, volume = 0.4):
         background_music = random.choice(self.musicList)
         output_file = f"../generated_audio/WithBackground{ad_file.split('/')[-1]}"
         try:

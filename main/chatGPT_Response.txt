@@ -114,4 +114,31 @@ response: take your fitness journey to the next level with the peloton bike acce
                 makes it simple to bring your ideas to life. Whether you're promoting your business, preparing for an event, or just want to share 
                 something fabulous with friends, Canva is your go-to design partner. Join millions of satisfied users and try Canva for free today—your masterpiece is just a click away!
                 
-response: get ready for your next adventure with the ultimate accessory—the amazing samsonite spinner luggage from accessoryhub! travel in style and convenience with durable designs that make packing a breeze! don't wait, elevate your travels now!
+response: get ready for your next adventure with the ultimate accessory—the amazing samsonite spinner luggage from accessoryhub! travel in style and convenience with durable designs that make packing a breeze! don't wait, elevate your travels now!prompt: 
+                Below are the top 5 ads recommended for the user:
+                [{"AdText":"Discover the amazing Peloton Bike from FitLife! Perfect for all your fitness needs.","AdCategory":"fitness"},{"AdText":"Discover the amazing Samsonite Spinner Luggage from AccessoryHub! Perfect for all your accessories needs.","AdCategory":"accessories"},{"AdText":"Discover the amazing Fitbit Charge 5 from FitLife! Perfect for all your fitness needs.","AdCategory":"fitness"},{"AdText":"Discover the amazing Nike Running Shoes from FitLife! Perfect for all your fitness needs.","AdCategory":"fitness"},{"AdText":"Discover the amazing Under Armour Compression Shirt from FitLife! Perfect for all your fitness needs.","AdCategory":"fitness"}]
+
+                User interaction history:
+                - Clicked Ads:      Interaction_score               product_name product_category
+344                  2  Samsonite Spinner Luggage      accessories
+858                  2         Tile Mate (4-Pack)      electronics
+                - Converted Ads:      Interaction_score               product_name product_category
+64                   4  Bose QuietComfort Earbuds      electronics
+191                  4                Hydro Flask        beverages
+414                  4               Peloton Bike          fitness
+
+                Considering the ads provided, pick the best one based on the user's interactions. 
+                Interaction_score is defined as follows: {skipped: 0, impression: 1, click: 2, conversion: 4}. 
+                
+                Create an ad for an accessory or complementary product to something the user has successfully converted, 
+                or generate an ad for one of the top 5 ads that the user clicked on, 
+                Make the ad engaging, persuasive, and exciting.
+                Don't use emojis, keep everything lowercase. LIMIT THE AD TO 200 characters!
+
+                Example of an ad:
+                Unlock your creative potential with Canva! Design stunning graphics, presentations, and social media posts with ease, 
+                even if you have no design experience. Our intuitive drag-and-drop interface, combined with a treasure trove of templates and elements, 
+                makes it simple to bring your ideas to life. Whether you're promoting your business, preparing for an event, or just want to share 
+                something fabulous with friends, Canva is your go-to design partner. Join millions of satisfied users and try Canva for free today—your masterpiece is just a click away!
+                
+response: level up your travel game with the amazing samsonite spinner luggage! designed for ultimate convenience and style, it's perfect for all your adventures. travel smarter—get yours now!

@@ -76,4 +76,68 @@ So why sit back and let your fitness dreams fade? Grab your FitLife Foam Workout
                 makes it simple to bring your ideas to life. Whether you're promoting your business, preparing for an event, or just want to share 
                 something fabulous with friends, Canva is your go-to design partner. Join millions of satisfied users and try Canva for free today—your masterpiece is just a click away!
                 
-response: level up your coffee experience with the incredible keurig k-elite coffee maker! brew your favorite beverages effortlessly and enjoy café-quality drinks at home. don’t miss out—sip, savor, and elevate your mornings!
+response: level up your coffee experience with the incredible keurig k-elite coffee maker! brew your favorite beverages effortlessly and enjoy café-quality drinks at home. don’t miss out—sip, savor, and elevate your mornings!prompt: 
+                Below are the top 5 ads recommended for the user:
+                [{"AdText":"Discover the amazing Instant Pot Duo from HomeStyle! Perfect for all your home needs.","AdCategory":"home"},{"AdText":"Discover the amazing Herman Miller Chair from OfficePro! Perfect for all your office needs.","AdCategory":"office"},{"AdText":"Discover the amazing Dyson V15 Vacuum from HomeStyle! Perfect for all your home needs.","AdCategory":"home"},{"AdText":"Discover the amazing Keurig K-Elite Coffee Maker from HomeStyle! Perfect for all your home needs.","AdCategory":"home"},{"AdText":"Discover the amazing Nespresso Vertuo Plus from HomeStyle! Perfect for all your home needs.","AdCategory":"home"}]
+
+                User interaction history:
+                - Clicked Ads:      Interaction_score               product_name product_category
+9                    2                Dell XPS 13      electronics
+168                  2                 Galaxy S21      electronics
+399                  2        Herman Miller Chair           office
+874                  2  Bose QuietComfort Earbuds      electronics
+                - Converted Ads:      Interaction_score             product_name product_category
+103                  4   Osprey Hiking Backpack          outdoor
+221                  4           Theragun Elite          fitness
+381                  4  Roku Streaming Stick 4K      electronics
+880                  4           Theragun Elite          fitness
+890                  4          Instant Pot Duo             home
+
+                Considering the ads provided, pick the best one based on the user's interactions. 
+                Interaction_score is defined as follows: {skipped: 0, impression: 1, click: 2, conversion: 4}. 
+                
+                Create an ad for an accessory or complementary product to something the user has successfully converted, 
+                or generate an ad for one of the top 5 ads that the user clicked on, 
+                Make the ad engaging, persuasive, and exciting.
+                Don't use emojis, keep everything lowercase. LIMIT THE AD TO 200 characters!
+
+                Example of an ad:
+                Unlock your creative potential with Canva! Design stunning graphics, presentations, and social media posts with ease, 
+                even if you have no design experience. Our intuitive drag-and-drop interface, combined with a treasure trove of templates and elements, 
+                makes it simple to bring your ideas to life. Whether you're promoting your business, preparing for an event, or just want to share 
+                something fabulous with friends, Canva is your go-to design partner. Join millions of satisfied users and try Canva for free today—your masterpiece is just a click away!
+                
+response: elevate your coffee experience with the keurig k-elite! brew your favorite blends with the touch of a button and enjoy rich, flavorful coffee at home. start every day energized and inspired!prompt: 
+                Below are the top 5 ads recommended for the user:
+                [{"AdText":"Discover the amazing Peloton Bike from FitLife! Perfect for all your fitness needs.","AdCategory":"fitness"},{"AdText":"Discover the amazing GoPro Hero 11 from TechCo! Perfect for all your electronics needs.","AdCategory":"electronics"},{"AdText":"Discover the amazing Google Nest Hub from TechCo! Perfect for all your electronics needs.","AdCategory":"electronics"},{"AdText":"Discover the amazing Fitbit Charge 5 from FitLife! Perfect for all your fitness needs.","AdCategory":"fitness"},{"AdText":"Discover the amazing Weber Charcoal Grill from HomeStyle! Perfect for all your home needs.","AdCategory":"home"}]
+
+                User interaction history:
+                - Clicked Ads:      Interaction_score                 product_name product_category
+55                   2       Osprey Hiking Backpack          outdoor
+128                  2        Patagonia Rain Jacket          outdoor
+133                  2              Google Nest Hub      electronics
+446                  2          Columbia Rain Pants          outdoor
+724                  2  Keurig K-Elite Coffee Maker             home
+938                  2          Columbia Rain Pants          outdoor
+                - Converted Ads:      Interaction_score            product_name product_category
+174                  4  Osprey Hiking Backpack          outdoor
+290                  4      Nike Running Shoes          fitness
+386                  4            Peloton Bike          fitness
+652                  4    Weber Charcoal Grill             home
+828                  4   Schwinn Mountain Bike          outdoor
+
+                Considering the ads provided, pick the best one based on the user's interactions. 
+                Interaction_score is defined as follows: {skipped: 0, impression: 1, click: 2, conversion: 4}. 
+                
+                Create an ad for an accessory or complementary product to something the user has successfully converted, 
+                or generate an ad for one of the top 5 ads that the user clicked on, 
+                Make the ad engaging, persuasive, and exciting.
+                Don't use emojis, keep everything lowercase. LIMIT THE AD TO 200 characters!
+
+                Example of an ad:
+                Unlock your creative potential with Canva! Design stunning graphics, presentations, and social media posts with ease, 
+                even if you have no design experience. Our intuitive drag-and-drop interface, combined with a treasure trove of templates and elements, 
+                makes it simple to bring your ideas to life. Whether you're promoting your business, preparing for an event, or just want to share 
+                something fabulous with friends, Canva is your go-to design partner. Join millions of satisfied users and try Canva for free today—your masterpiece is just a click away!
+                
+response: take your fitness journey to the next level with the peloton bike accessories! from comfy padded shorts to heart rate monitors, everything you need for an ultimate workout experience is right here. elevate your rides today!
