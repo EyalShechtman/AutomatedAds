@@ -14,7 +14,10 @@ class AdAutomation:
         # Initialize any required variables or objects
         self.OPENclient = OpenAI(api_key = os.getenv("OPENAI_API_KEY"))
         self.ELABSclient = ElevenLabs(api_key = os.getenv("ELEVENLABS_API_Key"))
-        self.musicList = ['../music/BestPart.mp3', '../music/WildFlower.mp3']
+        # self.musicList = ['../music/BestPart.mp3', '../music/WildFlower.mp3']
+        self.musicList = [
+            '../music/AdMusic.mp3'
+        ]
 
     def get_user_history(self, user_id):
         """
@@ -90,6 +93,8 @@ class AdAutomation:
                     Headspace:
                     "Stressed out? Find your calm with Headspace. Guided meditations and mindfulness made simple. Start your free trial now and discover a healthier, happier you."
                     Deliver a polished, user-centered ad script that adheres to the guidelines above and leaves a lasting impression on the listener.
+
+                    Don't use 'hey now' to start the ads! Start the ad with a question relating the product
                 """
         
         completion = client.chat.completions.create(
@@ -102,7 +107,7 @@ class AdAutomation:
                     Mention the brand or product name within the first sentence.
                     Highlight the key benefits or value of the product.
                     Conclude with a clear call-to-action from the provided options.
-                    Limit the script to 200 characters and keep everything lowercase.
+                    Limit the script to 275 characters and keep everything lowercase.
                     Focus on making the ad:
                     Memorable, easy to understand, and impactful.
                     Authentic and enthusiastic, leaving a lasting impression on the listener.
@@ -112,7 +117,7 @@ class AdAutomation:
                     "content": prompt
                 }
             ],
-            temperature=0.6
+            temperature=0.9
         )
 
         response_content = completion.choices[0].message.content
@@ -142,10 +147,11 @@ class AdAutomation:
         :param userID: user in question
         :return: Audio data or file
         """
+        voice = random.choice(['z8JzXWOV0lNsCN96byzP', 'Brian'])
         # Add logic for text-to-speech conversion
         client = self.ELABSclient
         try:
-            audio_stream = client.generate(text=text, voice='Brian', model="eleven_multilingual_v2")
+            audio_stream = client.generate(text=text, voice=voice, model="eleven_multilingual_v2")
         except Exception as e:
             print(f"Error generating audio: {e}")
             return None
@@ -169,7 +175,7 @@ class AdAutomation:
 
 
 
-    def background_music(self, ad_file, volume = 0.4):
+    def background_music(self, ad_file, volume = 0.09):
         background_music = random.choice(self.musicList)
         output_file = f"../generated_audio/WithBackground{ad_file.split('/')[-1]}"
         try:
@@ -198,7 +204,7 @@ class AdAutomation:
         ad_rec = Similar_Users().recommend_ads(user_id, device_type)
         ad_response = self.automate_ad(ad_rec, user_id)
         print(ad_response)
-        # self.text_to_speech(ad_response, user_id)
+        self.text_to_speech(ad_response, user_id)
 
 
 # Example usage
