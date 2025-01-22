@@ -140,4 +140,689 @@ response: elevate your coffee experience with the keurig k-elite! brew your favo
                 makes it simple to bring your ideas to life. Whether you're promoting your business, preparing for an event, or just want to share 
                 something fabulous with friends, Canva is your go-to design partner. Join millions of satisfied users and try Canva for free today—your masterpiece is just a click away!
                 
-response: take your fitness journey to the next level with the peloton bike accessories! from comfy padded shorts to heart rate monitors, everything you need for an ultimate workout experience is right here. elevate your rides today!
+response: take your fitness journey to the next level with the peloton bike accessories! from comfy padded shorts to heart rate monitors, everything you need for an ultimate workout experience is right here. elevate your rides today!prompt: 
+                    Using the following data:
+
+                    User Profile
+
+                    Clicked Ads:      Interaction_score        product_name product_category
+292                  2     Fitbit Charge 5          fitness
+453                  2  Tile Mate (4-Pack)      electronics
+630                  2         Dell XPS 13      electronics
+781                  2       GoPro Hero 11      electronics
+                    Converted Ads:      Interaction_score                product_name product_category
+16                   4       Schwinn Mountain Bike          outdoor
+319                  4     Roku Streaming Stick 4K      electronics
+560                  4         North Face Backpack      accessories
+593                  4  Ray-Ban Aviator Sunglasses      accessories
+644                  4             Google Nest Hub      electronics
+903                  4           Kindle Paperwhite      electronics
+931                  4             Instant Pot Duo             home
+                    Top 5 Recommended Ads
+                    [{"AdText":"Discover the amazing Instant Pot Duo from HomeStyle! Perfect for all your home needs.","AdCategory":"home"},{"AdText":"Discover the amazing Fitbit Charge 5 from FitLife! Perfect for all your fitness needs.","AdCategory":"fitness"},{"AdText":"Discover the amazing Keurig K-Elite Coffee Maker from HomeStyle! Perfect for all your home needs.","AdCategory":"home"},{"AdText":"Discover the amazing Dyson V15 Vacuum from HomeStyle! Perfect for all your home needs.","AdCategory":"home"},{"AdText":"Discover the amazing Weber Charcoal Grill from HomeStyle! Perfect for all your home needs.","AdCategory":"home"}]
+
+                    Create a personalized, engaging, and memorable audio ad tailored to the user's interaction history. Follow these instructions:
+
+                    Personalization
+
+                    Prioritize creating an ad for a complementary product related to a successfully converted item.
+                    Alternatively, create an ad for one of the top 5 ads the user clicked on.
+                    Speak directly to the listener, using a conversational and relatable tone.
+                    Structure and Clarity
+
+                    Introduce the brand or product immediately within the first sentence (mention the advertiser name, max 25 characters).
+                    Highlight the benefits and value proposition clearly and concisely.
+                    Include a call-to-action (e.g., "Shop now," "Learn more") as the closing statement.
+                    Technical Requirements
+
+                    Limit the ad to 200 characters (or about 60-80 words for a 30-second ad).
+                    Use simple, real-life language without emojis. Keep all text lowercase.
+                    Creative Elements
+
+                    Suggest background music (no vocals) that matches the mood and enhances the ad's impact.
+                    Design the tone of the ad to feel authentic, with natural vocal quirks and intonation.
+
+                    Examples of good ads:
+
+                    Grammarly:
+                    "Want to write confidently, anywhere? Grammarly helps you communicate clearly with tone suggestions and real-time grammar fixes. Download Grammarly for free today and let your words shine!"
+
+                    Headspace:
+                    "Stressed out? Find your calm with Headspace. Guided meditations and mindfulness made simple. Start your free trial now and discover a healthier, happier you."
+                    Deliver a polished, user-centered ad script that adheres to the guidelines above and leaves a lasting impression on the listener.
+                
+response: "hey there! meet the incredible instant pot duo from homestyle! it's your kitchen's new best friend, making meals fast and easy. say goodbye to stressful cooking! get ready to elevate your dinner game—shop now!" 
+
+[Background music: light, upbeat instrumental to create an inviting atmosphere.]prompt: 
+                    Using the following data:
+
+                    User Profile
+
+                    Clicked Ads:      Interaction_score                 product_name product_category
+295                  2  Keurig K-Elite Coffee Maker             home
+790                  2                   Galaxy S21      electronics
+                    Converted Ads:      Interaction_score             product_name product_category
+384                  4  Roku Streaming Stick 4K      electronics
+396                  4    Patagonia Rain Jacket          outdoor
+505                  4         Dyson V15 Vacuum             home
+568                  4         Dyson V15 Vacuum             home
+                    Top 5 Recommended Ads
+                    [{"AdText":"Discover the amazing Nike Running Shoes from FitLife! Perfect for all your fitness needs.","AdCategory":"fitness"},{"AdText":"Discover the amazing North Face Backpack from AccessoryHub! Perfect for all your accessories needs.","AdCategory":"accessories"},{"AdText":"Discover the amazing Fitbit Charge 5 from FitLife! Perfect for all your fitness needs.","AdCategory":"fitness"},{"AdText":"Discover the amazing Under Armour Compression Shirt from FitLife! Perfect for all your fitness needs.","AdCategory":"fitness"},{"AdText":"Discover the amazing Peloton Bike from FitLife! Perfect for all your fitness needs.","AdCategory":"fitness"}]
+
+                    Create a personalized, engaging, and memorable audio ad tailored to the user's interaction history. Follow these instructions:
+
+                    Personalization
+
+                    Prioritize creating an ad for a complementary product related to a successfully converted item.
+                    Alternatively, create an ad for one of the top 5 ads the user clicked on.
+                    Speak directly to the listener, using a conversational and relatable tone.
+                    Structure and Clarity
+
+                    Introduce the brand or product immediately within the first sentence (mention the advertiser name, max 25 characters).
+                    Highlight the benefits and value proposition clearly and concisely.
+                    Include a call-to-action (e.g., "Shop now," "Learn more") as the closing statement.
+                    - Call to action (CTA) options:
+                        Apply now
+                        Book now
+                        Buy now
+                        Buy tickets
+                        Click now
+                        Download
+                        Find stores
+                        Get coupon
+                        Get info
+                        Learn more
+                        Listen now
+                        More info
+                        Pre-save
+                        Save now
+                        Share
+                        Shop now
+                        Sign up
+                        Visit profile
+                        Visit site
+                        Watch now
+
+                    Technical Requirements  
+                    Limit the ad to 200 characters (or about 60-80 words for a 30-second ad).
+                    Use simple, real-life language without emojis. Keep all text lowercase.
+                    Creative Elements
+
+                    Examples of good ads:
+
+                    Grammarly:
+                    "Want to write confidently, anywhere? Grammarly helps you communicate clearly with tone suggestions and real-time grammar fixes. Download Grammarly for free today and let your words shine!"
+
+                    Headspace:
+                    "Stressed out? Find your calm with Headspace. Guided meditations and mindfulness made simple. Start your free trial now and discover a healthier, happier you."
+                    Deliver a polished, user-centered ad script that adheres to the guidelines above and leaves a lasting impression on the listener.
+                
+response: "hey there! enhance your home with the dyson v15 vacuum. it’s efficient, powerful, and perfect for keeping your space spotless. experience the spark of a clean home. shop now and elevate your cleaning game!"prompt: 
+                    Using the following data:
+                    User Profile:
+                    Clicked Ads:      Interaction_score          product_name product_category
+42                   2         GoPro Hero 11      electronics
+102                  2    Tile Mate (4-Pack)      electronics
+140                  2  Lululemon Yoga Pants          fashion
+658                  2   Columbia Rain Pants          outdoor
+942                  2     Kindle Paperwhite      electronics
+                    Converted Ads:      Interaction_score               product_name product_category
+194                  4       Coleman Sundome Tent          outdoor
+299                  4  Samsonite Spinner Luggage      accessories
+484                  4     Osprey Hiking Backpack          outdoor
+582                  4             Theragun Elite          fitness
+617                  4          Kindle Paperwhite      electronics
+
+                    Top 5 Recommended Ads:
+                    [{"AdText":"Discover the amazing Samsonite Spinner Luggage from AccessoryHub! Perfect for all your accessories needs.","AdCategory":"accessories"},{"AdText":"Discover the amazing Lululemon Yoga Pants from TrendWear! Perfect for all your fashion needs.","AdCategory":"fashion"},{"AdText":"Discover the amazing Ray-Ban Aviator Sunglasses from AccessoryHub! Perfect for all your accessories needs.","AdCategory":"accessories"},{"AdText":"Discover the amazing North Face Backpack from AccessoryHub! Perfect for all your accessories needs.","AdCategory":"accessories"},{"AdText":"Discover the amazing Fossil Smartwatch from AccessoryHub! Perfect for all your accessories needs.","AdCategory":"accessories"}]
+
+                    Create a personalized, engaging, and memorable audio ad tailored to the user's interaction history. Follow these instructions:
+                    Personalization
+                    Prioritize creating an ad for a complementary product related to a successfully converted item.
+                    Alternatively, create an ad for one of the top 5 ads the user clicked on.
+                    Speak directly to the listener in a conversational, relatable tone.
+                    Structure and Clarity
+                    Mention the brand or product immediately within the first sentence (max 25 characters for the name).
+                    Highlight the benefits and value proposition clearly and concisely.
+                    Conclude with a clear call-to-action (CTA):
+                    CTA options:
+                    Apply now | Book now | Buy now | Buy tickets | Click now | Download | Find stores | Get coupon | Get info | Learn more | Listen now | More info | Pre-save | Save now | Share | Shop now | Sign up | Visit profile | Visit site | Watch now
+                    Technical Requirements
+                    Limit the ad to 200 characters (or 60-80 words for a 30-second ad).
+                    Use simple, real-life language without emojis.
+                    Keep everything lowercase.
+                    Creative Elements
+                    Suggest background music (no vocals) that complements the mood and enhances the ad's impact.
+                    Use an authentic tone with natural vocal quirks and intonation.
+                    
+                    Examples of Good Ads
+                    Grammarly:
+                    "Want to write confidently, anywhere? Grammarly helps you communicate clearly with tone suggestions and real-time grammar fixes. Download Grammarly for free today and let your words shine!"
+                    Headspace:
+                    "Stressed out? Find your calm with Headspace. Guided meditations and mindfulness made simple. Start your free trial now and discover a healthier, happier you."
+                    Deliver a polished, user-centered ad script that adheres to the guidelines above and leaves a lasting impression on the listener.
+                
+response: 
+lululemon yoga pants are here to elevate your workout and comfort. find the perfect fit and style for all your fashion endeavors. shop now for your ultimate athleisure experience. for chill vibes, opt for smooth jazz instrumentals in the background.prompt: 
+                    Using the following data:
+                    User Profile:
+                    Clicked Ads:      Interaction_score                 product_name product_category
+638                  2                 Yeti Tumbler        beverages
+759                  2                  Hydro Flask        beverages
+881                  2    Bose QuietComfort Earbuds      electronics
+904                  2                  MacBook Pro      electronics
+962                  2  Keurig K-Elite Coffee Maker             home
+                    Converted Ads:      Interaction_score         product_name product_category
+562                  4  Herman Miller Chair           office
+580                  4    Fossil Smartwatch      accessories
+598                  4         Peloton Bike          fitness
+690                  4       Theragun Elite          fitness
+774                  4      Fitbit Charge 5          fitness
+
+                    Top 5 Recommended Ads:
+                    [{"AdText":"Discover the amazing Keurig K-Elite Coffee Maker from HomeStyle! Perfect for all your home needs.","AdCategory":"home"},{"AdText":"Discover the amazing Herman Miller Chair from OfficePro! Perfect for all your office needs.","AdCategory":"office"},{"AdText":"Discover the amazing Nespresso Vertuo Plus from HomeStyle! Perfect for all your home needs.","AdCategory":"home"},{"AdText":"Discover the amazing Instant Pot Duo from HomeStyle! Perfect for all your home needs.","AdCategory":"home"},{"AdText":"Discover the amazing Weber Charcoal Grill from HomeStyle! Perfect for all your home needs.","AdCategory":"home"}]
+
+                    Create a personalized, engaging, and memorable audio ad tailored to the user's interaction history. Follow these instructions:
+                    Personalization
+                    Prioritize creating an ad for a complementary product related to a successfully converted item.
+                    Alternatively, create an ad for one of the top 5 ads the user clicked on.
+                    Speak directly to the listener in a conversational, relatable tone.
+                    Structure and Clarity
+                    Mention the brand or product immediately within the first sentence (max 25 characters for the name).
+                    Highlight the benefits and value proposition clearly and concisely.
+                    Conclude with a clear call-to-action (CTA):
+                    CTA options:
+                    Apply now | Book now | Buy now | Buy tickets | Click now | Download | Find stores | Get coupon | Get info | Learn more | Listen now | More info | Pre-save | Save now | Share | Shop now | Sign up | Visit profile | Visit site | Watch now
+                    Technical Requirements
+                    Limit the ad to 250 characters (or 60-80 words for a 30-second ad).
+                    Use simple, real-life language without emojis.
+                    Keep everything lowercase.
+                    Creative Elements
+                    
+                    Examples of Good Ads
+                    Grammarly:
+                    "Want to write confidently, anywhere? Grammarly helps you communicate clearly with tone suggestions and real-time grammar fixes. Download Grammarly for free today and let your words shine!"
+                    Headspace:
+                    "Stressed out? Find your calm with Headspace. Guided meditations and mindfulness made simple. Start your free trial now and discover a healthier, happier you."
+                    Deliver a polished, user-centered ad script that adheres to the guidelines above and leaves a lasting impression on the listener.
+                
+response: 
+"hey there! elevate your workspace with the herman miller chair from officepro. enjoy unparalleled comfort and support while you work. transform your productivity today. shop now at officepro!"prompt: 
+                    Using the following data:
+                    User Profile:
+                    Clicked Ads:      Interaction_score                    product_name product_category
+136                  2                 Instant Pot Duo             home
+297                  2  Under Armour Compression Shirt          fitness
+763                  2              Nike Running Shoes          fitness
+                    Converted Ads:      Interaction_score          product_name product_category
+477                  4  Coleman Sundome Tent          outdoor
+533                  4     Samsung 4K UHD TV      electronics
+
+                    Top 5 Recommended Ads:
+                    [{"AdText":"Discover the amazing Coleman Sundome Tent from AdventureCo! Perfect for all your outdoor needs.","AdCategory":"outdoor"},{"AdText":"Discover the amazing Instant Pot Duo from HomeStyle! Perfect for all your home needs.","AdCategory":"home"},{"AdText":"Discover the amazing Schwinn Mountain Bike from AdventureCo! Perfect for all your outdoor needs.","AdCategory":"outdoor"},{"AdText":"Discover the amazing Patagonia Rain Jacket from AdventureCo! Perfect for all your outdoor needs.","AdCategory":"outdoor"},{"AdText":"Discover the amazing Osprey Hiking Backpack from AdventureCo! Perfect for all your outdoor needs.","AdCategory":"outdoor"}]
+
+                    Create a personalized, engaging, and memorable audio ad tailored to the user's interaction history. Follow these instructions:
+                    Personalization
+                    Prioritize creating an ad for a complementary product related to a successfully converted item.
+                    Alternatively, create an ad for one of the top 5 ads the user clicked on.
+                    Speak directly to the listener in a conversational, relatable tone.
+                    Structure and Clarity
+                    Mention the brand or product immediately within the first sentence (max 25 characters for the name).
+                    Highlight the benefits and value proposition clearly and concisely.
+                    Conclude with a clear call-to-action (CTA):
+                    CTA options:
+                    Apply now | Book now | Buy now | Buy tickets | Click now | Download | Find stores | Get coupon | Get info | Learn more | Listen now | More info | Pre-save | Save now | Share | Shop now | Sign up | Visit profile | Visit site | Watch now
+                    Technical Requirements
+                    Limit the ad to 250 characters (or 60-80 words for a 30-second ad).
+                    Use simple, real-life language without emojis.
+                    Keep everything lowercase.
+                    Creative Elements
+                    
+                    Examples of Good Ads
+                    Grammarly:
+                    "Want to write confidently, anywhere? Grammarly helps you communicate clearly with tone suggestions and real-time grammar fixes. Download Grammarly for free today and let your words shine!"
+                    Headspace:
+                    "Stressed out? Find your calm with Headspace. Guided meditations and mindfulness made simple. Start your free trial now and discover a healthier, happier you."
+                    Deliver a polished, user-centered ad script that adheres to the guidelines above and leaves a lasting impression on the listener.
+
+                    Don't use 'hey now' to start the ads! 
+                
+response: coleman sundome tent from adventureco is your ultimate outdoor companion! easy to set up, weather-resistant, and spacious for all your adventures. ready to elevate your camping experience? buy now and explore more!prompt: 
+                    Using the following data:
+                    User Profile:
+                    Clicked Ads:      Interaction_score            product_name product_category
+143                  2    Weber Charcoal Grill             home
+635                  2  Osprey Hiking Backpack          outdoor
+901                  2           GoPro Hero 11      electronics
+                    Converted Ads:      Interaction_score                    product_name product_category
+18                   4                    Yeti Tumbler        beverages
+22                   4           Columbia Hiking Boots          outdoor
+229                  4                 Fitbit Charge 5          fitness
+585                  4  Under Armour Compression Shirt          fitness
+
+                    Top 5 Recommended Ads:
+                    [{"AdText":"Discover the amazing Weber Charcoal Grill from HomeStyle! Perfect for all your home needs.","AdCategory":"home"},{"AdText":"Discover the amazing Yeti Tumbler from GourmetWorld! Perfect for all your beverages needs.","AdCategory":"beverages"},{"AdText":"Discover the amazing Dyson V15 Vacuum from HomeStyle! Perfect for all your home needs.","AdCategory":"home"},{"AdText":"Discover the amazing Keurig K-Elite Coffee Maker from HomeStyle! Perfect for all your home needs.","AdCategory":"home"},{"AdText":"Discover the amazing Nespresso Vertuo Plus from HomeStyle! Perfect for all your home needs.","AdCategory":"home"}]
+
+                    Create a personalized, engaging, and memorable audio ad tailored to the user's interaction history. Follow these instructions:
+                    Personalization
+                    Prioritize creating an ad for a complementary product related to a successfully converted item.
+                    Alternatively, create an ad for one of the top 5 ads the user clicked on.
+                    Speak directly to the listener in a conversational, relatable tone.
+                    Structure and Clarity
+                    Mention the brand or product immediately within the first sentence (max 25 characters for the name).
+                    Highlight the benefits and value proposition clearly and concisely.
+                    Conclude with a clear call-to-action (CTA):
+                    CTA options:
+                    Apply now | Book now | Buy now | Buy tickets | Click now | Download | Find stores | Get coupon | Get info | Learn more | Listen now | More info | Pre-save | Save now | Share | Shop now | Sign up | Visit profile | Visit site | Watch now
+                    Technical Requirements
+                    Limit the ad to 250 characters (or 60-80 words for a 30-second ad).
+                    Use simple, real-life language without emojis.
+                    Keep everything lowercase.
+                    Creative Elements
+                    
+                    Examples of Good Ads
+                    Grammarly:
+                    "Want to write confidently, anywhere? Grammarly helps you communicate clearly with tone suggestions and real-time grammar fixes. Download Grammarly for free today and let your words shine!"
+                    Headspace:
+                    "Stressed out? Find your calm with Headspace. Guided meditations and mindfulness made simple. Start your free trial now and discover a healthier, happier you."
+                    Deliver a polished, user-centered ad script that adheres to the guidelines above and leaves a lasting impression on the listener.
+
+                    Don't use 'hey now' to start the ads! Start the ad with a question relating the product
+                
+response: 
+are you looking for the perfect outdoor adventure gear? check out columbia hiking boots! they're durable, stylish, and ready for any trail. enhance your outdoor experience—shop now!prompt: 
+                    Using the following data:
+                    User Profile:
+                    Clicked Ads:      Interaction_score               product_name product_category
+36                   2      Patagonia Rain Jacket          outdoor
+550                  2       Weber Charcoal Grill             home
+768                  2              GoPro Hero 11      electronics
+782                  2  Bose QuietComfort Earbuds      electronics
+898                  2             Theragun Elite          fitness
+922                  2         Echo Dot (5th Gen)      electronics
+970                  2         Nike Running Shoes          fitness
+                    Converted Ads:      Interaction_score             product_name product_category
+33                   4      Columbia Rain Pants          outdoor
+62                   4      Herman Miller Chair           office
+605                  4           Theragun Elite          fitness
+827                  4  Standing Desk Converter           office
+
+                    Top 5 Recommended Ads:
+                    [{"AdText":"Discover the amazing Yeti Tumbler from GourmetWorld! Perfect for all your beverages needs.","AdCategory":"beverages"},{"AdText":"Discover the amazing Instant Pot Duo from HomeStyle! Perfect for all your home needs.","AdCategory":"home"},{"AdText":"Discover the amazing Nespresso Vertuo Plus from HomeStyle! Perfect for all your home needs.","AdCategory":"home"},{"AdText":"Discover the amazing Dyson V15 Vacuum from HomeStyle! Perfect for all your home needs.","AdCategory":"home"},{"AdText":"Discover the amazing Keurig K-Elite Coffee Maker from HomeStyle! Perfect for all your home needs.","AdCategory":"home"}]
+
+                    Create a personalized, engaging, and memorable audio ad tailored to the user's interaction history. Follow these instructions:
+                    Personalization
+                    Prioritize creating an ad for a complementary product related to a successfully converted item.
+                    Alternatively, create an ad for one of the top 5 ads the user clicked on.
+                    Speak directly to the listener in a conversational, relatable tone.
+                    Structure and Clarity
+                    Mention the brand or product immediately within the first sentence (max 25 characters for the name).
+                    Highlight the benefits and value proposition clearly and concisely.
+                    Conclude with a clear call-to-action (CTA):
+                    CTA options:
+                    Apply now | Book now | Buy now | Buy tickets | Click now | Download | Find stores | Get coupon | Get info | Learn more | Listen now | More info | Pre-save | Save now | Share | Shop now | Sign up | Visit profile | Visit site | Watch now
+                    Technical Requirements
+                    Limit the ad to 250 characters (or 60-80 words for a 30-second ad).
+                    Use simple, real-life language without emojis.
+                    Keep everything lowercase.
+                    Creative Elements
+                    
+                    Examples of Good Ads
+                    Grammarly:
+                    "Want to write confidently, anywhere? Grammarly helps you communicate clearly with tone suggestions and real-time grammar fixes. Download Grammarly for free today and let your words shine!"
+                    Headspace:
+                    "Stressed out? Find your calm with Headspace. Guided meditations and mindfulness made simple. Start your free trial now and discover a healthier, happier you."
+                    Deliver a polished, user-centered ad script that adheres to the guidelines above and leaves a lasting impression on the listener.
+
+                    Don't use 'hey now' to start the ads! Start the ad with a question relating the product
+                
+response: 
+do you crave clear sound on your adventures? meet bose quietcomfort earbuds, your new travel companion! with noise cancellation and crisp audio, they elevate your listening experience. feel every beat and immerse yourself in your world. shop now for your pair!prompt: 
+                    Using the following data:
+                    User Profile:
+                    Clicked Ads:     Interaction_score     product_name product_category
+81                  2  Google Nest Hub      electronics
+                    Converted Ads:      Interaction_score                product_name product_category
+149                  4         Columbia Rain Pants          outdoor
+159                  4  Ray-Ban Aviator Sunglasses      accessories
+190                  4               GoPro Hero 11      electronics
+825                  4         Columbia Rain Pants          outdoor
+846                  4           Samsung 4K UHD TV      electronics
+866                  4               Canon EOS M50      electronics
+
+                    Top 5 Recommended Ads:
+                    [{"AdText":"Discover the amazing Air Force 1s from TrendWear! Perfect for all your fashion needs.","AdCategory":"fashion"},{"AdText":"Discover the amazing Patagonia Rain Jacket from AdventureCo! Perfect for all your outdoor needs.","AdCategory":"outdoor"},{"AdText":"Discover the amazing Columbia Rain Pants from AdventureCo! Perfect for all your outdoor needs.","AdCategory":"outdoor"},{"AdText":"Discover the amazing Samsonite Spinner Luggage from AccessoryHub! Perfect for all your accessories needs.","AdCategory":"accessories"},{"AdText":"Discover the amazing Fossil Smartwatch from AccessoryHub! Perfect for all your accessories needs.","AdCategory":"accessories"}]
+
+                    Create a personalized, engaging, and memorable audio ad tailored to the user's interaction history. Follow these instructions:
+                    Personalization
+                    Prioritize creating an ad for a complementary product related to a successfully converted item.
+                    Alternatively, create an ad for one of the top 5 ads the user clicked on.
+                    Speak directly to the listener in a conversational, relatable tone.
+                    Structure and Clarity
+                    Mention the brand or product immediately within the first sentence (max 25 characters for the name).
+                    Highlight the benefits and value proposition clearly and concisely.
+                    Conclude with a clear call-to-action (CTA):
+                    CTA options:
+                    Apply now | Book now | Buy now | Buy tickets | Click now | Download | Find stores | Get coupon | Get info | Learn more | Listen now | More info | Pre-save | Save now | Share | Shop now | Sign up | Visit profile | Visit site | Watch now
+                    Technical Requirements
+                    Limit the ad to 250 characters (or 60-80 words for a 30-second ad).
+                    Use simple, real-life language without emojis.
+                    Keep everything lowercase.
+                    Creative Elements
+                    
+                    Examples of Good Ads
+                    Grammarly:
+                    "Want to write confidently, anywhere? Grammarly helps you communicate clearly with tone suggestions and real-time grammar fixes. Download Grammarly for free today and let your words shine!"
+                    Headspace:
+                    "Stressed out? Find your calm with Headspace. Guided meditations and mindfulness made simple. Start your free trial now and discover a healthier, happier you."
+                    Deliver a polished, user-centered ad script that adheres to the guidelines above and leaves a lasting impression on the listener.
+
+                    Don't use 'hey now' to start the ads! Start the ad with a question relating the product
+                
+response: 
+are your outdoor adventures calling for better gear? meet the columbia rain pants from adventureco! these waterproof wonders keep you dry and comfortable in any weather, perfect for hiking or walking the dog. shop now and make every outdoor moment count!prompt: 
+                    Using the following data:
+                    User Profile:
+                    Clicked Ads:      Interaction_score           product_name product_category
+129                  2  Nespresso Vertuo Plus             home
+328                  2  Schwinn Mountain Bike          outdoor
+368                  2     Nike Running Shoes          fitness
+512                  2            MacBook Pro      electronics
+945                  2   Apple Watch Series 7      electronics
+                    Converted Ads:      Interaction_score                    product_name product_category
+94                   4                 Instant Pot Duo             home
+113                  4               Kindle Paperwhite      electronics
+196                  4             Columbia Rain Pants          outdoor
+348                  4            Coleman Sundome Tent          outdoor
+436                  4              Nike Running Shoes          fitness
+529                  4  Under Armour Compression Shirt          fitness
+694                  4                      Galaxy S21      electronics
+760                  4          Osprey Hiking Backpack          outdoor
+
+                    Top 5 Recommended Ads:
+                    [{"AdText":"Discover the amazing Yeti Tumbler from GourmetWorld! Perfect for all your beverages needs.","AdCategory":"beverages"},{"AdText":"Discover the amazing Instant Pot Duo from HomeStyle! Perfect for all your home needs.","AdCategory":"home"},{"AdText":"Discover the amazing Hydro Flask from GourmetWorld! Perfect for all your beverages needs.","AdCategory":"beverages"},{"AdText":"Discover the amazing Under Armour Compression Shirt from FitLife! Perfect for all your fitness needs.","AdCategory":"fitness"},{"AdText":"Discover the amazing Keurig K-Elite Coffee Maker from HomeStyle! Perfect for all your home needs.","AdCategory":"home"}]
+
+                    Create a personalized, engaging, and memorable audio ad tailored to the user's interaction history. Follow these instructions:
+                    Personalization
+                    Prioritize creating an ad for a complementary product related to a successfully converted item.
+                    Alternatively, create an ad for one of the top 5 ads the user clicked on.
+                    Speak directly to the listener in a conversational, relatable tone.
+                    Structure and Clarity
+                    Mention the brand or product immediately within the first sentence (max 25 characters for the name).
+                    Highlight the benefits and value proposition clearly and concisely.
+                    Conclude with a clear call-to-action (CTA):
+                    CTA options:
+                    Apply now | Book now | Buy now | Buy tickets | Click now | Download | Find stores | Get coupon | Get info | Learn more | Listen now | More info | Pre-save | Save now | Share | Shop now | Sign up | Visit profile | Visit site | Watch now
+                    Technical Requirements
+                    Limit the ad to 250 characters (or 60-80 words for a 30-second ad).
+                    Use simple, real-life language without emojis.
+                    Keep everything lowercase.
+                    Creative Elements
+                    
+                    Examples of Good Ads
+                    Grammarly:
+                    "Want to write confidently, anywhere? Grammarly helps you communicate clearly with tone suggestions and real-time grammar fixes. Download Grammarly for free today and let your words shine!"
+                    Headspace:
+                    "Stressed out? Find your calm with Headspace. Guided meditations and mindfulness made simple. Start your free trial now and discover a healthier, happier you."
+                    Deliver a polished, user-centered ad script that adheres to the guidelines above and leaves a lasting impression on the listener.
+
+                    Don't use 'hey now' to start the ads! Start the ad with a question relating the product
+                
+response: 
+ever wondered how to make meal times easier? meet the instant pot duo from homestyle! it's your all-in-one kitchen hero - perfect for whipping up wholesome dinners, fast. save time and enjoy stress-free cooking. ready to transform your meal game? buy now!prompt: 
+                    Using the following data:
+                    User Profile:
+                    Clicked Ads:      Interaction_score               product_name product_category
+157                  2       Weber Charcoal Grill             home
+335                  2          Fossil Smartwatch      accessories
+955                  2  Samsonite Spinner Luggage      accessories
+                    Converted Ads:      Interaction_score                    product_name product_category
+66                   4                Dyson V15 Vacuum             home
+656                  4              Tile Mate (4-Pack)      electronics
+749                  4  Under Armour Compression Shirt          fitness
+799                  4      Ray-Ban Aviator Sunglasses      accessories
+883                  4                    Yeti Tumbler        beverages
+
+                    Top 5 Recommended Ads:
+                    [{"AdText":"Discover the amazing Yeti Tumbler from GourmetWorld! Perfect for all your beverages needs.","AdCategory":"beverages"},{"AdText":"Discover the amazing Hydro Flask from GourmetWorld! Perfect for all your beverages needs.","AdCategory":"beverages"},{"AdText":"Discover the amazing Tile Mate (4-Pack) from TechCo! Perfect for all your electronics needs.","AdCategory":"electronics"},{"AdText":"Discover the amazing Nike Running Shoes from FitLife! Perfect for all your fitness needs.","AdCategory":"fitness"},{"AdText":"Discover the amazing Peloton Bike from FitLife! Perfect for all your fitness needs.","AdCategory":"fitness"}]
+
+                    Create a personalized, engaging, and memorable audio ad tailored to the user's interaction history. Follow these instructions:
+                    Personalization
+                    Prioritize creating an ad for a complementary product related to a successfully converted item.
+                    Alternatively, create an ad for one of the top 5 ads the user clicked on.
+                    Speak directly to the listener in a conversational, relatable tone.
+                    Structure and Clarity
+                    Mention the brand or product immediately within the first sentence (max 25 characters for the name).
+                    Highlight the benefits and value proposition clearly and concisely.
+                    Conclude with a clear call-to-action (CTA):
+                    CTA options:
+                    Apply now | Book now | Buy now | Buy tickets | Click now | Download | Find stores | Get coupon | Get info | Learn more | Listen now | More info | Pre-save | Save now | Share | Shop now | Sign up | Visit profile | Visit site | Watch now
+                    Technical Requirements
+                    Limit the ad to 250 characters (or 60-80 words for a 30-second ad).
+                    Use simple, real-life language without emojis.
+                    Keep everything lowercase.
+                    Creative Elements
+                    
+                    Examples of Good Ads
+                    Grammarly:
+                    "Want to write confidently, anywhere? Grammarly helps you communicate clearly with tone suggestions and real-time grammar fixes. Download Grammarly for free today and let your words shine!"
+                    Headspace:
+                    "Stressed out? Find your calm with Headspace. Guided meditations and mindfulness made simple. Start your free trial now and discover a healthier, happier you."
+                    Deliver a polished, user-centered ad script that adheres to the guidelines above and leaves a lasting impression on the listener.
+
+                    Don't use 'hey now' to start the ads! Start the ad with a question relating the product
+                
+response: 
+do you want to keep your beverages hot or cold all day? meet the incredible yeti tumbler from gourmetworld! perfect for your drinks on the go, with superior insulation and durability. keep your refreshments at the perfect temperature, anywhere you are. shop now!prompt: 
+                    Using the following data:
+                    User Profile:
+                    Clicked Ads:      Interaction_score           product_name product_category
+964                  2  Patagonia Rain Jacket          outdoor
+                    Converted Ads:      Interaction_score             product_name product_category
+12                   4       Echo Dot (5th Gen)      electronics
+82                   4     Lululemon Yoga Pants          fashion
+173                  4  Roku Streaming Stick 4K      electronics
+455                  4          Instant Pot Duo             home
+
+                    Top 5 Recommended Ads:
+                    [{"AdText":"Discover the amazing Schwinn Mountain Bike from AdventureCo! Perfect for all your outdoor needs.","AdCategory":"outdoor"},{"AdText":"Discover the amazing Columbia Hiking Boots from AdventureCo! Perfect for all your outdoor needs.","AdCategory":"outdoor"},{"AdText":"Discover the amazing Columbia Rain Pants from AdventureCo! Perfect for all your outdoor needs.","AdCategory":"outdoor"},{"AdText":"Discover the amazing Coleman Sundome Tent from AdventureCo! Perfect for all your outdoor needs.","AdCategory":"outdoor"},{"AdText":"Discover the amazing Hydro Flask from GourmetWorld! Perfect for all your beverages needs.","AdCategory":"beverages"}]
+
+                    Create a personalized, engaging, and memorable audio ad tailored to the user's interaction history. Follow these instructions:
+                    Personalization
+                    Prioritize creating an ad for a complementary product related to a successfully converted item.
+                    Alternatively, create an ad for one of the top 5 ads the user clicked on.
+                    Speak directly to the listener in a conversational, relatable tone.
+                    Structure and Clarity
+                    Mention the brand or product immediately within the first sentence (max 25 characters for the name).
+                    Highlight the benefits and value proposition clearly and concisely.
+                    Conclude with a clear call-to-action (CTA):
+                    CTA options:
+                    Apply now | Book now | Buy now | Buy tickets | Click now | Download | Find stores | Get coupon | Get info | Learn more | Listen now | More info | Pre-save | Save now | Share | Shop now | Sign up | Visit profile | Visit site | Watch now
+                    Technical Requirements
+                    Limit the ad to 250 characters (or 60-80 words for a 30-second ad).
+                    Use simple, real-life language without emojis.
+                    Keep everything lowercase.
+                    Creative Elements
+                    
+                    Examples of Good Ads
+                    Grammarly:
+                    "Want to write confidently, anywhere? Grammarly helps you communicate clearly with tone suggestions and real-time grammar fixes. Download Grammarly for free today and let your words shine!"
+                    Headspace:
+                    "Stressed out? Find your calm with Headspace. Guided meditations and mindfulness made simple. Start your free trial now and discover a healthier, happier you."
+                    Deliver a polished, user-centered ad script that adheres to the guidelines above and leaves a lasting impression on the listener.
+
+                    Don't use 'hey now' to start the ads! Start the ad with a question relating the product
+                
+response: 
+are you ready for a better audio experience? meet the echo dot (5th gen)! this smart speaker with alexa brings rich sound and smart home control right at your command. elevate your daily routine with voice ease. want to transform your home life? shop now!prompt: 
+                    Using the following data:
+                    User Profile:
+                    Clicked Ads:      Interaction_score             product_name product_category
+61                   2          Google Nest Hub      electronics
+369                  2           Theragun Elite          fitness
+621                  2  Standing Desk Converter           office
+766                  2     Coleman Sundome Tent          outdoor
+786                  2      North Face Backpack      accessories
+                    Converted Ads:      Interaction_score product_name product_category
+270                  4  Dell XPS 13      electronics
+542                  4  Dell XPS 13      electronics
+
+                    Top 5 Recommended Ads:
+                    [{"AdText":"Discover the amazing North Face Backpack from AccessoryHub! Perfect for all your accessories needs.","AdCategory":"accessories"},{"AdText":"Discover the amazing Coleman Sundome Tent from AdventureCo! Perfect for all your outdoor needs.","AdCategory":"outdoor"},{"AdText":"Discover the amazing Samsonite Spinner Luggage from AccessoryHub! Perfect for all your accessories needs.","AdCategory":"accessories"},{"AdText":"Discover the amazing Ray-Ban Aviator Sunglasses from AccessoryHub! Perfect for all your accessories needs.","AdCategory":"accessories"},{"AdText":"Discover the amazing Schwinn Mountain Bike from AdventureCo! Perfect for all your outdoor needs.","AdCategory":"outdoor"}]
+
+                    Create a personalized, engaging, and memorable audio ad tailored to the user's interaction history. Follow these instructions:
+                    Personalization
+                    Prioritize creating an ad for a complementary product related to a successfully converted item.
+                    Alternatively, create an ad for one of the top 5 ads the user clicked on.
+                    Speak directly to the listener in a conversational, relatable tone.
+                    Structure and Clarity
+                    Mention the brand or product immediately within the first sentence (max 25 characters for the name).
+                    Highlight the benefits and value proposition clearly and concisely.
+                    Conclude with a clear call-to-action (CTA):
+                    CTA options:
+                    Apply now | Book now | Buy now | Buy tickets | Click now | Download | Find stores | Get coupon | Get info | Learn more | Listen now | More info | Pre-save | Save now | Share | Shop now | Sign up | Visit profile | Visit site | Watch now
+                    Technical Requirements
+                    Limit the ad to 250 characters (or 60-80 words for a 30-second ad).
+                    Use simple, real-life language without emojis.
+                    Keep everything lowercase.
+                    Creative Elements
+                    
+                    Examples of Good Ads
+                    Grammarly:
+                    "Want to write confidently, anywhere? Grammarly helps you communicate clearly with tone suggestions and real-time grammar fixes. Download Grammarly for free today and let your words shine!"
+                    Headspace:
+                    "Stressed out? Find your calm with Headspace. Guided meditations and mindfulness made simple. Start your free trial now and discover a healthier, happier you."
+                    Deliver a polished, user-centered ad script that adheres to the guidelines above and leaves a lasting impression on the listener.
+
+                    Don't use 'hey now' to start the ads! Start the ad with a question relating the product
+                
+response: are you ready for adventure? discover the north face backpack! with rugged durability and spacious design, it's your perfect travel companion. built to withstand any trip, from city commutes to mountain hikes. shop now for ultimate style and functionality!prompt: 
+                    Using the following data:
+                    User Profile:
+                    Clicked Ads:      Interaction_score                    product_name product_category
+106                  2                      Galaxy S21      electronics
+115                  2            Lululemon Yoga Pants          fashion
+237                  2       Bose QuietComfort Earbuds      electronics
+615                  2       Bose QuietComfort Earbuds      electronics
+808                  2  Under Armour Compression Shirt          fitness
+963                  2     Keurig K-Elite Coffee Maker             home
+                    Converted Ads:      Interaction_score               product_name product_category
+312                  4       Weber Charcoal Grill             home
+434                  4               Air Force 1s          fashion
+742                  4      Patagonia Rain Jacket          outdoor
+761                  4             Theragun Elite          fitness
+956                  4  Samsonite Spinner Luggage      accessories
+
+                    Top 5 Recommended Ads:
+                    [{"AdText":"Discover the amazing Samsonite Spinner Luggage from AccessoryHub! Perfect for all your accessories needs.","AdCategory":"accessories"},{"AdText":"Discover the amazing Patagonia Rain Jacket from AdventureCo! Perfect for all your outdoor needs.","AdCategory":"outdoor"},{"AdText":"Discover the amazing Fossil Smartwatch from AccessoryHub! Perfect for all your accessories needs.","AdCategory":"accessories"},{"AdText":"Discover the amazing Ray-Ban Aviator Sunglasses from AccessoryHub! Perfect for all your accessories needs.","AdCategory":"accessories"},{"AdText":"Discover the amazing North Face Backpack from AccessoryHub! Perfect for all your accessories needs.","AdCategory":"accessories"}]
+
+                    Create a personalized, engaging, and memorable audio ad tailored to the user's interaction history. Follow these instructions:
+                    Personalization
+                    Prioritize creating an ad for a complementary product related to a successfully converted item.
+                    Alternatively, create an ad for one of the top 5 ads the user clicked on.
+                    Speak directly to the listener in a conversational, relatable tone.
+                    Structure and Clarity
+                    Mention the brand or product immediately within the first sentence (max 25 characters for the name).
+                    Highlight the benefits and value proposition clearly and concisely.
+                    Conclude with a clear call-to-action (CTA):
+                    CTA options:
+                    Apply now | Book now | Buy now | Buy tickets | Click now | Download | Find stores | Get coupon | Get info | Learn more | Listen now | More info | Pre-save | Save now | Share | Shop now | Sign up | Visit profile | Visit site | Watch now
+                    Technical Requirements
+                    Limit the ad to 250 characters (or 60-80 words for a 30-second ad).
+                    Use simple, real-life language without emojis.
+                    Keep everything lowercase.
+                    Creative Elements
+                    
+                    Examples of Good Ads
+                    Grammarly:
+                    "Want to write confidently, anywhere? Grammarly helps you communicate clearly with tone suggestions and real-time grammar fixes. Download Grammarly for free today and let your words shine!"
+                    Headspace:
+                    "Stressed out? Find your calm with Headspace. Guided meditations and mindfulness made simple. Start your free trial now and discover a healthier, happier you."
+                    Deliver a polished, user-centered ad script that adheres to the guidelines above and leaves a lasting impression on the listener.
+
+                    Don't use 'hey now' to start the ads! Start the ad with a question relating the product
+                
+response: 
+ever struggle with packing? meet samsonite spinner luggage from accessoryhub! glide through airports with ease, thanks to its smooth wheels and durable design. ready to elevate your travel game? shop now and experience hassle-free journeys!prompt: 
+                    Using the following data:
+                    User Profile:
+                    Clicked Ads:      Interaction_score        product_name product_category
+845                  2  Echo Dot (5th Gen)      electronics
+                    Converted Ads:      Interaction_score        product_name product_category
+725                  4  Echo Dot (5th Gen)      electronics
+
+                    Top 5 Recommended Ads:
+                    [{"AdText":"Discover the amazing Columbia Hiking Boots from AdventureCo! Perfect for all your outdoor needs.","AdCategory":"outdoor"},{"AdText":"Discover the amazing Samsonite Spinner Luggage from AccessoryHub! Perfect for all your accessories needs.","AdCategory":"accessories"},{"AdText":"Discover the amazing Columbia Rain Pants from AdventureCo! Perfect for all your outdoor needs.","AdCategory":"outdoor"},{"AdText":"Discover the amazing Osprey Hiking Backpack from AdventureCo! Perfect for all your outdoor needs.","AdCategory":"outdoor"},{"AdText":"Discover the amazing Patagonia Rain Jacket from AdventureCo! Perfect for all your outdoor needs.","AdCategory":"outdoor"}]
+
+                    Create a personalized, engaging, and memorable audio ad tailored to the user's interaction history. Follow these instructions:
+                    Personalization
+                    Prioritize creating an ad for a complementary product related to a successfully converted item.
+                    Alternatively, create an ad for one of the top 5 ads the user clicked on.
+                    Speak directly to the listener in a conversational, relatable tone.
+                    Structure and Clarity
+                    Mention the brand or product immediately within the first sentence (max 25 characters for the name).
+                    Highlight the benefits and value proposition clearly and concisely.
+                    Conclude with a clear call-to-action (CTA):
+                    CTA options:
+                    Apply now | Book now | Buy now | Buy tickets | Click now | Download | Find stores | Get coupon | Get info | Learn more | Listen now | More info | Pre-save | Save now | Share | Shop now | Sign up | Visit profile | Visit site | Watch now
+                    Technical Requirements
+                    Limit the ad to 250 characters (or 60-80 words for a 30-second ad).
+                    Use simple, real-life language without emojis.
+                    Keep everything lowercase.
+                    Creative Elements
+                    
+                    Examples of Good Ads
+                    Grammarly:
+                    "Want to write confidently, anywhere? Grammarly helps you communicate clearly with tone suggestions and real-time grammar fixes. Download Grammarly for free today and let your words shine!"
+                    Headspace:
+                    "Stressed out? Find your calm with Headspace. Guided meditations and mindfulness made simple. Start your free trial now and discover a healthier, happier you."
+                    Deliver a polished, user-centered ad script that adheres to the guidelines above and leaves a lasting impression on the listener.
+
+                    Don't use 'hey now' to start the ads! Start the ad with a question relating the product
+                
+response: 
+ever tried the echo dot? now meet its perfect companion, the philips hue! transform your living space with smart lighting and voice control. create the perfect mood in every room. elevate your home with style. shop now for a brighter, smarter future!prompt: 
+                    Using the following data:
+                    User Profile:
+                    Clicked Ads:      Interaction_score            product_name product_category
+27                   2   Nespresso Vertuo Plus             home
+79                   2             Dell XPS 13      electronics
+231                  2  Osprey Hiking Backpack          outdoor
+565                  2           GoPro Hero 11      electronics
+648                  2    Weber Charcoal Grill             home
+                    Converted Ads:      Interaction_score        product_name product_category
+693                  4  Echo Dot (5th Gen)      electronics
+735                  4  Nike Running Shoes          fitness
+885                  4      Theragun Elite          fitness
+
+                    Top 5 Recommended Ads:
+                    [{"AdText":"Discover the amazing Air Force 1s from TrendWear! Perfect for all your fashion needs.","AdCategory":"fashion"},{"AdText":"Discover the amazing Columbia Rain Pants from AdventureCo! Perfect for all your outdoor needs.","AdCategory":"outdoor"},{"AdText":"Discover the amazing Lululemon Yoga Pants from TrendWear! Perfect for all your fashion needs.","AdCategory":"fashion"},{"AdText":"Discover the amazing Weber Charcoal Grill from HomeStyle! Perfect for all your home needs.","AdCategory":"home"},{"AdText":"Discover the amazing Nespresso Vertuo Plus from HomeStyle! Perfect for all your home needs.","AdCategory":"home"}]
+
+                    Create a personalized, engaging, and memorable audio ad tailored to the user's interaction history. Follow these instructions:
+                    Personalization
+                    Prioritize creating an ad for a complementary product related to a successfully converted item.
+                    Alternatively, create an ad for one of the top 5 ads the user clicked on.
+                    Speak directly to the listener in a conversational, relatable tone.
+                    Structure and Clarity
+                    Mention the brand or product immediately within the first sentence (max 25 characters for the name).
+                    Highlight the benefits and value proposition clearly and concisely.
+                    Conclude with a clear call-to-action (CTA):
+                    CTA options:
+                    Apply now | Book now | Buy now | Buy tickets | Click now | Download | Find stores | Get coupon | Get info | Learn more | Listen now | More info | Pre-save | Save now | Share | Shop now | Sign up | Visit profile | Visit site | Watch now
+                    Technical Requirements
+                    Limit the ad to 250 characters (or 60-80 words for a 30-second ad).
+                    Use simple, real-life language without emojis.
+                    Keep everything lowercase.
+                    Creative Elements
+                    
+                    Examples of Good Ads
+                    Grammarly:
+                    "Want to write confidently, anywhere? Grammarly helps you communicate clearly with tone suggestions and real-time grammar fixes. Download Grammarly for free today and let your words shine!"
+                    Headspace:
+                    "Stressed out? Find your calm with Headspace. Guided meditations and mindfulness made simple. Start your free trial now and discover a healthier, happier you."
+                    Deliver a polished, user-centered ad script that adheres to the guidelines above and leaves a lasting impression on the listener.
+
+                    Don't use 'hey now' to start the ads! Start the ad with a question relating the product
+                
+response: 
+looking for the ultimate home experience? the nespresso vertuo plus from homestyle delivers rich, full-bodied coffee at the touch of a button. simplify your mornings with café-quality brews right at home. shop now and elevate your coffee routine today!
