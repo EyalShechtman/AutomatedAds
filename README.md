@@ -31,3 +31,4 @@ To generate and convert ads for a random user:
 python automateAd.py
 ```
 
+## EXAMPLE ###
