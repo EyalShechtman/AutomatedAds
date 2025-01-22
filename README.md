@@ -31,7 +31,7 @@ To generate and convert ads for a random user:
 python automateAd.py
 ```
 
-## EXAMPLE ###
+## EXAMPLE Ad###
 Or use the embedded player (may not display on GitHub):
 <audio controls> <source src="/generated_audio/1_Main_Example.mp3" type="audio/mpeg"> Your browser does not support the audio element. </audio>
 
