@@ -59,37 +59,60 @@ class AdAutomation:
         converted_ads = history['converted_ads']
 
         prompt = f"""
-                Below are the top 5 ads recommended for the user:
-                {ad_data}
+                    Using the following data:
+                    User Profile:
+                    Clicked Ads: {clicked_ads}
+                    Converted Ads: {converted_ads}
 
-                User interaction history:
-                - Clicked Ads: {clicked_ads}
-                - Converted Ads: {converted_ads}
+                    Top 5 Recommended Ads:
+                    {ad_data}
 
-                Considering the ads provided, pick the best one based on the user's interactions. 
-                Interaction_score is defined as follows: {{skipped: 0, impression: 1, click: 2, conversion: 4}}. 
-                
-                Create an ad for an accessory or complementary product to something the user has successfully converted, 
-                or generate an ad for one of the top 5 ads that the user clicked on, 
-                Make the ad engaging, persuasive, and exciting.
-                Don't use emojis, keep everything lowercase. LIMIT THE AD TO 200 characters!
-
-                Example of an ad:
-                Unlock your creative potential with Canva! Design stunning graphics, presentations, and social media posts with ease, 
-                even if you have no design experience. Our intuitive drag-and-drop interface, combined with a treasure trove of templates and elements, 
-                makes it simple to bring your ideas to life. Whether you're promoting your business, preparing for an event, or just want to share 
-                something fabulous with friends, Canva is your go-to design partner. Join millions of satisfied users and try Canva for free today—your masterpiece is just a click away!
+                    Create a personalized, engaging, and memorable audio ad tailored to the user's interaction history. Follow these instructions:
+                    Personalization
+                    Prioritize creating an ad for a complementary product related to a successfully converted item.
+                    Alternatively, create an ad for one of the top 5 ads the user clicked on.
+                    Speak directly to the listener in a conversational, relatable tone.
+                    Structure and Clarity
+                    Mention the brand or product immediately within the first sentence (max 25 characters for the name).
+                    Highlight the benefits and value proposition clearly and concisely.
+                    Conclude with a clear call-to-action (CTA):
+                    CTA options:
+                    Apply now | Book now | Buy now | Buy tickets | Click now | Download | Find stores | Get coupon | Get info | Learn more | Listen now | More info | Pre-save | Save now | Share | Shop now | Sign up | Visit profile | Visit site | Watch now
+                    Technical Requirements
+                    Limit the ad to 250 characters (or 60-80 words for a 30-second ad).
+                    Use simple, real-life language without emojis.
+                    Keep everything lowercase.
+                    Creative Elements
+                    
+                    Examples of Good Ads
+                    Grammarly:
+                    "Want to write confidently, anywhere? Grammarly helps you communicate clearly with tone suggestions and real-time grammar fixes. Download Grammarly for free today and let your words shine!"
+                    Headspace:
+                    "Stressed out? Find your calm with Headspace. Guided meditations and mindfulness made simple. Start your free trial now and discover a healthier, happier you."
+                    Deliver a polished, user-centered ad script that adheres to the guidelines above and leaves a lasting impression on the listener.
                 """
         
         completion = client.chat.completions.create(
-            model = 'gpt-4o-mini',
+            model = 'gpt-4o',
             messages=[
-                {"role": "system", "content": "You are an ad creator for spotify, this ad will be put into speech to text, so be energetic."},
+                {"role": "system", "content": """
+                    You are an expert audio ad creator for Spotify. Your task is to craft short, engaging, and persuasive ad scripts that will be converted into speech. 
+                    These ads must sound conversational, energetic, and tailored to the listener's preferences and interaction history.
+                    Follow these rules:
+                    Mention the brand or product name within the first sentence.
+                    Highlight the key benefits or value of the product.
+                    Conclude with a clear call-to-action from the provided options.
+                    Limit the script to 200 characters and keep everything lowercase.
+                    Focus on making the ad:
+                    Memorable, easy to understand, and impactful.
+                    Authentic and enthusiastic, leaving a lasting impression on the listener.
+                 """},
                 {
                     "role": "user",
                     "content": prompt
                 }
-            ]
+            ],
+            temperature=0.6
         )
 
         response_content = completion.choices[0].message.content
@@ -174,7 +197,8 @@ class AdAutomation:
         print(user_id, device_type)
         ad_rec = Similar_Users().recommend_ads(user_id, device_type)
         ad_response = self.automate_ad(ad_rec, user_id)
-        self.text_to_speech(ad_response, user_id)
+        print(ad_response)
+        # self.text_to_speech(ad_response, user_id)
 
 
 # Example usage
