@@ -33,6 +33,6 @@ python automateAd.py
 
 ## EXAMPLE ###
 Or use the embedded player (may not display on GitHub):
-<audio controls> <source src="generated_audio/1_Main_Example.mp3" type="audio/mpeg"> Your browser does not support the audio element. </audio>
+<audio controls> <source src="/generated_audio/1_Main_Example.mp3" type="audio/mpeg"> Your browser does not support the audio element. </audio>
 
-[Download the audio file] (generated_audio/1_Main_Example.mp3)
+[Download the audio file](/generated_audio/1_Main_Example.mp3)
