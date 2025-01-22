@@ -32,3 +32,8 @@ python automateAd.py
 ```
 
 ## EXAMPLE ###
+Or use the embedded player (may not display on GitHub):
+<audio controls>
+  <source src="./generated_audio/WithBackgroundoutput_audio_1_20250106223106.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
