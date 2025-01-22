@@ -18,7 +18,7 @@ class AdAutomation:
 
     def get_user_history(self, user_id):
         """
-        Retrieve user history based on user_id from events_df.
+        Retrieve user histx ory based on user_id from events_df.
         :param user_id: ID of the user
         :return: Dictionary containing user interaction history
         """
